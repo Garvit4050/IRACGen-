@@ -1,0 +1,67 @@
+QUERY: What must an employee prove to establish age discrimination when the employer provides a legitimate reason for termination?
+============================================================
+
+LEGAL MEMORANDUM
+
+============================================================
+
+ISSUE
+------------------------------------------------------------
+
+In the context of employment law, specifically the Age Discrimination in Employment Act (ADEA), the issue at hand is whether an employee, such as Percy Green (McDonnell Douglas Corp. v. Green, 411 U.S. 792, 1973) or William Biggins (Hazen Paper Co. v. Biggins, 507 U.S. 604, 1993), must prove that age discrimination was the motivating factor in their termination, even when the employer provides a legitimate reason for the termination. The question is framed within the burden-shifting framework established by the McDonnell Douglas Corp. v. Green case, where an employee initially establishes a prima facie case of discrimination, and the employer then has the opportunity to offer a legitimate non-discriminatory reason for the termination. The issue revolves around the standard that the employee must meet to establish age discrimination when the employer provides a legitimate reason for termination.
+
+============================================================
+
+RULE
+------------------------------------------------------------
+
+In the context of employment law, specifically the Age Discrimination in Employment Act (ADEA), the following rules apply:
+
+1. McDonnell Douglas Corp. v. Green (1973) established a burden-shifting framework for proving discrimination. Initially, an employee must establish a prima facie case of discrimination by demonstrating that they belong to a protected class, were qualified for the job, suffered an adverse employment action, and that the position was filled by a person outside the protected class or the employee was treated less favorably.
+
+2. In Hazen Paper Co. v. Biggins (1993), the Supreme Court held that an employee who establishes a prima facie case under the McDonnell Douglas framework may, upon the employer's rebuttal, still have the burden of proving that age discrimination was the motivating factor in the adverse employment action.
+
+3. Reeves v. Sanderson Plumbing Products, Inc. (2000) clarified that the burden of proof shifts back to the employer once the employee has presented a prima facie case. The employer must then articulate a legitimate, non-discriminatory reason for the adverse employment action. If the employer meets this burden, the burden shifts back to the employee to prove that the employer's stated reason is a pretext for discrimination.
+
+4. Burlington Industries, Inc. v. Ellerth (1998) and Oncale v. Sundowner Offshore Services, Inc. (1998) are relevant in the context of sexual harassment under Title VII. Ellerth established that employers can be held liable for sexual harassment by a supervisor, while Oncale extended this liability to same-sex harassment in hostile work environment cases.
+
+Exceptions and Limitations:
+The burden of proof may shift differently depending on the specific circumstances of each case, and the above rules may not apply in cases where the employer can demonstrate that the adverse employment action was based on a factor other than discrimination. Additionally, these rules may not apply in cases where the employee cannot establish a prima facie case, or where the employer can demonstrate that the adverse employment action was based on a legitimate, non-discriminatory reason.
+
+============================================================
+
+ANALYSIS
+------------------------------------------------------------
+
+In the context of the Age Discrimination in Employment Act (ADEA), the cases of Percy Green, William Biggins, Roger Reeves, Kimberly Ellerth, and Joseph Oncale provide insightful precedents that help shape the burden of proof in discrimination cases.
+
+Here, we will analyze each case under the McDonnell Douglas Corp. v. Green burden-shifting framework, which establishes the initial steps for an employee to prove discrimination. First, the employee must demonstrate membership in a protected class, qualification for the job, an adverse employment action, and evidence that the position was filled by a person outside the protected class or the employee was treated less favorably.
+
+In McDonnell Douglas Corp. v. Green (1973), Percy Green, an African American, was laid off as part of a workforce reduction. Green engaged in protests against the company, and later, McDonnell Douglas advertised for mechanics, but Green was not rehired. Green established a prima facie case of discrimination, as he belonged to a protected class, was qualified for the job, suffered an adverse employment action, and was replaced by individuals outside his protected class.
+
+Similarly to Green, William Biggins, in Hazen Paper Co. v. Biggins (1993), was a 62-year-old employee who was terminated shortly before his pension benefits vested. Biggins established a prima facie case, and upon the employer's rebuttal, he still had the burden of proving that age discrimination was the motivating factor in the adverse employment action.
+
+Roger Reeves, in Reeves v. Sanderson Plumbing Products, Inc. (2000), was a 57-year-old supervisor who was terminated after a performance review. Reeves presented a prima facie case, and the burden shifted to the employer to articulate a legitimate, non-discriminatory reason for the adverse employment action. If the employer met this burden, the burden shifted back to Reeves to prove that the employer's stated reason was a pretext for discrimination.
+
+In Burlington Industries, Inc. v. Ellerth (1998) and Oncale v. Sundowner Offshore Services, Inc. (1998), the Supreme Court addressed sexual harassment under Title VII. Ellerth established that employers can be held liable for sexual harassment by a supervisor, while Oncale extended this liability to same-sex harassment in hostile work environment cases. These cases, however, do not directly apply to the ADEA burden-shifting framework discussed here.
+
+Addressing the strongest counterargument, it is important to note that the burden of proof may shift differently depending on the specific circumstances of each case. The employer may demonstrate that the adverse employment action was based on a factor other than discrimination, or the employee may not be able to establish a prima facie case. In such cases, the burden of proof may not follow the McDonnell Douglas framework as strictly.
+
+In conclusion, the cases of Percy Green, William Biggins, and Roger Reeves provide valuable precedents for the burden of proof in ADEA discrimination cases. The McDonnell Douglas Corp. v. Green framework establishes the initial steps for an employee to prove discrimination, but the burden of proof may shift differently depending on the specific circumstances of each case. Employers can be held liable for sexual harassment under Title VII, as established in Burlington Industries, Inc. v. Ellerth and Oncale v. Sundowner Offshore Services, Inc., but these cases do not directly apply to the ADEA burden-shifting framework discussed here.
+
+============================================================
+
+CONCLUSION
+------------------------------------------------------------
+
+In the analysis of the burden of proof in Age Discrimination in Employment Act (ADEA) discrimination cases, the McDonnell Douglas Corp. v. Green framework serves as a foundational guide for an employee to initiate a claim. However, the burden of proof may shift differently based on the unique circumstances of each case, as demonstrated by the decisions in William Biggins and Roger Reeves.
+
+Employers can be held liable for sexual harassment under Title VII, as established in Burlington Industries, Inc. v. Ellerth and Oncale v. Sundowner Offshore Services, Inc., but these cases do not directly apply to the ADEA burden-shifting framework.
+
+Given the aforementioned precedents, it is likely that a court would find that an employee, in an ADEA discrimination case, must initially establish a prima facie case. If the employee successfully demonstrates a prima facie case, the burden of proof shifts to the employer to articulate a legitimate, nondiscriminatory reason for the adverse employment action. The employee then has the opportunity to demonstrate that the employer's proffered reason is merely a pretext for age discrimination.
+
+However, it is important to note that the specific burden of proof may vary depending on the particular facts and circumstances of each case. For instance, if the employer can demonstrate that it took reasonable steps to prevent and correct any age discrimination, the burden of proof may shift back to the employee to demonstrate that the employer's actions were insufficient to address the discrimination.
+
+In conclusion, while the McDonnell Douglas Corp. v. Green framework provides a general guide for the burden of proof in ADEA discrimination cases, the specific burden of proof may shift based on the unique circumstances of each case. It is probable that a court would find that an employee must initially establish a prima facie case, and the employer would then have the burden to prove a legitimate, nondiscriminatory reason for the adverse employment action. However, genuine uncertainties may arise in cases where the employer has taken reasonable steps to prevent and correct any age discrimination.
+
+============================================================

@@ -1,0 +1,24 @@
+Case Name: Lucy v. Zehmer
+Citation: 196 Va. 493 (1954)
+Court: Supreme Court of Virginia
+
+FACTS:
+Zehmer wrote agreement to sell farm to Lucy for $50,000 while drinking at restaurant. Zehmer claimed it was a joke. Lucy sought specific performance.
+
+ISSUE:
+Is a contract formed when one party claims he was joking?
+
+HOLDING:
+Contract is formed if reasonable person would believe offer was serious, regardless of secret subjective intent.
+
+REASONING:
+Mental assent of parties is not requisite for contract formation. If words and acts, judged by reasonable standard, manifest intention to agree, it is immaterial what may be real but unexpressed state of mind.
+
+LEGAL PRINCIPLES:
+1. Objective theory of contracts
+2. Reasonable person standard for contract formation
+3. Secret intent irrelevant
+4. Outward expression controls over inward intention
+
+SIGNIFICANCE:
+This case is a landmark precedent in its area of law and is regularly cited in legal analysis and court decisions.

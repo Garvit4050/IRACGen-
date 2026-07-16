@@ -1,0 +1,73 @@
+query_id,query,approach,citation_accuracy,irac_compliance,hallucination_rate,total_citations,correct_citations,hallucinated_citations
+1,Can an employer be held liable for a supervisor's sexual harassment if the emplo,zero_shot,0.5,0.75,0.5,4,2,2
+1,Can an employer be held liable for a supervisor's sexual harassment if the emplo,naive_rag,1.0,1.0,0.0,5,5,0
+1,Can an employer be held liable for a supervisor's sexual harassment if the emplo,legalrag,1.0,1.0,0.0,12,12,0
+2,Does Title VII protect employees from same-sex sexual harassment in the workplac,zero_shot,1.0,1.0,0.0,3,3,0
+2,Does Title VII protect employees from same-sex sexual harassment in the workplac,naive_rag,1.0,0.75,0.0,3,3,0
+2,Does Title VII protect employees from same-sex sexual harassment in the workplac,legalrag,1.0,1.0,0.0,2,2,0
+3,What standard must be met to prove a hostile work environment under Title VII?,zero_shot,0.6666666666666666,0.75,0.3333333333333333,6,4,2
+3,What standard must be met to prove a hostile work environment under Title VII?,naive_rag,1.0,0.75,0.0,3,3,0
+3,What standard must be met to prove a hostile work environment under Title VII?,legalrag,1.0,1.0,0.0,9,9,0
+4,Can an employer terminate an employee to prevent pension benefits from vesting w,zero_shot,0.0,0.75,1.0,2,0,2
+4,Can an employer terminate an employee to prevent pension benefits from vesting w,naive_rag,1.0,0.75,0.0,2,2,0
+4,Can an employer terminate an employee to prevent pension benefits from vesting w,legalrag,1.0,1.0,0.0,9,9,0
+5,What must an employee prove to establish age discrimination when the employer pr,zero_shot,0.5,1.0,0.5,4,2,2
+5,What must an employee prove to establish age discrimination when the employer pr,naive_rag,1.0,0.75,0.0,2,2,0
+5,What must an employee prove to establish age discrimination when the employer pr,legalrag,1.0,1.0,0.0,9,9,0
+6,Must an employer accommodate an employee's religious practices if it conflicts w,zero_shot,0.5,0.75,0.5,2,1,1
+6,Must an employer accommodate an employee's religious practices if it conflicts w,naive_rag,1.0,1.0,0.0,6,6,0
+6,Must an employer accommodate an employee's religious practices if it conflicts w,legalrag,1.0,1.0,0.0,5,5,0
+7,When does an employee's constructive discharge constitute a tangible employment ,zero_shot,0.0,0.75,0.0,0,0,0
+7,When does an employee's constructive discharge constitute a tangible employment ,naive_rag,1.0,0.75,0.0,7,7,0
+7,When does an employee's constructive discharge constitute a tangible employment ,legalrag,1.0,1.0,0.0,13,13,0
+8,When can a party recover consequential damages for breach of contract?,zero_shot,0.5,1.0,0.5,4,2,2
+8,When can a party recover consequential damages for breach of contract?,naive_rag,1.0,0.75,0.0,8,8,0
+8,When can a party recover consequential damages for breach of contract?,legalrag,0.9,1.0,0.1,10,9,1
+9,Is a contract formed when one party claims they were joking but a reasonable per,zero_shot,0.0,1.0,1.0,3,0,3
+9,Is a contract formed when one party claims they were joking but a reasonable per,naive_rag,1.0,1.0,0.0,5,5,0
+9,Is a contract formed when one party claims they were joking but a reasonable per,legalrag,1.0,1.0,0.0,8,8,0
+10,Under what circumstances is a contract unconscionable and therefore unenforceabl,zero_shot,0.0,1.0,1.0,3,0,3
+10,Under what circumstances is a contract unconscionable and therefore unenforceabl,naive_rag,1.0,0.75,0.0,5,5,0
+10,Under what circumstances is a contract unconscionable and therefore unenforceabl,legalrag,1.0,1.0,0.0,12,12,0
+11,Can a contract be void due to mutual mistake when both parties had different und,zero_shot,0.5,1.0,0.5,2,1,1
+11,Can a contract be void due to mutual mistake when both parties had different und,naive_rag,0.9,0.75,0.1,10,9,1
+11,Can a contract be void due to mutual mistake when both parties had different und,legalrag,1.0,1.0,0.0,9,9,0
+12,What is the substantial performance doctrine and when does it allow recovery des,zero_shot,0.0,0.75,0.0,0,0,0
+12,What is the substantial performance doctrine and when does it allow recovery des,naive_rag,1.0,0.75,0.0,4,4,0
+12,What is the substantial performance doctrine and when does it allow recovery des,legalrag,1.0,1.0,0.0,7,7,0
+13,When does an advertisement constitute a legally binding offer rather than an inv,zero_shot,0.0,0.75,1.0,3,0,3
+13,When does an advertisement constitute a legally binding offer rather than an inv,naive_rag,1.0,0.5,0.0,3,3,0
+13,When does an advertisement constitute a legally binding offer rather than an inv,legalrag,1.0,1.0,0.0,4,4,0
+14,How do courts interpret ambiguous contract terms when parties disagree on their ,zero_shot,0.0,0.75,1.0,1,0,1
+14,How do courts interpret ambiguous contract terms when parties disagree on their ,naive_rag,1.0,0.75,0.0,8,8,0
+14,How do courts interpret ambiguous contract terms when parties disagree on their ,legalrag,1.0,1.0,0.0,6,6,0
+15,What is the zone of danger rule and when does a plaintiff fall outside the scope,zero_shot,0.3333333333333333,1.0,0.6666666666666666,6,2,4
+15,What is the zone of danger rule and when does a plaintiff fall outside the scope,naive_rag,1.0,0.75,0.0,5,5,0
+15,What is the zone of danger rule and when does a plaintiff fall outside the scope,legalrag,1.0,1.0,0.0,4,4,0
+16,Under what circumstances can a manufacturer be held liable for defects in produc,zero_shot,0.0,0.75,0.0,0,0,0
+16,Under what circumstances can a manufacturer be held liable for defects in produc,naive_rag,0.0,0.75,0.0,0,0,0
+16,Under what circumstances can a manufacturer be held liable for defects in produc,legalrag,0.9090909090909091,1.0,0.09090909090909091,11,10,1
+17,When can multiple defendants be held jointly liable when it cannot be determined,zero_shot,0.75,1.0,0.25,4,3,1
+17,When can multiple defendants be held jointly liable when it cannot be determined,naive_rag,1.0,0.5,0.0,1,1,0
+17,When can multiple defendants be held jointly liable when it cannot be determined,legalrag,0.8333333333333334,1.0,0.16666666666666666,6,5,1
+18,What is market share liability and when does it apply to defective products from,zero_shot,0.0,0.75,0.0,0,0,0
+18,What is market share liability and when does it apply to defective products from,naive_rag,1.0,0.5,0.0,12,12,0
+18,What is market share liability and when does it apply to defective products from,legalrag,1.0,1.0,0.0,8,8,0
+20,What is the reasonable person standard in negligence and how is it applied?,zero_shot,0.0,0.5,0.0,0,0,0
+20,What is the reasonable person standard in negligence and how is it applied?,naive_rag,1.0,0.75,0.0,4,4,0
+20,What is the reasonable person standard in negligence and how is it applied?,legalrag,1.0,1.0,0.0,25,25,0
+21,What warnings must police give to suspects before custodial interrogation and wh,zero_shot,0.2,1.0,0.8,5,1,4
+21,What warnings must police give to suspects before custodial interrogation and wh,naive_rag,1.0,0.75,0.0,9,9,0
+21,What warnings must police give to suspects before custodial interrogation and wh,legalrag,1.0,1.0,0.0,18,18,0
+22,Under what circumstances can police conduct a stop and frisk without probable ca,zero_shot,1.0,1.0,0.0,3,3,0
+22,Under what circumstances can police conduct a stop and frisk without probable ca,naive_rag,1.0,0.75,0.0,2,2,0
+22,Under what circumstances can police conduct a stop and frisk without probable ca,legalrag,1.0,1.0,0.0,12,12,0
+23,Is evidence obtained through an illegal search and seizure admissible in state c,zero_shot,0.6,1.0,0.4,5,3,2
+23,Is evidence obtained through an illegal search and seizure admissible in state c,naive_rag,0.625,1.0,0.375,8,5,3
+23,Is evidence obtained through an illegal search and seizure admissible in state c,legalrag,1.0,1.0,0.0,13,13,0
+24,What constitutes a search under the Fourth Amendment when government agents use ,zero_shot,0.5,1.0,0.5,8,4,4
+24,What constitutes a search under the Fourth Amendment when government agents use ,naive_rag,1.0,1.0,0.0,6,6,0
+24,What constitutes a search under the Fourth Amendment when government agents use ,legalrag,1.0,1.0,0.0,11,11,0
+25,When can police use deadly force against a fleeing suspect and what standard gov,zero_shot,0.3333333333333333,1.0,0.6666666666666666,3,1,2
+25,When can police use deadly force against a fleeing suspect and what standard gov,naive_rag,1.0,0.75,0.0,7,7,0
+25,When can police use deadly force against a fleeing suspect and what standard gov,legalrag,1.0,1.0,0.0,14,14,0

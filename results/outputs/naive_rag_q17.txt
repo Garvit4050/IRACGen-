@@ -1,0 +1,38 @@
+QUERY: When can multiple defendants be held jointly liable when it cannot be determined which one caused the plaintiff's injury?
+============================================================
+
+ Title: Joint Liability Among Multiple Defendants in Tort and Contract Cases
+
+I. Introduction
+
+This memorandum aims to analyze the principles of joint liability among multiple defendants in tort and contract cases, as derived from the following relevant legal precedents: Carlill v. Carbolic Smoke Ball Company [1893] 1 Q.B. 256 (C.A.), Jacob & Youngs, Inc. v. Kent, 230 N.Y. 239, 129 N.E. 889 (N.Y. 1921), Frigaliment Importing Co. v. B.N.S. International Sales Corp., 190 F. Supp. 116 (S.D.N.Y. 1960), Lefkowitz v. Great Minneapolis Surplus Store, Inc., 251 Minn. 188, 86 N.W.2d 689 (Minn. 1957), and Summers v. Tice, 33 Cal. 2d 80, 199 P.2d 1 (Cal. 1948).
+
+II. Analysis
+
+A. Contract Law
+
+1. Carlill v. Carbolic Smoke Ball Company [1893] 1 Q.B. 256 (C.A.)
+
+In this case, the Court of Appeal of England established the principle that a unilateral contract is formed when an offeror makes an offer that specifies the acts required to be performed by the offeree and the reward for such performance. The offeree's acceptance of the offer need not be express but must be demonstrated by the offeree's performance of the specified acts.
+
+2. Frigaliment Importing Co. v. B.N.S. International Sales Corp., 190 F. Supp. 116 (S.D.N.Y. 1960)
+
+This case illustrates the interpretation of contracts, particularly when ambiguities arise. The court held that ambiguities in a contract should be resolved in favor of the party who did not draft the contract, and trade usages should be considered when interpreting the contract.
+
+3. Lefkowitz v. Great Minneapolis Surplus Store, Inc., 251 Minn. 188, 86 N.W.2d 689 (Minn. 1957)
+
+This case demonstrates that advertisements can constitute offers in contract law, and the offeree's acceptance can be implied by their actions, such as purchasing the advertised item.
+
+B. Tort Law
+
+1. Summers v. Tice, 33 Cal. 2d 80, 199 P.2d 1 (Cal. 1948)
+
+In this case, the Supreme Court of California established the principle of alternative liability in negligence cases, where multiple defendants can be held liable if their actions, individually or collectively, caused the plaintiff's injury, and it cannot be determined which defendant caused the injury.
+
+C. Joint Liability in Absence of Determining the Causing Defendant
+
+Combining the principles from the above cases, it can be inferred that in both contract and tort cases, multiple defendants can be held jointly liable when it cannot be determined which defendant caused the plaintiff's injury or loss. In contract cases, this can occur when the defendants' performances collectively fulfill the contractual obligations, as in Carlill and Lefkowitz. In tort cases, this can occur when the defendants' actions, individually or collectively, cause the plaintiff's injury, as in Summers.
+
+III. Conclusion
+
+The legal precedents analyzed demonstrate that joint liability among multiple defendants can be established in both contract and tort cases, even when it cannot be determined which defendant caused the plaintiff's injury or loss. This principle is based on the interpretation of contracts, the formation of unilateral contracts, the role of advertisements in contract law, and the concept of alternative liability in negligence cases. Understanding these principles is crucial for legal practitioners in determining liability and pursuing or defending claims in such cases.

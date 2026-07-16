@@ -1,0 +1,24 @@
+Case Name: Hadley v. Baxendale
+Citation: 9 Ex. 341 (1854)
+Court: Court of Exchequer (England)
+
+FACTS:
+Hadley's mill was stopped by broken crankshaft. Hadley hired Baxendale to transport broken shaft to manufacturer to make replacement. Baxendale delayed delivery. Hadley sued for lost profits during delay.
+
+ISSUE:
+What damages are recoverable for breach of contract?
+
+HOLDING:
+Damages must be reasonably foreseeable as probable result of breach at time contract was made.
+
+REASONING:
+Damages should be such as may fairly and reasonably be considered arising naturally from breach, or such as may reasonably be supposed to have been in contemplation of both parties at contract formation.
+
+LEGAL PRINCIPLES:
+1. Foreseeability rule for contract damages
+2. Two types: (1) arising naturally, (2) in parties' contemplation
+3. Special circumstances must be communicated
+4. Limits recoverable consequential damages
+
+SIGNIFICANCE:
+This case is a landmark precedent in its area of law and is regularly cited in legal analysis and court decisions.

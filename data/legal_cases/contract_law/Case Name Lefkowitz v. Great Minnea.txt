@@ -1,0 +1,61 @@
+Case Name: Lefkowitz v. Great Minneapolis Surplus Store, Inc.
+Citation: 251 Minn. 188, 86 N.W.2d 689 (Minn. 1957)
+Court: Supreme Court of Minnesota
+Year: 1957
+Area: Contract Law (Offer and Acceptance / Advertisements)
+
+---
+
+FACTS:
+
+The Great Minneapolis Surplus Store published a newspaper advertisement offering specific items for sale on a “first come, first served” basis. One advertisement stated: “Saturday 9 A.M. Sharp, 3 Brand New Fur Coats, Worth to $100.00, First Come First Served, $1 Each.” Morris Lefkowitz was the first person to arrive at the store on Saturday morning and offered $1 for one of the fur coats. The store refused to sell the coat to him, claiming that the offer was intended for women only, even though the advertisement did not specify such a limitation.
+
+The following week, the store ran a similar advertisement for a black lapin stole, again stating “First Come First Served, $1.” Lefkowitz was again the first to appear and offered to purchase the item for $1. The store again refused to sell, citing an internal “house rule” that the offer was limited to women.
+
+Lefkowitz sued for breach of contract, seeking damages equal to the difference between the market value of the items and the advertised price. The trial court ruled in his favor, awarding damages. The store appealed to the Minnesota Supreme Court.
+
+---
+
+ISSUE:
+
+Whether a newspaper advertisement constitutes a legally binding offer when it is clear, definite, and explicit, leaving nothing open for negotiation, and whether a seller may impose additional conditions not stated in the advertisement after acceptance.
+
+---
+
+HOLDING:
+
+The Minnesota Supreme Court held that the advertisement constituted a valid and enforceable offer because it was clear, definite, and explicit, and left nothing open for negotiation. Lefkowitz’s appearance as the first customer and offer of $1 constituted acceptance. The store could not impose additional conditions not stated in the advertisement. The court affirmed the judgment in favor of Lefkowitz.
+
+---
+
+REASONING:
+
+The court began by recognizing the general rule that advertisements are typically invitations to negotiate rather than binding offers. However, this rule is not absolute. When an advertisement is clear, definite, and explicit, and leaves nothing open for further negotiation, it may constitute a binding offer.
+
+In this case, the advertisement specified the exact items for sale, the price ($1), the quantity available (three fur coats), and the method of acceptance (“First Come First Served”). These terms were sufficiently definite to create a contractual obligation upon performance of the stated condition.
+
+The court emphasized that Lefkowitz complied with the terms of the offer by being the first to arrive and tendering the required payment. At that moment, a contract was formed. The store’s attempt to introduce a “house rule” limiting the offer to women was ineffective because such a condition was not included in the advertisement. An offeror cannot modify or add new conditions after acceptance has occurred.
+
+The decision reinforced the objective theory of contracts, under which contractual intent is determined by outward expressions rather than undisclosed subjective intentions. The store’s internal policy was irrelevant because it was not communicated to the public.
+
+The court also addressed the remedy, holding that damages should reflect the difference between the market value of the item and the contract price, placing the plaintiff in the position he would have occupied had the contract been performed.
+
+This case is a leading authority on when advertisements can constitute binding offers and illustrates the importance of definiteness in contract formation.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Advertisements as Offers: An advertisement may constitute a binding offer if it is clear, definite, explicit, and leaves nothing open for negotiation.
+2. Objective Theory of Contracts: Contractual obligations are based on outward manifestations, not undisclosed intentions.
+3. No Post-Acceptance Modification: An offeror cannot impose additional conditions after acceptance has occurred.
+4. Expectation Damages: Damages are measured by the difference between market value and contract price.
+
+---
+
+KEY QUOTES:
+
+“Where the offer is clear, definite, and explicit, and leaves nothing open for negotiation, it constitutes an offer, acceptance of which will complete the contract.”
+
+“The defendant cannot, after acceptance, impose new or arbitrary conditions not contained in the published offer.”
+

@@ -1,0 +1,61 @@
+Case Name: Tarasoff v. Regents of the University of California
+Citation: 17 Cal. 3d 425, 551 P.2d 334 (Cal. 1976)
+Court: Supreme Court of California
+Year: 1976
+Area: Tort Law (Duty to Warn / Professional Liability / Negligence)
+
+---
+
+FACTS:
+
+Prosenjit Poddar was a graduate student at the University of California, Berkeley. He became romantically obsessed with Tatiana Tarasoff. After Tarasoff rejected his advances, Poddar experienced severe emotional distress and confided in Dr. Lawrence Moore, a psychologist employed by the university’s Cowell Memorial Hospital. During therapy sessions, Poddar expressed his intention to kill Tarasoff.
+
+Dr. Moore concluded that Poddar posed a serious danger to Tarasoff and notified campus police, requesting that Poddar be detained. The police briefly detained Poddar but released him after he appeared rational and promised to stay away from Tarasoff. Dr. Moore’s supervisor instructed him to take no further action, and no warning was given to Tarasoff or her family.
+
+Two months later, Poddar fatally stabbed Tatiana Tarasoff. Her parents filed a wrongful death action against the Regents of the University of California, the therapists, and campus police, alleging negligence for failing to warn their daughter of the foreseeable danger.
+
+The trial court dismissed the complaint. The California Court of Appeal reinstated the action, and the case proceeded to the California Supreme Court.
+
+---
+
+ISSUE:
+
+Whether a psychotherapist has a duty to warn an identifiable third party when the therapist determines, or should determine, that a patient poses a serious danger of violence to that person.
+
+---
+
+HOLDING:
+
+The Supreme Court of California held that when a therapist determines, or reasonably should determine, that a patient poses a serious danger of violence to another, the therapist has a duty to exercise reasonable care to protect the foreseeable victim. This duty may include warning the potential victim, notifying law enforcement, or taking other reasonable protective steps. The court reversed the dismissal and remanded the case for further proceedings.
+
+---
+
+REASONING:
+
+Justice Tobriner delivered the majority opinion. The court recognized that under general negligence principles, a duty arises when a special relationship exists between parties and harm to a third party is foreseeable. The therapist-patient relationship constituted such a special relationship, giving the therapist some degree of control and responsibility regarding the patient’s dangerous conduct.
+
+The court balanced competing policy concerns: patient confidentiality versus public safety. While confidentiality is vital to effective psychotherapy, it is not absolute. The court emphasized that “the protective privilege ends where the public peril begins.” When a therapist becomes aware of a credible threat against an identifiable victim, the foreseeability of harm creates a duty to act.
+
+The court rejected the argument that therapists should not be burdened with predicting dangerousness. Instead, it required only reasonable care under the circumstances. The duty is not to guarantee safety but to take reasonable steps when danger is apparent.
+
+The court limited its ruling to situations involving identifiable victims and credible threats, distinguishing broader claims of general public danger. It also clarified that the appropriate response depends on the circumstances and may include warning the victim, notifying police, or arranging for hospitalization.
+
+Tarasoff significantly expanded tort liability by imposing an affirmative duty to protect third parties based on foreseeability and special relationships. The decision influenced legislation and case law nationwide, though some jurisdictions later modified or limited its scope.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Duty to Warn Doctrine: Mental health professionals have a duty to protect identifiable victims from foreseeable threats made by patients.
+2. Special Relationship Exception: A duty to control or warn arises when a special relationship exists between defendant and dangerous individual.
+3. Foreseeability Standard: Liability depends on whether the therapist knew or should have known of a serious risk.
+4. Confidentiality Limitation: Professional confidentiality yields when necessary to prevent serious harm.
+
+---
+
+KEY QUOTES:
+
+“The protective privilege ends where the public peril begins.”
+
+“When a therapist determines, or pursuant to the standards of his profession should determine, that his patient presents a serious danger of violence to another, he incurs an obligation to use reasonable care to protect the intended victim.”
+

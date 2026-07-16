@@ -1,0 +1,44 @@
+QUERY: What must an employee prove to establish age discrimination when the employer provides a legitimate reason for termination?
+============================================================
+
+ Title: Age Discrimination in Employment Act (ADEA) Claims: Proving Age Discrimination Where Legitimate Reasons for Termination Exist
+
+I. Issue
+
+The issue at hand concerns the requirements for an employee to establish a claim of age discrimination under the Age Discrimination in Employment Act (ADEA), 29 U.S.C. § 621 et seq., when the employer provides a legitimate reason for termination.
+
+II. Rule
+
+1. The ADEA prohibits employers from discriminating against employees who are 40 years of age or older based on their age in any aspect of employment, including hiring, firing, pay, and benefits. 29 U.S.C. § 623(a)(1).
+
+2. To establish a claim of age discrimination, an employee must prove that (1) they are protected under the ADEA, (2) they were qualified for the position, (3) they suffered an adverse employment action, (4) they were replaced by a younger individual, and (5) the employer's stated reason for the adverse action is a pretext for age discrimination.
+
+3. However, when an employer provides a legitimate, nondiscriminatory reason for the adverse action, the employee must demonstrate that the reason is a mere pretext for age discrimination.
+
+4. To prove pretext, the employee can use direct evidence, circumstantial evidence, or a mixed method of both. Direct evidence is evidence that explicitly demonstrates age discrimination, while circumstantial evidence is indirect evidence that, when combined, suggests that age discrimination was a factor in the adverse action.
+
+III. Analysis
+
+A. Direct Evidence
+
+Direct evidence of age discrimination includes statements by the employer that explicitly reference the employee's age or evidence that the employer treats older employees less favorably than younger employees. For example, in McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973), the Court held that a supervisor's statement that the plaintiff was too old to learn new computer skills constituted direct evidence of age discrimination.
+
+B. Circumstantial Evidence
+
+1. The McDonnell Douglas Shift Burden Framework
+
+In McDonnell Douglas Corp. v. Green, the Supreme Court established a burden-shifting framework for proving age discrimination. Initially, the employee must establish a prima facie case of age discrimination by demonstrating that (1) they are within the protected age group, (2) they were qualified for the position, (3) they suffered an adverse employment action, and (4) they were replaced by a younger individual or that the employer treated them less favorably than younger employees. If the employee establishes a prima facie case, the burden shifts to the employer to articulate a legitimate, nondiscriminatory reason for the adverse action.
+
+2. Proving Pretext
+
+If the employer offers a legitimate reason for the adverse action, the employee must then prove that the reason is a mere pretext for age discrimination. This can be done by showing that the employer's proffered reason is implausible, that the employer's actions do not support the proffered reason, or that age was a determinative factor in the adverse action.
+
+3. Examples of Proving Pretext
+
+a. In Gross v. FBL Financial Services, Inc., 125 S. Ct. 811 (2005), the Court held that an employee could prove pretext by showing that the employer's proffered reason for the adverse action was inconsistent with the employer's practices.
+
+b. In O'Connor v. Consolidated Coin Caterers Corp., 517 U.S. 308 (1996), the Court held that an employee could prove pretext by showing that the employer's proffered reason for the adverse action was not the actual reason for the adverse action.
+
+IV. Conclusion
+
+To establish a claim of age discrimination under the ADEA when the employer provides a legitimate reason for termination, an employee must first establish a prima facie case of age discrimination. If the employee succeeds in doing so, the burden shifts to the employer to articulate a legitimate, nondiscriminatory reason for the adverse action. If the employer offers such a reason, the employee must then prove that the reason is a mere pretext for age discrimination. This can be done by showing that the employer's proffered reason is implausible, that the employer's actions do not support the proffered reason, or that age was a determinative factor in the adverse action. Direct evidence, circumstantial evidence, or a combination of both may be used to prove pretext. Relevant case citations include McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973), Gross v. FBL Financial Services, Inc., 125 S. Ct. 811 (2005), and O'Connor v. Consolidated Coin Caterers Corp., 517 U.S. 308 (1996).

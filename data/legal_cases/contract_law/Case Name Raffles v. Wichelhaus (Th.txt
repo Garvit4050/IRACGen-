@@ -1,0 +1,62 @@
+Case Name: Raffles v. Wichelhaus (The “Peerless” Case)
+Citation: (1864) 2 Hurl. & C. 906, 159 Eng. Rep. 375
+Court: Court of Exchequer (England)
+Year: 1864
+Area: Contract Law (Mistake / Mutual Mistake)
+
+---
+
+FACTS:
+
+Raffles, the plaintiff, agreed to sell a quantity of cotton to Wichelhaus, the defendant. The written contract specified that the cotton was to arrive in Liverpool “ex Peerless from Bombay.” Unknown to both parties at the time of contracting, there were two ships named *Peerless* sailing from Bombay to Liverpool around the same time—one departing in October and another in December.
+
+Raffles intended to ship the cotton aboard the October *Peerless*, while Wichelhaus believed the contract referred to the December *Peerless*. When the cotton arrived in Liverpool aboard the October vessel, Wichelhaus refused to accept delivery or pay for the goods, asserting that he had intended to purchase cotton arriving on the later December ship.
+
+Raffles brought suit for breach of contract, claiming that Wichelhaus had wrongfully refused to perform. At trial in the Court of Exchequer, evidence was introduced showing that two ships named *Peerless* were sailing from Bombay and that neither party had clarified which vessel was intended in the agreement.
+
+The dispute centered on whether a binding contract existed when both parties attached materially different meanings to the same term (“Peerless”) in the contract.
+
+---
+
+ISSUE:
+
+Whether a valid and enforceable contract exists when both parties attach different meanings to a material term of the agreement, and neither party is aware of the other’s differing interpretation.
+
+---
+
+HOLDING:
+
+The Court of Exchequer held that no binding contract existed because there was no consensus ad idem (meeting of the minds) regarding a material term of the agreement. Since the parties referred to different ships named *Peerless*, and the term was essential to identifying the goods and shipment date, the ambiguity prevented formation of a valid contract. Judgment was entered for the defendant.
+
+---
+
+REASONING:
+
+The court’s reasoning focused on the principle that a valid contract requires mutual assent to the same subject matter in the same sense—commonly described as consensus ad idem. In this case, the contractual term “Peerless” was ambiguous because it referred equally to two distinct ships. Each party reasonably believed the term referred to a different vessel, and neither had reason to know of the other’s understanding.
+
+The court determined that the identity of the ship was a material term, as it directly affected the time of delivery and potentially the market value of the cotton. Because the October and December shipments were distinct in timing and commercial implications, the ambiguity was not trivial.
+
+Importantly, neither party was at fault for the misunderstanding. There was no misrepresentation or negligence in drafting the contract; the ambiguity arose from an external fact unknown to both sides. Since both interpretations were reasonable and neither party’s understanding could objectively prevail, the court found that no enforceable agreement had been formed.
+
+The case established the doctrine of mutual mistake as to a material term. Unlike unilateral mistake—where one party is mistaken and the other is aware—this situation involved a shared misunderstanding without fault. The court declined to enforce the contract because doing so would impose an obligation that one party never agreed to undertake.
+
+The decision reflects an objective theory of contract formation: although courts generally assess agreements based on outward expressions rather than subjective intent, where language is equally ambiguous and supports two reasonable interpretations, and neither party can be said to have accepted the other’s meaning, mutual assent is lacking.
+
+Raffles v. Wichelhaus remains a foundational case illustrating how ambiguity in essential terms can invalidate contract formation.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Consensus ad Idem Requirement: A valid contract requires mutual agreement on the same terms in the same sense.
+2. Mutual Mistake Doctrine: If both parties are mistaken about a material term, the contract may be void for lack of agreement.
+3. Material Term Ambiguity: Ambiguity concerning essential terms (e.g., subject matter or timing) can prevent contract formation.
+4. Objective Theory Limitation: When contractual language supports two equally reasonable interpretations and neither party knew of the other’s meaning, no binding agreement exists.
+
+---
+
+KEY QUOTES:
+
+“There was no binding contract between the parties.”
+
+“The defendant only bought that cotton which was to arrive by a particular ship.”

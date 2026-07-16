@@ -1,0 +1,60 @@
+QUERY: Must an employer accommodate an employee's religious practices if it conflicts with the work schedule?
+============================================================
+
+LEGAL MEMORANDUM
+
+============================================================
+
+ISSUE
+------------------------------------------------------------
+
+Whether an employer, as established in Trans World Airlines, Inc. v. Hardison, is obligated to accommodate an employee's religious practices that conflict with the work schedule, thereby creating an undue hardship as defined under Title VII of the Civil Rights Act of 1964, or whether the employer, as demonstrated in Griggs v. Duke Power Co., may implement employment practices that have a disparate impact on a protected class, provided that such practices are job-related and consistent with business necessity, as long as they are not intended to discriminate.
+
+============================================================
+
+RULE
+------------------------------------------------------------
+
+Title VII of the Civil Rights Act of 1964 mandates that employers make reasonable accommodations for an employee's religious practices, unless doing so would cause an undue hardship (Trans World Airlines, Inc. v. Hardison, 432 U.S. 63, 1977). However, employers may implement employment practices that have a disparate impact on a protected class, as long as such practices are job-related and consistent with business necessity, and are not intended to discriminate (Griggs v. Duke Power Co., 401 U.S. 424, 1971).
+
+In the context of sexual harassment, employers are liable for harassment by supervisors that results in a hostile work environment, even if the employer was unaware of the harassment (Burlington Industries, Inc. v. Ellerth, 524 U.S. 742, 1998; Meritor Savings Bank v. Vinson, 477 U.S. 57, 1986). The employer can be held liable if it fails to take prompt and appropriate corrective action once it learns of the harassment.
+
+In cases where the harasser is not a supervisor, liability may still attach if the employer, through its actions or inactions, is found to have been negligent in controlling the work environment or responding to complaints (Harris v. Forklift Systems, Inc., 510 U.S. 17, 1993).
+
+Exceptions or limitations may apply depending on the specific facts and circumstances of each case. Employers are advised to take proactive measures to prevent and address harassment in the workplace, and to accommodate employees' religious practices whenever possible without causing undue hardship.
+
+============================================================
+
+ANALYSIS
+------------------------------------------------------------
+
+In the context of the presented issues, a comprehensive analysis of the applicable legal principles is necessary.
+
+Here, the employer, TWA, is faced with an employee's request for religious accommodation that conflicts with the work schedule, as established in Trans World Airlines, Inc. v. Hardison (1977). According to the rule, employers are mandated to make reasonable accommodations for an employee's religious practices, unless doing so would cause an undue hardship. In this case, TWA should evaluate whether accommodating Hardison's religious practices would impose more than a minimal burden on its operations.
+
+Similarly to Griggs v. Duke Power Co. (1971), the employer may implement employment practices that have a disparate impact on a protected class, as long as such practices are job-related and consistent with business necessity, and are not intended to discriminate. However, in the Griggs case, the employer's requirement for a high school diploma or passing of intelligence tests as a condition of employment was found to be discriminatory and not job-related.
+
+Moving forward, in Burlington Industries, Inc. v. Ellerth (1998), the employer was held liable for sexual harassment by a supervisor that resulted in a hostile work environment, even though the employer was unaware of the harassment. Employers are advised to take proactive measures to prevent and address harassment in the workplace. In this case, TWA should ensure that it has policies in place to address religious accommodation requests and harassment complaints.
+
+In Meritor Savings Bank v. Vinson (1986), the employer was also held liable for sexual harassment, but in this case, the harasser was not a supervisor. The employer can still be held liable if it fails to take prompt and appropriate corrective action once it learns of the harassment. Therefore, TWA should have a system in place to investigate and address all complaints, regardless of the harasser's position.
+
+In Harris v. Forklift Systems, Inc. (1993), the employer was found liable for a hostile work environment created by a non-supervisory employee. The court emphasized that the focus should be on the overall work environment, rather than on the harasser's position. This case underscores the importance of creating a workplace culture that does not tolerate harassment of any kind.
+
+The strongest counterargument could be that accommodating an employee's religious practices may cause significant operational difficulties or financial burdens, thereby constituting an undue hardship. However, employers are still obligated to make reasonable accommodations unless it would cause more than a minimal burden. Employers should work collaboratively with employees to find solutions that meet both the employee's religious needs and the employer's operational requirements.
+
+In conclusion, TWA, as an employer, is obligated to accommodate Hardison's religious practices, unless doing so would cause an undue hardship. The employer may implement employment practices that have a disparate impact on a protected class, as long as such practices are job-related and consistent with business necessity, and are not intended to discriminate. Employers should have policies and procedures in place to address religious accommodation requests and harassment complaints, and should strive to create a workplace culture that does not tolerate harassment of any kind.
+
+============================================================
+
+CONCLUSION
+------------------------------------------------------------
+
+In addressing the question of TWA's legal obligations regarding Hardison's religious practices, it is clear that TWA, as an employer, is mandated to accommodate such practices, provided that the accommodation does not cause an undue hardship. The analysis reveals that TWA may implement employment practices that may have a disparate impact on a protected class, as long as these practices are job-related and consistent with business necessity, and are not intended to discriminate.
+
+Key analytical points include the employer's obligation to accommodate religious practices, the permissibility of employment practices with disparate impacts, and the need for employers to have policies and procedures in place to address religious accommodation requests and harassment complaints. Furthermore, it is essential for employers to foster a workplace culture that does not tolerate any form of harassment.
+
+Given the aforementioned analysis, it is likely that the court would find that TWA is obligated to make reasonable accommodations for Hardison's religious practices, unless doing so would cause an undue hardship. However, there may be genuine uncertainties regarding the specific circumstances that could potentially constitute an undue hardship, which would need to be determined on a case-by-case basis.
+
+In conclusion, employers must strive to create a workplace environment that respects and accommodates the religious practices of their employees, while also ensuring that their employment practices are job-related and consistent with business necessity. Employers should have policies and procedures in place to address religious accommodation requests and harassment complaints, and should foster a culture that does not tolerate harassment of any kind.
+
+============================================================

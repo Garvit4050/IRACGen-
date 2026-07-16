@@ -1,0 +1,7 @@
+2026-02-10 14:42:13,378 - utils - INFO - Using LOCAL Ollama model (no API required)
+2026-02-10 14:42:13,389 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2026-02-10 14:42:13,428 - local_llm - INFO - Initialized LocalLLM with ollama/mistral
+2026-02-10 14:42:13,428 - utils - INFO - Initialized ZeroShotGenerator with local
+2026-02-10 14:42:13,428 - utils - INFO - Generating document for: Explain what artificial intelligence is
+2026-02-10 14:43:18,312 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-02-10 14:43:18,313 - utils - INFO - Generated 3 chapters, 360 words

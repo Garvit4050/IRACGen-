@@ -1,0 +1,61 @@
+Case Name: Hazen Paper Co. v. Biggins
+Citation: 507 U.S. 604
+Court: Supreme Court of the United States
+Year: 1993
+Area: Employment Law (Age Discrimination – ADEA)
+
+---
+
+FACTS:
+
+William Biggins was employed by Hazen Paper Company for nearly ten years. He was 62 years old when he was terminated from his position shortly before his pension benefits were scheduled to vest under the company’s retirement plan. Vesting would have occurred after ten years of service. The company asserted that Biggins was fired for poor performance and misconduct, including alleged inaccuracies in business reporting.
+
+Biggins filed suit under the Age Discrimination in Employment Act (ADEA), claiming that his termination was motivated by age discrimination. He argued that the company sought to prevent his pension benefits from vesting and that pension status was closely correlated with age, thereby making the termination discriminatory on the basis of age.
+
+At trial, the jury returned a verdict in Biggins’s favor and awarded both compensatory and liquidated damages, finding that the employer had willfully violated the ADEA. The United States Court of Appeals for the First Circuit affirmed, reasoning that terminating an employee to prevent pension vesting could constitute age discrimination because pension benefits are often directly linked to age.
+
+The Supreme Court granted certiorari to determine whether an employer violates the ADEA by firing an employee to prevent pension benefits from vesting, when pension status is correlated with age.
+
+---
+
+ISSUE:
+
+Whether an employer’s decision to terminate an employee to prevent pension benefits from vesting constitutes discrimination “because of age” under the ADEA when pension eligibility is correlated with age but not necessarily based directly on age.
+
+---
+
+HOLDING:
+
+The Supreme Court unanimously held that firing an employee to prevent pension benefits from vesting does not automatically constitute age discrimination under the ADEA. The Court ruled that age and years of service are analytically distinct, and an employment decision based on pension status or years of service does not necessarily amount to age discrimination. The judgment of the Court of Appeals was vacated and remanded for further proceedings.
+
+---
+
+REASONING:
+
+Justice O’Connor delivered the opinion of the Court. The Court began by emphasizing that the ADEA prohibits discrimination “because of” age. The critical inquiry is whether age actually motivated the employer’s decision. The Court distinguished between decisions based on age itself and decisions based on factors correlated with age, such as pension status or years of service.
+
+The Court reasoned that an employer can act on factors like pension eligibility without necessarily considering age. While pension status may be correlated with age in many cases, it is not identical to age. For example, an employee could have long years of service but still be relatively young, or could be older but have fewer years of service. Therefore, a decision motivated solely by cost-saving measures related to pension vesting is not inherently age-based discrimination.
+
+The Court rejected the First Circuit’s reasoning that correlation between pension status and age automatically establishes age discrimination. Such a rule would improperly expand the ADEA beyond its statutory language. The statute targets age-based animus or stereotyping—not decisions driven by seniority, years of service, or financial considerations unrelated to age bias.
+
+The Court also addressed the willfulness finding. Because the jury instructions did not clearly require proof that the employer knew its actions violated the ADEA, the willfulness determination could not stand without further examination.
+
+The decision clarified that disparate treatment under the ADEA requires proof that age actually played a role in the employer’s decision-making process and had a determinative influence on the outcome. The Court’s reasoning reinforced a narrow interpretation of “because of age” and distinguished age discrimination from decisions based on pension costs or other non-age factors.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Age vs. Pension Status Distinction: Age discrimination requires proof that age itself—not correlated factors like pension status—motivated the decision.
+2. “Because of Age” Requirement: The ADEA requires intentional discrimination based directly on age.
+3. Correlation Is Not Causation: A factor correlated with age does not automatically constitute age discrimination.
+4. Willfulness Standard: Enhanced damages require proof that the employer knew or showed reckless disregard for whether its conduct violated the ADEA.
+
+---
+
+KEY QUOTES:
+
+“Because age and years of service are analytically distinct, an employer can take account of one while ignoring the other.”
+
+“The ADEA requires the employer to ignore an employee’s age, but it does not require the employer to ignore an employee’s years of service.”
+

@@ -1,0 +1,60 @@
+Case Name: Trans World Airlines, Inc. v. Hardison
+Citation: 432 U.S. 63
+Court: Supreme Court of the United States
+Year: 1977
+Area: Employment Law (Title VII – Religious Accommodation)
+
+---
+
+FACTS:
+
+Larry Hardison was employed by Trans World Airlines (TWA) as a clerk in the maintenance and overhaul base at Kansas City International Airport. Hardison was a member of the Worldwide Church of God, a religion that prohibited him from working from sunset Friday to sunset Saturday (the Sabbath). Initially, Hardison worked in a department where his Sabbath observance did not conflict with his work schedule. However, after transferring to a different department governed by a seniority system under a collective bargaining agreement, his assigned shifts conflicted with his religious observance.
+
+Hardison requested accommodation, seeking either Saturdays off or a shift change. TWA explored possible options but concluded that accommodating him would violate the seniority provisions of the collective bargaining agreement or require paying premium wages to substitute workers. The union refused to waive seniority rules to accommodate Hardison. When Hardison refused to work on Saturdays, he was terminated for insubordination.
+
+Hardison filed suit under Title VII of the Civil Rights Act of 1964, which requires employers to reasonably accommodate employees’ religious practices unless doing so would cause “undue hardship” on the conduct of the employer’s business. The district court ruled in favor of TWA, but the Court of Appeals reversed. The Supreme Court granted certiorari.
+
+---
+
+ISSUE:
+
+Whether Title VII requires an employer to accommodate an employee’s religious observance when doing so would violate a collectively bargained seniority system or impose more than minimal costs on the employer, and what constitutes “undue hardship” under the statute.
+
+---
+
+HOLDING:
+
+The Supreme Court held that TWA did not violate Title VII. The Court ruled that requiring the employer to bear more than a de minimis (minimal) cost or to violate a bona fide seniority system would constitute an undue hardship. The Court reversed the judgment of the Court of Appeals and upheld Hardison’s termination as lawful under Title VII.
+
+---
+
+REASONING:
+
+Justice White delivered the opinion of the Court. The Court began by examining Title VII’s requirement that employers reasonably accommodate religious practices unless accommodation would cause “undue hardship.” The Court interpreted “undue hardship” to mean any accommodation requiring more than a de minimis cost to the employer.
+
+The Court emphasized that TWA had a collectively bargained seniority system that determined shift assignments. Under Title VII, bona fide seniority systems are protected and cannot be altered simply to accommodate an individual employee’s religious needs. Requiring TWA to override the seniority system would infringe on the contractual rights of other employees and undermine labor-management agreements.
+
+The Court also rejected the argument that TWA was required to incur additional wage costs to accommodate Hardison. Paying premium wages to secure substitutes or rearranging shifts in a way that imposed more than minimal financial burden constituted undue hardship under the statute.
+
+The Court balanced the goal of protecting religious freedom in the workplace against the operational and economic realities faced by employers. It reasoned that Congress did not intend Title VII to require employers to discriminate against other employees or incur significant expense to accommodate religious practices.
+
+The decision effectively set a relatively low threshold for employers to establish undue hardship. By defining undue hardship as more than a minimal burden, the Court limited the scope of required accommodations under Title VII. This interpretation remained controlling precedent for decades until later reconsideration in subsequent cases.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. De Minimis Undue Hardship Standard: An employer need not accommodate religious practices if doing so requires more than minimal cost or burden.
+2. Protection of Seniority Systems: Title VII does not require employers to violate bona fide collectively bargained seniority systems.
+3. Reasonable Accommodation Obligation: Employers must attempt accommodation unless it imposes undue hardship.
+4. Balancing Religious Rights and Business Interests: Religious accommodation must not unfairly burden other employees or disrupt workplace operations.
+
+---
+
+KEY QUOTES:
+
+“To require TWA to bear more than a de minimis cost in order to give Hardison Saturdays off is an undue hardship.”
+
+“Title VII does not require an employer to discriminate against some employees in order to enable others to observe their Sabbath.”
+
+

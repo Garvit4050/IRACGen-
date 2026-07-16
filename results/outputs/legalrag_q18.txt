@@ -1,0 +1,64 @@
+QUERY: What is market share liability and when does it apply to defective products from multiple manufacturers?
+============================================================
+
+LEGAL MEMORANDUM
+
+============================================================
+
+ISSUE
+------------------------------------------------------------
+
+Whether, in a products liability action involving multiple manufacturers of a defective product, the doctrine of market share liability may be applied to hold each manufacturer liable for a proportionate share of damages, contingent upon the demonstration of causation and the absence of evidence indicating that the plaintiff was exposed solely to the products of a specific defendant, as established in Sindell v. Abbott Laboratories (1980) and Escola v. Coca Cola Bottling Co. (1944).
+
+============================================================
+
+RULE
+------------------------------------------------------------
+
+In products liability actions involving multiple manufacturers of a defective product, the doctrine of market share liability may be applied to hold each manufacturer liable for a proportionate share of damages, contingent upon the demonstration of causation and the absence of evidence indicating that the plaintiff was exposed solely to the products of a specific defendant (Sindell v. Abbott Laboratories, 26 Cal. 3d 588, 607 P.2d 924 (Cal. 1980)). This doctrine is an extension of the strict liability principle, where a manufacturer is held liable for harm caused by a defective product, regardless of fault (Escola v. Coca Cola Bottling Co., 24 Cal. 2d 453, 150 P.2d 436 (Cal. 1944)).
+
+However, it's important to note that the Sindell case established a two-step process for determining liability: first, the plaintiff must prove that the defective product caused the injury; second, the court assigns liability based on the relative market share of the defendants during the relevant time period (Sindell v. Abbott Laboratories, 26 Cal. 3d 588, 607 P.2d 924 (Cal. 1980)).
+
+In contrast, Hadley v. Baxendale (9 Ex. 341 (1854)) establishes the principle that in a breach of contract case, damages must be either a foreseeable consequence of the breach or a loss that was specifically agreed upon between the parties.
+
+The Wood v. Lucy, Lady Duff-Gordon case (222 N.Y. 88, 118 N.E. 214 (N.Y. 1917)) holds that an implied promise can arise from a course of dealing or a series of previous dealings between the parties.
+
+In Ybarra v. Spangard (25 Cal. 2d 486, 154 P.2d 687 (Cal. 1944)), the court established the doctrine of Res Ipsa Loquitur, which allows a plaintiff to recover damages without proving negligence if the injury is of a kind that would not usually occur without someone's negligence, and the instrument causing the injury was under the control of the defendant.
+
+These cases collectively provide a framework for understanding the principles of products liability, breach of contract, implied promises, and Res Ipsa Loquitur in tort and contract law.
+
+============================================================
+
+ANALYSIS
+------------------------------------------------------------
+
+In the context of the products liability action involving multiple manufacturers of a defective product, the doctrine of market share liability may be applicable. Here, Judith Sindell brought a products liability action against multiple pharmaceutical manufacturers that had produced the drug diethylstilbestrol (DES). Sindell v. Abbott Laboratories (1980) established a framework for this doctrine, where each manufacturer can be held liable for a proportionate share of damages, contingent upon the demonstration of causation and the absence of evidence indicating that the plaintiff was exposed solely to the products of a specific defendant (Sindell v. Abbott Laboratories, 26 Cal. 3d 588, 607 P.2d 924 (Cal. 1980)).
+
+In this case, it is essential to prove that the defective product caused the injury. Sindell's mother ingested DES, and the plaintiff was exposed to the products of multiple manufacturers. If the plaintiff can demonstrate that the DES caused her injuries, the court will then assign liability based on the relative market share of the defendants during the relevant time period (Sindell v. Abbott Laboratories, 26 Cal. 3d 588, 607 P.2d 924 (Cal. 1980)).
+
+Similarly to Sindell, Escola v. Coca Cola Bottling Co. (1944) involved a products liability action, but the case focused on the concurrence of negligence and strict liability. In Escola, a Coca-Cola bottle exploded, causing injuries to Gladys Escola. The court held that a manufacturer is strictly liable for harm caused by a defective product, regardless of fault (Escola v. Coca Cola Bottling Co., 24 Cal. 2d 453, 150 P.2d 436 (Cal. 1944)). Although Escola does not directly address market share liability, it underscores the manufacturer's responsibility for a defective product.
+
+In contrast to products liability cases, Hadley v. Baxendale (1854) established the principle for damages in a breach of contract case. Here, Hadley's mill was stopped by a broken crankshaft. Hadley hired Baxendale to transport the broken shaft to the manufacturer to make a replacement. Baxendale delayed delivery, and Hadley sued for lost profits during the delay. The court held that damages must be either a foreseeable consequence of the breach or a loss that was specifically agreed upon between the parties (Hadley v. Baxendale, 9 Ex. 341 (1854)).
+
+Wood v. Lucy, Lady Duff-Gordon (1917) involved a contract law case, where an implied promise arose from a course of dealing or a series of previous dealings between the parties. In this case, Lucy, Lady Duff-Gordon, was a well-known fashion designer who endorsed clothing and other fashion products. Otis F. Wood, who had a business relationship with Lady Duff-Gordon, granted him the right to use her name and likeness in advertising (Wood v. Lucy, Lady Duff-Gordon, 222 N.Y. 88, 118 N.E. 214 (N.Y. 1917)).
+
+Ybarra v. Spangard (1944) established the doctrine of Res Ipsa Loquitur, which allows a plaintiff to recover damages without proving negligence if the injury is of a kind that would not usually occur without someone's negligence, and the instrument causing the injury was under the control of the defendant. In this case, Joseph Ybarra was admitted to a hospital for an appendectomy. During the procedure, a sponge was left inside him, causing his death. The court held that the sponge's presence was evidence of negligence, and the defendant was liable (Ybarra v. Spangard, 25 Cal. 2d 486, 154 P.2d 687 (Cal. 1944)).
+
+Addressing the strongest counterargument, some may argue that market share liability unfairly burdens manufacturers, as it holds them liable without proving their specific product caused the injury. However, the Sindell case requires the plaintiff to prove causation, and the court assigns liability based on the defendants' market share. This approach ensures that the manufacturer responsible for a significant portion of the defective product is held accountable, while also providing a remedy for the injured plaintiff.
+
+In conclusion, the doctrine of market share liability may be applicable in the products liability action involving multiple manufacturers of a defective product. Here, the plaintiff must prove that the defective product caused the injury and that there is no evidence indicating exposure solely to the products of a specific defendant. The court will then assign liability based on the defendants' market share during the relevant time period. This approach is an extension of the strict liability principle, as established in Escola v. Coca Cola Bottling Co., and it provides a remedy for the injured plaintiff while ensuring accountability for the manufacturer responsible for a significant portion of the defective product.
+
+============================================================
+
+CONCLUSION
+------------------------------------------------------------
+
+In the matter of a product liability claim involving multiple manufacturers of a defective product, the legal question revolves around the allocation of liability. Based on the analysis, it is clear that the plaintiff must establish the causal link between the defective product and the resulting injury, and demonstrate the absence of exclusive exposure to a specific defendant's product.
+
+The court's approach in such cases is guided by the principle of strict liability, as established in Escola v. Coca Cola Bottling Co., and extends this principle through the application of market share liability. This approach provides a remedy for the injured plaintiff while ensuring accountability for the manufacturer responsible for a significant portion of the defective product in the market during the relevant time period.
+
+Given the analysis, it is likely that the court would find in favor of the plaintiff, provided they can meet the burden of proof regarding causation and absence of exclusive exposure. However, there may be genuine uncertainties regarding the extent of each defendant's market share during the relevant time period, which could potentially impact the allocation of liability among the defendants.
+
+In conclusion, the court is expected to apply the market share liability principle to allocate liability among multiple manufacturers of a defective product. The plaintiff's success in the case will depend on their ability to prove causation and the absence of exclusive exposure, while the allocation of liability among defendants may be influenced by their respective market shares during the relevant time period.
+
+============================================================

@@ -1,0 +1,7 @@
+2026-02-11 00:13:58,610 - utils - INFO - Created: machine_learning_basics.txt
+2026-02-11 00:13:58,610 - utils - INFO - Created: neural_networks.txt
+2026-02-11 00:13:58,610 - utils - INFO - Created: data_science_process.txt
+2026-02-11 00:13:58,610 - utils - INFO - Created: natural_language_processing.txt
+2026-02-11 00:13:58,610 - utils - INFO - Created: ai_ethics.txt
+2026-02-11 00:13:58,610 - utils - INFO - Created 5 sample documents in data/knowledge_base
+2026-02-11 00:13:58,610 - utils - INFO - Created sample queries: data/evaluation\test_queries.json

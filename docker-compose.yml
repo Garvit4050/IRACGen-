@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  legalrag:
+    build: .
+    container_name: legalrag_system
+    volumes:
+      - ./data:/app/data
+      - ./results:/app/results
+      - ./logs:/app/logs
+    environment:
+      - PYTHONUNBUFFERED=1
+      - OLLAMA_HOST=ollama:11434
+    depends_on:
+      - ollama
+    networks:
+      - legalrag_network
+    command: python compare_all.py --quick
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: legalrag_ollama
+    volumes:
+      - ollama_data:/root/.ollama
+    ports:
+      - "11434:11434"
+    networks:
+      - legalrag_network
+    command: serve
+
+volumes:
+  ollama_data:
+
+networks:
+  legalrag_network:
+    driver: bridge

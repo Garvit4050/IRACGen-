@@ -1,0 +1,8 @@
+2026-02-11 00:14:32,954 - utils - INFO - Loaded 5 documents
+2026-02-11 00:14:32,954 - utils - INFO - Processed ai_ethics: 5 chunks
+2026-02-11 00:14:32,954 - utils - INFO - Processed data_science_process: 5 chunks
+2026-02-11 00:14:32,954 - utils - INFO - Processed machine_learning_basics: 4 chunks
+2026-02-11 00:14:32,954 - utils - INFO - Processed natural_language_processing: 5 chunks
+2026-02-11 00:14:32,954 - utils - INFO - Processed neural_networks: 4 chunks
+2026-02-11 00:14:32,970 - utils - INFO - Total chunks: 23
+2026-02-11 00:14:32,972 - utils - INFO - Saved to: cache\processed_chunks.json

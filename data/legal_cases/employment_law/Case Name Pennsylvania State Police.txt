@@ -1,0 +1,61 @@
+Case Name: Pennsylvania State Police v. Suders
+Citation: 542 U.S. 129
+Court: Supreme Court of the United States
+Year: 2004
+Area: Employment Law (Title VII – Sexual Harassment / Constructive Discharge)
+
+---
+
+FACTS:
+
+Nancy Drew Suders was employed as a communications operator by the Pennsylvania State Police. During her employment, she alleged that several male supervisors subjected her to ongoing sexual harassment, including obscene gestures, sexually explicit comments, and humiliating treatment. She further alleged that her supervisors falsely accused her of misconduct related to a computer record-keeping system and that this accusation was part of a pattern of harassment.
+
+Suders claimed that the work environment became so intolerable that she felt compelled to resign. Shortly after learning that she might be arrested for alleged misconduct, she quit her job. She then filed suit under Title VII of the Civil Rights Act of 1964, asserting that she had been constructively discharged due to a hostile work environment created by her supervisors.
+
+The federal district court granted summary judgment in favor of the employer, holding that Suders had not established a tangible employment action and that the employer could assert the affirmative defense recognized in Burlington Industries v. Ellerth and Faragher v. City of Boca Raton. The United States Court of Appeals for the Third Circuit reversed, concluding that a constructive discharge automatically constituted a tangible employment action, thereby precluding the employer from asserting the affirmative defense. The Supreme Court granted certiorari to resolve the conflict among circuits.
+
+---
+
+ISSUE:
+
+Whether a constructive discharge resulting from a supervisor’s sexual harassment constitutes a “tangible employment action” that precludes an employer from asserting the Ellerth/Faragher affirmative defense under Title VII.
+
+---
+
+HOLDING:
+
+The Supreme Court held that a constructive discharge does not automatically constitute a tangible employment action. An employer may assert the Ellerth/Faragher affirmative defense unless the constructive discharge was precipitated by an official act of the employer, such as a demotion or reduction in pay. The Court vacated the judgment of the Third Circuit and remanded the case for further proceedings consistent with its opinion.
+
+---
+
+REASONING:
+
+Justice Ginsburg delivered the opinion of the Court. The Court began by reviewing the framework established in Burlington Industries v. Ellerth and Faragher v. City of Boca Raton. Under those cases, employers are strictly liable when a supervisor’s harassment results in a tangible employment action. When no tangible employment action occurs, the employer may raise an affirmative defense by showing reasonable preventive measures and unreasonable failure by the employee to use them.
+
+The Court addressed whether constructive discharge—where an employee resigns due to intolerable working conditions—qualifies as a tangible employment action. It clarified that a tangible employment action involves an official act of the enterprise, such as hiring, firing, demotion, or reassignment. These actions typically require formal approval and represent the employer’s official power.
+
+Constructive discharge, by contrast, occurs when working conditions become so intolerable that a reasonable person would feel compelled to resign. The Court explained that while constructive discharge is a “worse case” of harassment, it does not automatically involve an official act. If the resignation results solely from supervisor harassment without an official employment action, the employer may still assert the affirmative defense.
+
+However, if the constructive discharge is precipitated by an official act—such as a demotion, pay cut, or formal accusation leading to arrest—then it constitutes a tangible employment action, and the employer is strictly liable.
+
+The Court’s reasoning balanced fairness to employers with the need to deter workplace discrimination. Automatic strict liability for all constructive discharge claims would undermine the preventive framework established in Ellerth and Faragher. At the same time, employers cannot avoid liability when official acts of the enterprise force an employee’s resignation.
+
+This decision clarified the intersection between hostile work environment doctrine and constructive discharge claims under Title VII.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Constructive Discharge Standard: Occurs when working conditions are so intolerable that a reasonable person would feel compelled to resign.
+2. Tangible Employment Action Definition: Requires an official act of the enterprise (e.g., demotion, pay cut, termination).
+3. Conditional Availability of Affirmative Defense: Employers may assert the Ellerth/Faragher defense unless the constructive discharge resulted from an official act.
+4. Integration of Harassment and Discharge Doctrine: Constructive discharge claims must be analyzed within the established Title VII supervisory liability framework.
+
+---
+
+KEY QUOTES:
+
+“A constructive discharge occurs when the plaintiff shows that the abusive working environment became so intolerable that her resignation qualified as a fitting response.”
+
+“Official acts are the acts of the enterprise, and a company is responsible for the acts of its supervisors in those circumstances.”
+

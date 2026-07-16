@@ -1,0 +1,43 @@
+QUERY: Does Title VII protect employees from same-sex sexual harassment in the workplace?
+============================================================
+
+ Title: Analysis of Title VII Protection Against Same-Sex Sexual Harassment in the Workplace
+
+I. Issue
+
+The primary issue to be addressed in this legal memorandum is whether Title VII of the Civil Rights Act of 1964 protects employees from same-sex sexual harassment in the workplace.
+
+II. Rule
+
+Title VII prohibits employment discrimination based on sex, race, color, national origin, and religion. The U.S. Supreme Court has expanded the scope of Title VII's protection to include same-sex harassment under the doctrine of "sex stereotyping."
+
+1. Sexual Harassment under Title VII
+
+Sexual harassment is a form of sex discrimination that is prohibited by Title VII. It includes unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature when submission to or rejection of such conduct explicitly or implicitly affects an individual's employment, unreasonably interferes with an individual's work performance, or creates a hostile or abusive work environment. (Meritor Savings Bank v. Vinson, 477 U.S. 57, 67 (1986))
+
+2. Expansion of Title VII Protection to Same-Sex Harassment
+
+In 1989, the U.S. Supreme Court case of Price Waterhouse v. Hopkins, 490 U.S. 228, established that Title VII protects employees from sex stereotyping, which includes discrimination based on failure to conform to gender norms or expectations.
+
+In 2000, Oncale v. Sundowner Offshore Services, Inc., 523 U.S. 75, extended Title VII's protection to same-sex harassment in the workplace, stating that the presence of the same-sex does not necessarily remove the offensive conduct from Title VII's purview.
+
+III. Analysis
+
+The analysis of Title VII's protection against same-sex sexual harassment in the workplace is based on the principles established in Price Waterhouse and Oncale.
+
+1. Price Waterhouse v. Hopkins (1989)
+
+In Price Waterhouse, the Court held that an employer could not deny a promotion to a female candidate because she was not feminine enough, as this constituted sex stereotyping and violated Title VII. The Court's decision expanded the scope of Title VII's protection to include discrimination based on gender norms or expectations.
+
+2. Oncale v. Sundowner Offshore Services, Inc. (2000)
+
+In Oncale, the Court extended Title VII's protection to same-sex harassment, stating that the presence of the same-sex does not necessarily remove the offensive conduct from Title VII's purview. The Court reasoned that Title VII's prohibition on sex discrimination applies to all instances where sex is a motivating factor in the alleged discrimination.
+
+III. Conclusion
+
+Based on the principles established in Price Waterhouse and Oncale, it is clear that Title VII protects employees from same-sex sexual harassment in the workplace. The presence of the same-sex does not exempt offensive conduct from Title VII's prohibition on sex discrimination. Employers are prohibited from engaging in or tolerating same-sex sexual harassment, as it constitutes sex stereotyping and violates Title VII's protections against sex discrimination.
+
+Relevant Case Citations:
+1. Meritor Savings Bank v. Vinson, 477 U.S. 57 (1986)
+2. Price Waterhouse v. Hopkins, 490 U.S. 228 (1989)
+3. Oncale v. Sundowner Offshore Services, Inc., 523 U.S. 75 (2000)

@@ -1,0 +1,48 @@
+QUERY: What warnings must police give to suspects before custodial interrogation and what happens if they fail to do so?
+============================================================
+
+ Title: Warnings Required for Custodial Interrogation and Consequences of Non-Compliance
+
+I. Issue
+
+The issue at hand concerns the warnings that law enforcement must provide to suspects prior to custodial interrogation, and the potential consequences for a failure to do so.
+
+II. Rule
+
+The Miranda v. Arizona (384 U.S. 436, 1966) ruling established that before any custodial interrogation, police must advise suspects of their rights, including the right to remain silent, the right to an attorney, and the right to have an attorney appointed if they cannot afford one. These warnings are collectively known as Miranda warnings.
+
+III. Analysis
+
+A. Custodial Interrogation
+
+Custodial interrogation refers to questioning initiated by law enforcement officers after a person has been taken into custody or otherwise deprived of their freedom in a manner suggesting they are not at liberty to leave. The interrogation does not need to be formal or lengthy to trigger the requirement for Miranda warnings.
+
+B. Miranda Warnings
+
+The Miranda Court held that the admissibility of statements obtained from a defendant during custodial interrogation is contingent upon the police giving the defendant prior warnings that meet the minimum requirements set forth in the decision. The warnings must inform the suspect of their right to remain silent, the right to an attorney, and the right to have an attorney appointed if they cannot afford one.
+
+C. Exceptions to the Miranda Rule
+
+There are several exceptions to the Miranda rule, including:
+
+1. Voluntariness: If a confession is voluntary, it may be admissible even if the suspect was not given Miranda warnings.
+
+2. Waiver: A suspect may waive their Miranda rights, but the waiver must be knowing, intelligent, and voluntary.
+
+3. Public Safety Exception: In certain circumstances, such as when there is an immediate threat to public safety, law enforcement may question a suspect without giving Miranda warnings.
+
+D. Consequences of Non-Compliance
+
+If law enforcement fails to provide Miranda warnings prior to custodial interrogation, any statements made by the suspect may be excluded as evidence at trial, unless one of the exceptions applies. The exclusionary rule, which prohibits the use of illegally obtained evidence, is the primary remedy for a Miranda violation.
+
+IV. Conclusion
+
+Law enforcement must provide Miranda warnings to suspects prior to custodial interrogation. Failure to do so may result in the exclusion of any statements made by the suspect during the interrogation as evidence at trial. The Miranda rule has exceptions, including voluntariness, waiver, and the public safety exception, but these exceptions must be carefully applied to ensure that the rights of the suspect are protected. Compliance with the Miranda rule is essential to maintaining the integrity of the criminal justice system and ensuring that suspects are treated fairly.
+
+Case Citations:
+
+1. Miranda v. Arizona, 384 U.S. 436 (1966)
+2. Colorado v. Connelly, 479 U.S. 157 (1986)
+3. Edwards v. Arizona, 451 U.S. 477 (1981)
+4. Oregon v. Elstad, 470 U.S. 298 (1985)
+5. New York v. Quarles, 467 U.S. 649 (1984)

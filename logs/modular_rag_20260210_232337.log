@@ -1,0 +1,4 @@
+2026-02-10 23:23:37,442 - utils - INFO - Using local LLM (no API required)
+2026-02-10 23:23:37,926 - httpx - INFO - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2026-02-10 23:23:37,935 - local_llm - INFO - Initialized LocalLLM with ollama/mistral
+2026-02-10 23:23:37,935 - utils - INFO - Initialized ZeroShotGenerator with local

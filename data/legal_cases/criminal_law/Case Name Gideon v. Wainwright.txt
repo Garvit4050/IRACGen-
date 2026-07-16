@@ -1,0 +1,60 @@
+Case Name: Gideon v. Wainwright
+Citation: 372 U.S. 335 (1963)
+Court: Supreme Court of the United States
+Year: 1963
+Area: Criminal Law (Sixth Amendment – Right to Counsel / Incorporation Doctrine)
+
+---
+
+FACTS:
+
+Clarence Earl Gideon was charged in Florida state court with felony breaking and entering. At his arraignment, Gideon appeared without a lawyer and requested that the court appoint counsel for him because he could not afford to hire one. The trial judge denied his request, citing Florida law, which only required appointment of counsel in capital cases.
+
+Gideon represented himself at trial. He cross-examined witnesses, made opening statements, and attempted to defend himself, but he lacked formal legal training. The jury found him guilty, and he was sentenced to five years in prison.
+
+While incarcerated, Gideon filed a handwritten petition for a writ of certiorari to the United States Supreme Court, arguing that his Sixth Amendment right to counsel had been violated. At the time, the Court’s precedent in Betts v. Brady (1942) held that states were not required to provide counsel in all felony cases, only when “special circumstances” existed.
+
+The Supreme Court granted certiorari to reconsider whether the Sixth Amendment right to counsel applies to state criminal proceedings through the Fourteenth Amendment.
+
+---
+
+ISSUE:
+
+Whether the Sixth Amendment’s guarantee of the right to counsel in criminal prosecutions is a fundamental right that applies to the states through the Fourteenth Amendment, thereby requiring states to provide counsel to indigent defendants charged with serious crimes.
+
+---
+
+HOLDING:
+
+The Supreme Court unanimously held that the Sixth Amendment right to counsel is a fundamental right essential to a fair trial and applies to the states through the Fourteenth Amendment. The Court overruled Betts v. Brady and reversed Gideon’s conviction. The case was remanded for a new trial with appointed counsel. Gideon was later retried with representation and acquitted.
+
+---
+
+REASONING:
+
+Justice Hugo Black delivered the opinion of the Court. The Court emphasized that the Sixth Amendment guarantees the assistance of counsel in federal criminal prosecutions. The question was whether this right was so fundamental that it must also apply to state proceedings.
+
+The Court examined historical practice and constitutional principles, concluding that the right to counsel is essential to a fair trial. An untrained defendant cannot adequately defend against the prosecutorial power of the state. The adversarial system presumes that justice emerges from a contest between opposing sides, but this requires both sides to have legal representation.
+
+The Court rejected the “special circumstances” test established in Betts v. Brady, finding it inconsistent and inadequate. Instead, the Court held that the right to counsel is fundamental and necessary in all felony cases.
+
+The ruling was grounded in the incorporation doctrine, under which certain rights in the Bill of Rights are applied to the states via the Fourteenth Amendment’s Due Process Clause. The Court determined that fairness and justice require states to provide counsel to indigent defendants facing serious criminal charges.
+
+The decision transformed state criminal justice systems nationwide, requiring public defender systems and ensuring equal access to legal representation regardless of wealth.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Right to Counsel as Fundamental Right: The Sixth Amendment guarantees counsel in all felony criminal cases.
+2. Incorporation Doctrine: The right to counsel applies to the states through the Fourteenth Amendment.
+3. Overruling Precedent: Betts v. Brady was overturned.
+4. Fair Trial Requirement: Effective legal representation is essential to due process and adversarial justice.
+
+---
+
+KEY QUOTES:
+
+“Lawyers in criminal courts are necessities, not luxuries.”
+
+“The right of one charged with crime to counsel may not be deemed fundamental and essential to fair trials in some countries, but it is in ours.”

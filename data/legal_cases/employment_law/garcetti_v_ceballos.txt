@@ -1,0 +1,24 @@
+Case Name: Garcetti v. Ceballos
+Citation: 547 U.S. 410 (2006)
+Court: Supreme Court of the United States
+
+FACTS:
+Richard Ceballos, a deputy district attorney, was allegedly subject to retaliatory employment actions after he wrote a memo questioning the veracity of an affidavit used to obtain a search warrant. He claimed First Amendment protection for his memo.
+
+ISSUE:
+Do public employees have First Amendment protection for speech made pursuant to their official duties?
+
+HOLDING:
+Public employees do not have First Amendment protection for speech made pursuant to their official job duties.
+
+REASONING:
+When public employees make statements pursuant to their official duties, they are not speaking as citizens for First Amendment purposes. The government employer needs broad discretion to manage its operations.
+
+LEGAL PRINCIPLES:
+1. Public employee speech test: speaking as citizen on matter of public concern
+2. Official duty speech not protected
+3. Pickering balancing test applies only when employee speaks as citizen
+4. Government has greater power to control employee speech than private citizen speech
+
+SIGNIFICANCE:
+This case is a landmark precedent in its area of law and is regularly cited in legal analysis and court decisions.

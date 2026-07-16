@@ -1,0 +1,60 @@
+Case Name: Sindell v. Abbott Laboratories
+Citation: 26 Cal. 3d 588, 607 P.2d 924 (Cal. 1980)
+Court: Supreme Court of California
+Year: 1980
+Area: Tort Law (Products Liability / Market Share Liability / Causation)
+
+---
+FACTS:
+
+Judith Sindell brought a products liability action against multiple pharmaceutical manufacturers that had produced the drug diethylstilbestrol (DES). Her mother had ingested DES during pregnancy in the 1950s to prevent miscarriage. Years later, Sindell developed a rare form of vaginal cancer allegedly linked to prenatal exposure to DES.
+
+At the time DES was prescribed, numerous companies manufactured and marketed the drug using a common chemical formula approved by the FDA. Because the drug was generically produced and distributed widely, Sindell could not identify which specific manufacturer had produced the DES taken by her mother.
+
+Sindell sued several leading DES manufacturers, alleging negligence and strict liability. The defendants argued that Sindell could not establish causation because she was unable to prove which manufacturer’s product caused her injury. The trial court dismissed the case for failure to identify the specific tortfeasor. The California Court of Appeal affirmed.
+
+Sindell appealed to the California Supreme Court, arguing that traditional causation rules should be modified to allow recovery despite the identification problem.
+
+---
+
+ISSUE:
+
+Whether a plaintiff who cannot identify the specific manufacturer responsible for her injury due to the fungible nature of the product may recover under a modified theory of liability based on each defendant’s share of the market.
+
+---
+
+HOLDING:
+
+The Supreme Court of California held that when a plaintiff cannot identify the specific manufacturer of a harmful, fungible product, liability may be apportioned among manufacturers according to their respective market shares. The court reversed the dismissal and remanded the case. Each defendant would be liable for the proportion of damages corresponding to its share of the DES market, unless it could prove it did not manufacture the product that caused the injury.
+
+---
+
+REASONING:
+
+Justice Mosk, writing for the majority, acknowledged that under traditional tort principles, a plaintiff must prove that a particular defendant caused the injury. However, the court recognized that DES cases presented unique circumstances: the drug was chemically identical regardless of manufacturer, prescribed generically, and produced by numerous companies. The identification requirement effectively barred recovery for injured plaintiffs, despite clear evidence of wrongful conduct by manufacturers.
+
+The court examined prior doctrines such as alternative liability (as in Summers v. Tice) but found them inapplicable because not all DES manufacturers were joined and it was unclear which specific company caused the harm. Instead, the court developed the theory of market share liability.
+
+Under this approach, once the plaintiff joins a substantial share of the relevant market, the burden shifts to each defendant to prove it could not have produced the injury-causing product. If unable to do so, each defendant is held liable in proportion to its market share at the relevant time.
+
+The court justified this modification based on policy considerations: (1) ensuring compensation for innocent victims, (2) deterring negligent manufacturing practices, and (3) allocating costs to manufacturers who profited from the product and were in the best position to insure against the risk.
+
+The decision marked a significant expansion of tort liability principles by relaxing the traditional requirement of specific causation in cases involving fungible products and evidentiary impossibility.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Market Share Liability Doctrine: When identification of the specific manufacturer is impossible, liability may be apportioned based on market share.
+2. Burden Shifting in Products Cases: Defendants must prove they did not manufacture the injury-causing product once the plaintiff joins a substantial market share.
+3. Fungible Product Exception: Traditional causation rules may be modified for identical products produced by multiple manufacturers.
+4. Policy-Based Expansion of Liability: Courts may adapt tort doctrines to ensure victim compensation and promote deterrence.
+
+---
+
+KEY QUOTES:
+
+“As between an innocent plaintiff and negligent defendants, the latter should bear the cost of the injury.”
+
+“Each defendant will be liable for the proportion of the judgment represented by its share of the market.”
+

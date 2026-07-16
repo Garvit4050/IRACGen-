@@ -1,0 +1,24 @@
+Case Name: MacPherson v. Buick Motor Co.
+Citation: 217 N.Y. 382 (1916)
+Court: New York Court of Appeals
+
+FACTS:
+MacPherson bought Buick from dealer. Defective wheel collapsed, injuring MacPherson. Buick bought wheel from another manufacturer. MacPherson sued Buick directly.
+
+ISSUE:
+Can manufacturer be liable to ultimate consumer with whom it has no contract (no privity)?
+
+HOLDING:
+Manufacturer owes duty of care to foreseeable users of dangerous products, regardless of privity of contract.
+
+REASONING:
+If product is reasonably certain to be dangerous if negligently made, manufacturer owes duty to all foreseeable users. Privity of contract not required when danger is foreseeable.
+
+LEGAL PRINCIPLES:
+1. Abolition of privity requirement in products liability
+2. Duty to foreseeable users
+3. Inherently dangerous products
+4. Foundation of modern products liability
+
+SIGNIFICANCE:
+This case is a landmark precedent in its area of law and is regularly cited in legal analysis and court decisions.

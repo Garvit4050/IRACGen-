@@ -1,0 +1,186 @@
+[
+  {
+    "chunk_id": "ai_ethics_0",
+    "content": "Ethics in Artificial Intelligence As AI systems become more prevalent, ethical considerations are increasingly important. Responsible AI development requires addressing bias, fairness, transparency, and accountability. Bias and Fairness: AI systems can perpetuate or amplify existing biases present in training data. This can lead to discriminatory outcomes in hiring, lending, criminal justice, and healthcare. Ensuring fairness requires careful data curation and model auditing.",
+    "source_title": "ai_ethics",
+    "source_path": "data\\knowledge_base\\ai_ethics.txt",
+    "chunk_index": 0,
+    "total_chunks": 5
+  },
+  {
+    "chunk_id": "ai_ethics_1",
+    "content": "requires careful data curation and model auditing. Transparency and Explainability: Many AI models, especially deep neural networks, are \"black boxes\" whose decisions are difficult to interpret. Explainable AI (XAI) aims to make model decisions understandable to humans, which is crucial for trust and accountability. Privacy Concerns: AI systems often require large amounts of personal data.",
+    "source_title": "ai_ethics",
+    "source_path": "data\\knowledge_base\\ai_ethics.txt",
+    "chunk_index": 1,
+    "total_chunks": 5
+  },
+  {
+    "chunk_id": "ai_ethics_2",
+    "content": "tems often require large amounts of personal data. Protecting privacy while enabling useful AI applications requires techniques like differential privacy, federated learning, and data minimization. Accountability: When AI systems make mistakes or cause harm, determining responsibility is complex. Clear accountability frameworks are needed, considering developers, deployers, and users of AI systems. Job Displacement: Automation through AI may displace workers in various industries.",
+    "source_title": "ai_ethics",
+    "source_path": "data\\knowledge_base\\ai_ethics.txt",
+    "chunk_index": 2,
+    "total_chunks": 5
+  },
+  {
+    "chunk_id": "ai_ethics_3",
+    "content": "ugh AI may displace workers in various industries. Addressing this requires considering reskilling programs, social safety nets, and thoughtful integration of AI in workplaces. Autonomous Systems: Self-driving cars and autonomous weapons raise questions about decision-making in critical situations. How should these systems be programmed to handle ethical dilemmas? Environmental Impact: Training large AI models consumes significant energy and computational resources.",
+    "source_title": "ai_ethics",
+    "source_path": "data\\knowledge_base\\ai_ethics.txt",
+    "chunk_index": 3,
+    "total_chunks": 5
+  },
+  {
+    "chunk_id": "ai_ethics_4",
+    "content": "es significant energy and computational resources. Sustainable AI practices include model efficiency, green computing, and considering the carbon footprint. Regulation and Governance: Governments and organizations are developing AI regulations and guidelines. Balancing innovation with protection of rights and safety is an ongoing challenge.",
+    "source_title": "ai_ethics",
+    "source_path": "data\\knowledge_base\\ai_ethics.txt",
+    "chunk_index": 4,
+    "total_chunks": 5
+  },
+  {
+    "chunk_id": "data_science_process_0",
+    "content": "The Data Science Process Data science combines statistics, programming, and domain knowledge to extract insights from data. The process typically follows several key stages. Problem Definition: The first step is clearly defining the business problem or research question. This involves understanding stakeholder needs, success criteria, and constraints. A well-defined problem guides the entire project.",
+    "source_title": "data_science_process",
+    "source_path": "data\\knowledge_base\\data_science_process.txt",
+    "chunk_index": 0,
+    "total_chunks": 5
+  },
+  {
+    "chunk_id": "data_science_process_1",
+    "content": "A well-defined problem guides the entire project. Data Collection: Data scientists gather data from various sources including databases, APIs, web scraping, and sensors. Data quality and relevance are crucial considerations. Both structured and unstructured data may be needed. Data Cleaning: Real-world data is often messy. Cleaning involves handling missing values, removing duplicates, fixing inconsistencies, and dealing with outliers. This step can consume 50-80 of project time.",
+    "source_title": "data_science_process",
+    "source_path": "data\\knowledge_base\\data_science_process.txt",
+    "chunk_index": 1,
+    "total_chunks": 5
+  },
+  {
+    "chunk_id": "data_science_process_2",
+    "content": "iers. This step can consume 50-80 of project time. Exploratory Data Analysis (EDA): EDA involves visualizing and summarizing data to understand patterns, relationships, and anomalies. Statistical techniques and visualization tools help uncover insights and inform modeling decisions. Feature Engineering: Creating relevant features from raw data often determines model success. This includes transforming variables, creating interactions, and selecting the most informative features for modeling.",
+    "source_title": "data_science_process",
+    "source_path": "data\\knowledge_base\\data_science_process.txt",
+    "chunk_index": 2,
+    "total_chunks": 5
+  },
+  {
+    "chunk_id": "data_science_process_3",
+    "content": "ecting the most informative features for modeling. Model Building: Data scientists select and train appropriate machine learning models based on the problem type. This involves choosing algorithms, setting hyperparameters, and training on the prepared data. Model Evaluation: Models are evaluated using appropriate metrics (accuracy, precision, recall, F1-score, etc.) on held-out test data. Cross-validation helps assess generalization performance.",
+    "source_title": "data_science_process",
+    "source_path": "data\\knowledge_base\\data_science_process.txt",
+    "chunk_index": 3,
+    "total_chunks": 5
+  },
+  {
+    "chunk_id": "data_science_process_4",
+    "content": "alidation helps assess generalization performance. Deployment and Monitoring: Successful models are deployed to production environments. Continuous monitoring ensures models maintain performance as data distributions change over time. Model retraining may be necessary.",
+    "source_title": "data_science_process",
+    "source_path": "data\\knowledge_base\\data_science_process.txt",
+    "chunk_index": 4,
+    "total_chunks": 5
+  },
+  {
+    "chunk_id": "machine_learning_basics_0",
+    "content": "Machine Learning: An Introduction Machine learning is a subset of artificial intelligence that enables computers to learn from data without being explicitly programmed. The field has evolved significantly since its inception in the 1950s. Core Concepts: Machine learning algorithms build mathematical models based on training data to make predictions or decisions. The three main types are supervised learning, unsupervised learning, and reinforcement learning.",
+    "source_title": "machine_learning_basics",
+    "source_path": "data\\knowledge_base\\machine_learning_basics.txt",
+    "chunk_index": 0,
+    "total_chunks": 4
+  },
+  {
+    "chunk_id": "machine_learning_basics_1",
+    "content": "unsupervised learning, and reinforcement learning. Supervised Learning: In supervised learning, algorithms learn from labeled training data. The algorithm learns to map inputs to outputs based on example input-output pairs. Common applications include image classification, spam detection, and price prediction. Unsupervised Learning: Unsupervised learning works with unlabeled data to discover hidden patterns. Clustering and dimensionality reduction are key techniques.",
+    "source_title": "machine_learning_basics",
+    "source_path": "data\\knowledge_base\\machine_learning_basics.txt",
+    "chunk_index": 1,
+    "total_chunks": 4
+  },
+  {
+    "chunk_id": "machine_learning_basics_2",
+    "content": "g and dimensionality reduction are key techniques. Applications include customer segmentation and anomaly detection. Reinforcement Learning: Reinforcement learning involves agents learning to make decisions by interacting with an environment. The agent receives rewards or penalties and learns to maximize cumulative rewards. This approach powers game AI and robotics.",
+    "source_title": "machine_learning_basics",
+    "source_path": "data\\knowledge_base\\machine_learning_basics.txt",
+    "chunk_index": 2,
+    "total_chunks": 4
+  },
+  {
+    "chunk_id": "machine_learning_basics_3",
+    "content": "ewards. This approach powers game AI and robotics. Applications: Machine learning is used in various domains including healthcare (disease diagnosis), finance (fraud detection), transportation (autonomous vehicles), and natural language processing (chatbots and translation).",
+    "source_title": "machine_learning_basics",
+    "source_path": "data\\knowledge_base\\machine_learning_basics.txt",
+    "chunk_index": 3,
+    "total_chunks": 4
+  },
+  {
+    "chunk_id": "natural_language_processing_0",
+    "content": "Natural Language Processing Natural Language Processing (NLP) enables computers to understand, interpret, and generate human language. It bridges the gap between human communication and computer understanding. Text Preprocessing: NLP begins with preprocessing: tokenization (splitting text into words), stemminglemmatization (reducing words to root forms), and removing stop words. This prepares text for analysis. Word Embeddings: Word embeddings represent words as dense vectors in continuous space.",
+    "source_title": "natural_language_processing",
+    "source_path": "data\\knowledge_base\\natural_language_processing.txt",
+    "chunk_index": 0,
+    "total_chunks": 5
+  },
+  {
+    "chunk_id": "natural_language_processing_1",
+    "content": "resent words as dense vectors in continuous space. Word2Vec, GloVe, and more recently transformer-based embeddings capture semantic relationships. Similar words have similar vector representations. Language Models: Language models predict the probability of word sequences. They power autocomplete, translation, and text generation. Transformer-based models like BERT and GPT have achieved remarkable results.",
+    "source_title": "natural_language_processing",
+    "source_path": "data\\knowledge_base\\natural_language_processing.txt",
+    "chunk_index": 1,
+    "total_chunks": 5
+  },
+  {
+    "chunk_id": "natural_language_processing_2",
+    "content": "ike BERT and GPT have achieved remarkable results. Named Entity Recognition (NER): NER identifies and classifies named entities (people, organizations, locations) in text. This is crucial for information extraction, question answering, and knowledge graph construction. Sentiment Analysis: Sentiment analysis determines the emotional tone of text (positive, negative, neutral). Applications include customer feedback analysis, social media monitoring, and market research.",
+    "source_title": "natural_language_processing",
+    "source_path": "data\\knowledge_base\\natural_language_processing.txt",
+    "chunk_index": 2,
+    "total_chunks": 5
+  },
+  {
+    "chunk_id": "natural_language_processing_3",
+    "content": "sis, social media monitoring, and market research. Machine Translation: Neural machine translation uses deep learning to translate text between languages. Attention mechanisms and transformer architectures have significantly improved translation quality. Challenges: NLP faces challenges including ambiguity, context dependency, sarcasm detection, and handling multiple languages. Cultural nuances and domain-specific terminology add complexity.",
+    "source_title": "natural_language_processing",
+    "source_path": "data\\knowledge_base\\natural_language_processing.txt",
+    "chunk_index": 3,
+    "total_chunks": 5
+  },
+  {
+    "chunk_id": "natural_language_processing_4",
+    "content": "es and domain-specific terminology add complexity. Applications: NLP powers chatbots, virtual assistants, content recommendation, automatic summarization, and search engines. It's essential for making unstructured text data actionable.",
+    "source_title": "natural_language_processing",
+    "source_path": "data\\knowledge_base\\natural_language_processing.txt",
+    "chunk_index": 4,
+    "total_chunks": 5
+  },
+  {
+    "chunk_id": "neural_networks_0",
+    "content": "Neural Networks and Deep Learning Neural networks are computing systems inspired by biological neural networks in animal brains. They consist of interconnected nodes (neurons) organized in layers. Architecture: A basic neural network has an input layer, one or more hidden layers, and an output layer. Each connection has a weight that adjusts during training. Deep neural networks have multiple hidden layers, enabling them to learn complex patterns.",
+    "source_title": "neural_networks",
+    "source_path": "data\\knowledge_base\\neural_networks.txt",
+    "chunk_index": 0,
+    "total_chunks": 4
+  },
+  {
+    "chunk_id": "neural_networks_1",
+    "content": "n layers, enabling them to learn complex patterns. Activation Functions: Activation functions introduce non-linearity into the network. Common ones include ReLU (Rectified Linear Unit), sigmoid, and tanh. These functions determine whether a neuron should be activated based on its input. Training Process: Neural networks learn through backpropagation and gradient descent. The network makes predictions, calculates error using a loss function, and adjusts weights to minimize error.",
+    "source_title": "neural_networks",
+    "source_path": "data\\knowledge_base\\neural_networks.txt",
+    "chunk_index": 1,
+    "total_chunks": 4
+  },
+  {
+    "chunk_id": "neural_networks_2",
+    "content": "s function, and adjusts weights to minimize error. This process repeats over many iterations (epochs). Convolutional Neural Networks (CNNs): CNNs are specialized for processing grid-like data such as images. They use convolutional layers that apply filters to detect features like edges, textures, and patterns. CNNs revolutionized computer vision. Recurrent Neural Networks (RNNs): RNNs process sequential data by maintaining internal state (memory).",
+    "source_title": "neural_networks",
+    "source_path": "data\\knowledge_base\\neural_networks.txt",
+    "chunk_index": 2,
+    "total_chunks": 4
+  },
+  {
+    "chunk_id": "neural_networks_3",
+    "content": "ntial data by maintaining internal state (memory). They're used for time series prediction, natural language processing, and speech recognition. Modern variants include LSTMs and GRUs. Challenges: Training deep networks requires large datasets and significant computational resources. Issues include overfitting, vanishing gradients, and the need for careful hyperparameter tuning.",
+    "source_title": "neural_networks",
+    "source_path": "data\\knowledge_base\\neural_networks.txt",
+    "chunk_index": 3,
+    "total_chunks": 4
+  }
+]

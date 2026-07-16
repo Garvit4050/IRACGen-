@@ -1,0 +1,24 @@
+Case Name: Palsgraf v. Long Island Railroad Co.
+Citation: 248 N.Y. 339 (1928)
+Court: New York Court of Appeals
+
+FACTS:
+Railroad guards helped passenger board moving train. Package containing fireworks fell and exploded. Shock waves knocked over scales far away, injuring Palsgraf. She sued railroad.
+
+ISSUE:
+To whom does a defendant owe a duty of care?
+
+HOLDING:
+Duty of care is owed only to foreseeable plaintiffs within the zone of danger.
+
+REASONING:
+Negligence is not actionable unless it involves violation of a legally protected interest. There must be duty to the injured party. Defendant's conduct was not negligent as to Palsgraf because she was not foreseeable plaintiff.
+
+LEGAL PRINCIPLES:
+1. Duty limited to foreseeable plaintiffs
+2. Zone of danger test
+3. No duty to unforeseeable plaintiffs
+4. Proximate cause requires foreseeability
+
+SIGNIFICANCE:
+This case is a landmark precedent in its area of law and is regularly cited in legal analysis and court decisions.

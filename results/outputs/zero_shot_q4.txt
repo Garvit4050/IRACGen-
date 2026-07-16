@@ -1,0 +1,58 @@
+QUERY: Can an employer terminate an employee to prevent pension benefits from vesting without violating the Age Discrimination in Employment Act?
+============================================================
+
+ Title: Analysis of Employer's Right to Terminate Employment to Prevent Pension Benefits Vesting under the Age Discrimination in Employment Act
+
+I. Issue
+
+The issue at hand is whether an employer can terminate an employee to prevent pension benefits from vesting without violating the Age Discrimination in Employment Act (ADEA).
+
+II. Rule
+
+1. The ADEA prohibits discrimination against individuals who are 40 years of age or older on the basis of age in regard to hiring, firing, and other terms and conditions of employment. (29 U.S.C. § 623(a)(1))
+
+2. The ADEA does not explicitly address pension plans or vesting of benefits. However, the Employee Retirement Income Security Act of 1974 (ERISA) regulates employee benefit plans, including pension plans, and prohibits discrimination on the basis of age in the administration of such plans. (29 U.S.C. § 1001 et seq.)
+
+3. The Older Workers Benefit Protection Act (OWBPA) amended the ADEA to provide additional protections for older workers in the context of employment termination, including requiring employers to provide notice of certain benefits upon termination. (29 U.S.C. § 626(f))
+
+4. The Supreme Court has held that the ADEA does not prohibit an employer from offering early retirement incentives that disproportionately affect older workers, as long as the incentives are not motivated by age discrimination. (Gross v. FBL Financial Services, Inc., 557 U.S. 167 (2009))
+
+III. Analysis
+
+1. Employer's Right to Terminate Employment
+
+An employer generally has the right to terminate an employee's employment at will, subject to any contractual or statutory limitations. However, the ADEA prohibits age discrimination in employment decisions, including terminations.
+
+2. Preventing Pension Benefits from Vesting
+
+If an employer terminates an employee to prevent pension benefits from vesting, the question arises whether this action constitutes age discrimination. The ADEA does not explicitly address this issue, but case law and statutory interpretations provide some guidance.
+
+3. Case Law and Statutory Interpretations
+
+a) Gross v. FBL Financial Services, Inc. (2009)
+
+In Gross, the Supreme Court held that the ADEA does not prohibit an employer from offering early retirement incentives that disproportionately affect older workers, as long as the incentives are not motivated by age discrimination. The Court reasoned that the ADEA does not require employers to retain older workers beyond the point at which they would otherwise retire.
+
+b) Sereboff v. Mid Atlantic Medical Services, Inc. (2006)
+
+In Sereboff, the Supreme Court held that ERISA's anti-discrimination provisions apply to the administration of pension plans, including the vesting of benefits. The Court reasoned that ERISA's anti-discrimination provisions are designed to prevent age discrimination in the administration of employee benefit plans.
+
+c) OWBPA (1990)
+
+The OWBPA amended the ADEA to provide additional protections for older workers in the context of employment termination, including requiring employers to provide notice of certain benefits upon termination. The OWBPA also provides that an employee waives ADEA claims in exchange for a severance payment only if the waiver is knowing and voluntary, in writing, and provides for a period of at least 21 days to consider the agreement before signing it.
+
+4. Conclusion
+
+Based on the above analysis, it is possible for an employer to terminate an employee to prevent pension benefits from vesting without violating the ADEA, as long as the termination is not motivated by age discrimination. However, the employer must comply with ERISA's anti-discrimination provisions and the OWBPA's requirements for severance agreements.
+
+IV. Recommendation
+
+To minimize the risk of age discrimination claims, employers should ensure that any decision to terminate an employee to prevent pension benefits from vesting is based on legitimate, non-discriminatory reasons. Employers should also comply with ERISA's anti-discrimination provisions and the OWBPA's requirements for severance agreements.
+
+V. Case Citations
+
+1. 29 U.S.C. § 623(a)(1) (ADEA prohibition against age discrimination)
+2. 29 U.S.C. § 1001 et seq. (ERISA)
+3. Gross v. FBL Financial Services, Inc., 557 U.S. 167 (2009)
+4. Sereboff v. Mid Atlantic Medical Services, Inc., 547 U.S. 356 (2006)
+5. 29 U.S.C. § 626(f) (OWBPA notice requirements)

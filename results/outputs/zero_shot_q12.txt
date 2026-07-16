@@ -1,0 +1,34 @@
+QUERY: What is the substantial performance doctrine and when does it allow recovery despite minor contract deviations?
+============================================================
+
+ Title: Analysis of the Substantial Performance Doctrine and its Application in Recovery for Minor Contract Deviations
+
+I. Issue
+
+The primary issue to be addressed in this legal memorandum is the understanding of the substantial performance doctrine and the circumstances under which it allows recovery despite minor contract deviations.
+
+II. Rule
+
+The substantial performance doctrine is a principle in contract law that allows a contractor to recover for work performed, even if there are minor deviations from the contract specifications, provided that the work is substantially complete and the deviations are not material. The doctrine is intended to encourage contract performance and discourage unnecessary litigation.
+
+The substantial performance doctrine is rooted in the common law and has been adopted by most jurisdictions in the United States. The seminal case on this doctrine is the decision in Hadwin v. British Columbia (Attorney General), [1952] S.C.R. 377, where the Supreme Court of Canada established the test for substantial performance.
+
+III. Analysis
+
+To determine whether substantial performance has been achieved, courts consider several factors, including:
+
+1. Completion of the work: The contractor must have completed the work to a degree that it is practically usable and functional.
+
+2. Scope of the contract: Courts will consider the extent to which the contractor's deviations from the contract specifications are within the scope of the contract.
+
+3. Cause of the deviation: If the deviation was caused by the owner or a third party, the contractor may still be entitled to recovery.
+
+4. Materiality of the deviation: The court will assess whether the deviation is material, i.e., whether it affects the intended use or purpose of the work. If the deviation is not material, the contractor may recover.
+
+5. Reasonableness of the contractor's conduct: The contractor's conduct throughout the project will be evaluated to determine if they acted reasonably in performing the work.
+
+In the case of Gilbane Building Co. v. United States, 447 F.2d 1359 (Ct. Cl. 1971), the court applied the substantial performance doctrine to a government contract, holding that the contractor was entitled to recovery despite minor deviations from the contract specifications. The court found that the work was practically usable and functional, and the deviations were not material.
+
+IV. Conclusion
+
+In conclusion, the substantial performance doctrine allows a contractor to recover for work performed, even if there are minor deviations from the contract specifications, provided that the work is substantially complete and the deviations are not material. The doctrine encourages contract performance and discourages unnecessary litigation. Courts consider several factors, including completion of the work, scope of the contract, cause of the deviation, materiality of the deviation, and reasonableness of the contractor's conduct, to determine substantial performance. Relevant case law includes Hadwin v. British Columbia (Attorney General) and Gilbane Building Co. v. United States.

@@ -1,0 +1,24 @@
+Case Name: Rylands v. Fletcher
+Citation: L.R. 3 H.L. 330 (1868)
+Court: House of Lords (England)
+
+FACTS:
+Rylands built reservoir on his land. Water escaped through old mine shafts and flooded Fletcher's mine. Accident, not negligence. Fletcher sued.
+
+ISSUE:
+Is there strict liability for dangerous activities?
+
+HOLDING:
+Person who brings something dangerous onto land that escapes and causes damage is strictly liable.
+
+REASONING:
+Person who for his own purposes brings on lands something likely to do mischief if it escapes, must keep it at his peril. If he does not, he is answerable for all damage which is natural consequence of its escape.
+
+LEGAL PRINCIPLES:
+1. Strict liability for abnormally dangerous activities
+2. Non-natural use of land
+3. No fault required
+4. Foundation of strict liability doctrine
+
+SIGNIFICANCE:
+This case is a landmark precedent in its area of law and is regularly cited in legal analysis and court decisions.

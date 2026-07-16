@@ -1,0 +1,28 @@
+# Legal Test Queries for LegalRAG System
+#  queries across Employment, Criminal, Contract, and Tort Law
+
+Can an employer be held liable for a supervisor's sexual harassment if the employee did not report it through company channels?
+Does Title VII protect employees from same-sex sexual harassment in the workplace?
+What standard must be met to prove a hostile work environment under Title VII?
+Can an employer terminate an employee to prevent pension benefits from vesting without violating the Age Discrimination in Employment Act?
+What must an employee prove to establish age discrimination when the employer provides a legitimate reason for termination?
+Must an employer accommodate an employee's religious practices if it conflicts with the work schedule?
+When does an employee's constructive discharge constitute a tangible employment action that prevents the employer from raising an affirmative defense?
+When can a party recover consequential damages for breach of contract?
+Is a contract formed when one party claims they were joking but a reasonable person would believe the offer was serious?
+Under what circumstances is a contract unconscionable and therefore unenforceable?
+Can a contract be void due to mutual mistake when both parties had different understandings of a material term?
+What is the substantial performance doctrine and when does it allow recovery despite minor contract deviations?
+When does an advertisement constitute a legally binding offer rather than an invitation to negotiate?
+How do courts interpret ambiguous contract terms when parties disagree on their meaning?
+What is the zone of danger rule and when does a plaintiff fall outside the scope of foreseeable risk?
+Under what circumstances can a manufacturer be held liable for defects in products sold to third parties?
+When can multiple defendants be held jointly liable when it cannot be determined which one caused the plaintiff's injury?
+What is market share liability and when does it apply to defective products from multiple manufacturers?
+Under what circumstances does a therapist have a duty to warn third parties about a patient's threats?
+What is the reasonable person standard in negligence and how is it applied?
+What warnings must police give to suspects before custodial interrogation and what happens if they fail to do so?
+Under what circumstances can police conduct a stop and frisk without probable cause for arrest?
+Is evidence obtained through an illegal search and seizure admissible in state criminal prosecutions?
+What constitutes a search under the Fourth Amendment when government agents use electronic surveillance or GPS tracking?
+When can police use deadly force against a fleeing suspect and what standard governs the use of such force?

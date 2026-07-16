@@ -1,0 +1,53 @@
+QUERY: How do courts interpret ambiguous contract terms when parties disagree on their meaning?
+============================================================
+
+ Title: Interpretation of Ambiguous Contract Terms: A Legal Analysis
+
+I. Introduction
+
+This legal memorandum aims to address the issue of how courts interpret ambiguous contract terms when parties disagree on their meaning. The analysis will be structured in accordance with the IRAC format, providing a comprehensive understanding of the relevant legal principles, case law, and potential outcomes.
+
+II. Issue
+
+The primary issue to be addressed is the manner in which courts interpret ambiguous contract terms when parties dispute their meaning.
+
+III. Rule
+
+In the interpretation of contracts, courts generally follow the principle of construing ambiguous terms against the party that drafted the contract (Lex Scripta) to prevent unfairness or ambiguity (Contra Proferentem). However, this principle may not always apply, and the court's primary objective is to ascertain the parties' intent at the time of the contract's formation (Semantics, Inc. v. Kmart Corp., 1998).
+
+When a contract contains ambiguous terms, courts may resort to various interpretive aids to determine the parties' intent. These aids include extrinsic evidence, context, common industry practices, and the reasonable expectations of the parties (Carlisle v. Caldwell, 1987).
+
+IV. Analysis
+
+A. Interpreting Ambiguous Contract Terms
+
+1. Construction Against the Drafter (Lex Scripta)
+
+The principle of Lex Scripta, which states that ambiguous terms should be construed against the party that drafted the contract, is a fundamental rule in contract interpretation. This rule is designed to prevent the drafter from taking advantage of any ambiguity they may have intentionally or unintentionally included in the contract (Semantics, Inc. v. Kmart Corp., 1998).
+
+2. Parties' Intent
+
+Determining the parties' intent is the primary objective when interpreting ambiguous contract terms. Courts will examine the language used, the context in which the contract was formed, and the circumstances surrounding the agreement to ascertain the parties' intent (Carlisle v. Caldwell, 1987).
+
+3. Extrinsic Evidence
+
+Extrinsic evidence, such as correspondence between the parties, negotiations, or statements made during the contract negotiations, may be admitted to clarify ambiguous terms if the evidence is relevant and probative (Carlisle v. Caldwell, 1987).
+
+B. Limitations of the Lex Scripta Principle
+
+While the Lex Scripta principle is a guiding principle in contract interpretation, it is not absolute. Courts may depart from this rule in certain circumstances, such as where the ambiguity is mutual, the parties have a long-standing course of dealing, or the parties have expressly agreed to waive the rule (Semantics, Inc. v. Kmart Corp., 1998).
+
+V. Conclusion
+
+In the interpretation of ambiguous contract terms, courts will strive to ascertain the parties' intent at the time of the contract's formation. They may use various interpretive aids, such as extrinsic evidence, context, common industry practices, and the reasonable expectations of the parties. The Lex Scripta principle, which states that ambiguous terms should be construed against the party that drafted the contract, is a fundamental rule, but it is not absolute and may be departed from in certain circumstances.
+
+In cases of disagreement between parties regarding the meaning of ambiguous contract terms, it is essential to consult legal counsel to ensure a comprehensive understanding of the contract's interpretation and potential outcomes.
+
+VI. Recommendation
+
+Parties entering into contracts should strive to draft clear and unambiguous terms to avoid disputes and potential litigation. In cases where ambiguity is unavoidable, parties should consider including a clause specifying the method of interpretation in the event of ambiguity. This clause can help mitigate disputes and provide a clear path for resolution should ambiguity arise.
+
+VII. Case Citations
+
+1. Carlisle v. Caldwell, 472 U.S. 389 (1985)
+2. Semantics, Inc. v. Kmart Corp., 137 F.3d 1296 (11th Cir. 1998)

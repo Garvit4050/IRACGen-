@@ -1,0 +1,60 @@
+Case Name: Terry v. Ohio
+Citation: 392 U.S. 1 (1968)
+Court: Supreme Court of the United States
+Year: 1968
+Area: Criminal Law (Fourth Amendment – Search and Seizure / Stop and Frisk)
+
+---
+
+FACTS:
+
+On October 31, 1963, Cleveland Police Detective Martin McFadden observed two men, John Terry and Richard Chilton, repeatedly pacing in front of a store window, peering inside, and conferring with one another. A third man later joined them briefly. Based on his experience, Officer McFadden suspected that the men were “casing” the store in preparation for a robbery.
+
+McFadden approached the men, identified himself as a police officer, and asked for their names. Unsatisfied with their responses and concerned for his safety, he conducted a quick pat-down search of Terry’s outer clothing. During the frisk, he felt a weapon in Terry’s coat pocket and retrieved a revolver. McFadden also found a gun on Chilton. Terry was charged with carrying a concealed weapon.
+
+At trial, Terry moved to suppress the evidence, arguing that the search violated the Fourth Amendment because the officer lacked probable cause for arrest. The trial court denied the motion, and Terry was convicted. The Ohio appellate courts affirmed. The case was appealed to the U.S. Supreme Court.
+
+---
+
+ISSUE:
+
+Whether a police officer may conduct a brief investigatory stop and a limited pat-down search for weapons without probable cause for arrest, consistent with the Fourth Amendment’s prohibition against unreasonable searches and seizures.
+
+---
+
+HOLDING:
+
+The Supreme Court held that a police officer may stop a person based on reasonable suspicion of criminal activity and may conduct a limited pat-down search for weapons if the officer reasonably believes the person is armed and dangerous. The Court affirmed Terry’s conviction, establishing the constitutionality of “stop and frisk” under limited circumstances. The decision was 8–1.
+
+---
+
+REASONING:
+
+Chief Justice Earl Warren delivered the majority opinion. The Court began by recognizing that the Fourth Amendment protects individuals against unreasonable searches and seizures. However, not all interactions between police and citizens require probable cause for arrest.
+
+The Court introduced the concept of “reasonable suspicion,” a standard lower than probable cause. Reasonable suspicion must be based on specific and articulable facts, together with rational inferences drawn from those facts, that criminal activity may be afoot.
+
+The Court balanced two competing interests: the individual’s right to personal security and privacy against the government’s interest in crime prevention and officer safety. It concluded that a limited intrusion—such as a brief stop and a pat-down for weapons—is justified when an officer reasonably suspects criminal activity and fears for safety.
+
+The frisk is not a full search for evidence but a narrowly tailored search for weapons to ensure officer protection. The officer must have reasonable grounds to believe the individual is armed and dangerous. In this case, Terry’s repeated suspicious behavior and the officer’s experience justified the stop, and the protective frisk was reasonable.
+
+Justice Douglas dissented, arguing that allowing searches without probable cause weakened Fourth Amendment protections.
+
+The decision established the “Terry stop” doctrine, creating an exception to the probable cause requirement and shaping modern policing practices.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Reasonable Suspicion Standard: Police may conduct brief investigatory stops based on specific and articulable facts suggesting criminal activity.
+2. Stop and Frisk Doctrine: Officers may perform a limited pat-down search for weapons if they reasonably believe the person is armed and dangerous.
+3. Balancing Test: Fourth Amendment reasonableness is determined by balancing individual privacy interests against legitimate governmental interests.
+4. Limited Scope of Search: A frisk must be confined to discovering weapons and cannot be a general evidence-gathering search.
+
+---
+
+KEY QUOTES:
+
+“And in determining whether the seizure and search were ‘unreasonable’ our inquiry is a dual one—whether the officer’s action was justified at its inception, and whether it was reasonably related in scope to the circumstances which justified the interference in the first place.”
+
+“The officer need not be absolutely certain that the individual is armed; the issue is whether a reasonably prudent man in the circumstances would be warranted in the belief that his safety or that of others was in danger.”

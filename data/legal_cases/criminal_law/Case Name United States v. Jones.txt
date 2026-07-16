@@ -1,0 +1,60 @@
+Case Name: United States v. Jones
+Citation: 565 U.S. 400 (2012)
+Court: Supreme Court of the United States
+Year: 2012
+Area: Criminal Law (Fourth Amendment – Search and Seizure / GPS Surveillance)
+
+---
+
+FACTS:
+
+Antoine Jones was the owner of a nightclub in Washington, D.C., and became the target of a federal drug trafficking investigation. Law enforcement officers obtained a warrant authorizing installation of a GPS tracking device on Jones’s vehicle within 10 days and within the District of Columbia. However, officers installed the device on the 11th day and in Maryland, outside the geographic scope authorized by the warrant.
+
+The government then used the GPS device to monitor Jones’s vehicle movements continuously for 28 days. The data obtained from the tracking device was introduced at trial and contributed to Jones’s conviction for drug conspiracy.
+
+Jones moved to suppress the GPS evidence, arguing that the installation and monitoring of the device constituted an unreasonable search under the Fourth Amendment. The district court suppressed some of the data but admitted most of it. The Court of Appeals for the D.C. Circuit reversed the conviction, holding that the prolonged GPS monitoring violated the Fourth Amendment.
+
+The government appealed to the Supreme Court.
+
+---
+
+ISSUE:
+
+Whether the government’s attachment of a GPS tracking device to a vehicle and use of that device to monitor the vehicle’s movements constitutes a “search” under the Fourth Amendment.
+
+---
+
+HOLDING:
+
+The Supreme Court unanimously held that the government’s installation of a GPS device on Jones’s vehicle and its use to monitor movements constituted a search under the Fourth Amendment. The Court affirmed the judgment of the D.C. Circuit. The majority opinion, written by Justice Scalia, relied on a property-based trespass theory.
+
+---
+
+REASONING:
+
+Justice Antonin Scalia delivered the majority opinion. The Court emphasized that the Fourth Amendment protects against unreasonable searches and seizures of “persons, houses, papers, and effects.” A vehicle qualifies as an “effect.” By physically attaching the GPS device to Jones’s vehicle for the purpose of obtaining information, the government committed a trespass onto private property.
+
+The Court revived a property-based analysis that predated Katz v. United States. While Katz introduced the “reasonable expectation of privacy” test, the Court clarified that Katz supplemented—but did not replace—the traditional property-based approach. Thus, a physical intrusion into a constitutionally protected area for the purpose of gathering information constitutes a search.
+
+Because officers physically occupied Jones’s private property (his vehicle) to install the device and collect data, this action triggered Fourth Amendment scrutiny.
+
+Several concurring opinions focused on privacy concerns arising from prolonged surveillance. Justice Alito, joined by others, argued that long-term GPS monitoring violates reasonable expectations of privacy even without physical trespass. Justice Sotomayor suggested that modern digital surveillance technologies may require reconsideration of existing privacy doctrines.
+
+The decision marked a significant development in Fourth Amendment jurisprudence by reaffirming property-based protections alongside privacy-based analysis and addressing constitutional limits on modern tracking technologies.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Trespass-Based Search Doctrine: Physical intrusion onto private property to obtain information constitutes a Fourth Amendment search.
+2. Dual Framework (Property + Privacy): The Katz reasonable expectation test supplements but does not replace traditional property analysis.
+3. Vehicle as “Effect”: Automobiles are constitutionally protected property under the Fourth Amendment.
+4. Digital Surveillance Concerns: Prolonged electronic tracking raises significant constitutional privacy issues.
+
+---
+
+KEY QUOTES:
+
+“The Government physically occupied private property for the purpose of obtaining information.”
+
+“Katz did not narrow the Fourth Amendment’s scope.”

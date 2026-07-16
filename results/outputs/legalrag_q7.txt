@@ -1,0 +1,74 @@
+QUERY: When does an employee's constructive discharge constitute a tangible employment action that prevents the employer from raising an affirmative defense?
+============================================================
+
+LEGAL MEMORANDUM
+
+============================================================
+
+ISSUE
+------------------------------------------------------------
+
+Whether an employee's constructive discharge, as illustrated in the case of Pennsylvania State Police v. Suders (2004), can be considered a tangible employment action that prevents an employer from raising an affirmative defense, as established in Burlington Industries, Inc. v. Ellerth (1998), in a Title VII sexual harassment claim. This inquiry seeks to elucidate the circumstances under which an employee's resignation in response to a hostile work environment, constituting constructive discharge, precludes an employer from asserting a defense of lack of knowledge or remedial action, as stipulated in the aforementioned cases.
+
+============================================================
+
+RULE
+------------------------------------------------------------
+
+In Title VII sexual harassment claims, an employer's affirmative defense of lack of knowledge or remedial action may be precluded if an employee's constructive discharge, as illustrated in Pennsylvania State Police v. Suders (2004), can be considered a tangible employment action.
+
+1. Pennsylvania State Police v. Suders (2004) - The Supreme Court held that an employee's resignation in response to a hostile work environment, constituting constructive discharge, may be considered a tangible employment action, which can potentially preclude an employer from asserting a defense of lack of knowledge or remedial action.
+
+2. Burlington Industries, Inc. v. Ellerth (1998) - The Supreme Court established that employers are liable for sexual harassment by a supervisor if they knew or should have known about the harassment and failed to take prompt and appropriate corrective action.
+
+Exceptions:
+
+1. An employer may still assert the affirmative defense if it can demonstrate that it exercised reasonable care to prevent and correct any sexually harassing behavior and the employee unreasonably failed to take advantage of any preventive or corrective opportunities provided by the employer.
+
+2. In cases of constructive discharge, the employee must demonstrate that the employer's conduct made working conditions intolerable, and the employee was forced to resign as a reasonable response to the intolerable conditions.
+
+Limitations:
+
+1. The employer's liability for constructive discharge arises only when the employee's resignation is a reasonable response to the intolerable conditions. If the employee's resignation is not a reasonable response, the employer may still assert the affirmative defense.
+
+2. The employer's knowledge of the harassment is crucial in determining liability. If the employer did not know or could not have reasonably known about the harassment, it may still assert the affirmative defense.
+
+3. The employer's remedial actions, if any, are also crucial in determining liability. If the employer took prompt and appropriate corrective action, it may still assert the affirmative defense.
+
+In summary, in Title VII sexual harassment claims, an employee's constructive discharge can be considered a tangible employment action that may preclude an employer from asserting a defense of lack of knowledge or remedial action, provided that the employee's resignation is a reasonable response to intolerable conditions, the employer knew or should have known about the harassment, and the employer failed to take prompt and appropriate corrective action.
+
+============================================================
+
+ANALYSIS
+------------------------------------------------------------
+
+In the context of Title VII sexual harassment claims, the constructive discharge by an employee can potentially preclude an employer from asserting a defense of lack of knowledge or remedial action, as established in Burlington Industries, Inc. v. Ellerth (1998). Here, we will analyze the implications of this legal principle in the specific facts of the Pennsylvania State Police v. Suders (2004) case.
+
+In Pennsylvania State Police v. Suders, the employee, Nancy Drew Suders, resigned from her position as a communications operator due to a hostile work environment created by several male supervisors. The Supreme Court held that Suders' resignation, constituting constructive discharge, may be considered a tangible employment action, which can potentially preclude the employer from asserting a defense of lack of knowledge or remedial action (Pennsylvania State Police v. Suders, 542 U.S. 129).
+
+Similarly to Suders, Kimberly Ellerth in Burlington Industries, Inc. v. Ellerth (1998) was subjected to a hostile work environment by her supervisor. However, in contrast to Suders, Ellerth did not resign but instead reported the harassment. The Supreme Court established that employers are liable for sexual harassment by a supervisor if they knew or should have known about the harassment and failed to take prompt and appropriate corrective action (Burlington Industries, Inc. v. Ellerth, 524 U.S. 742).
+
+Applying the rules from the RULE section to the facts of Suders, it can be inferred that the employer may still assert the affirmative defense if it can demonstrate that it exercised reasonable care to prevent and correct any sexually harassing behavior and Suders unreasonably failed to take advantage of any preventive or corrective opportunities provided by the employer. Here, it is crucial to determine whether the employer knew or should have known about the harassment and whether it took prompt and appropriate corrective action.
+
+In this case, Suders' resignation in response to the intolerable conditions created by the hostile work environment can be considered a tangible employment action, potentially precluding the employer from asserting a defense of lack of knowledge or remedial action. However, the employer may still assert the affirmative defense if it can demonstrate that it exercised reasonable care to prevent and correct any sexually harassing behavior and Suders unreasonably failed to take advantage of any preventive or corrective opportunities provided by the employer.
+
+It is essential to compare and distinguish each precedent case. For instance, in Hazen Paper Co. v. Biggins (1993), the employee was terminated due to age discrimination, not sexual harassment. Therefore, the principles established in this case are not directly applicable to Title VII sexual harassment claims. On the other hand, Meritor Savings Bank v. Vinson (1986) and Harris v. Forklift Systems, Inc. (1993) both involve sexual harassment claims, but they do not address the issue of constructive discharge or its implications on an employer's affirmative defense.
+
+Addressing the strongest counterargument, it could be argued that an employee's resignation, even in response to a hostile work environment, should not be considered a tangible employment action that precludes an employer from asserting a defense of lack of knowledge or remedial action. However, the Supreme Court's decision in Pennsylvania State Police v. Suders (2004) establishes that an employee's resignation in response to a hostile work environment can be considered a tangible employment action, which can potentially preclude an employer from asserting a defense of lack of knowledge or remedial action, provided that the employee's resignation is a reasonable response to intolerable conditions, the employer knew or should have known about the harassment, and the employer failed to take prompt and appropriate corrective action.
+
+In conclusion, in Title VII sexual harassment claims, an employee's constructive discharge can be considered a tangible employment action that may preclude an employer from asserting a defense of lack of knowledge or remedial action, provided that the employee's resignation is a reasonable response to intolerable conditions, the employer knew or should have known about the harassment, and the employer failed to take prompt and appropriate corrective action. The facts of Pennsylvania State Police v. Suders (2004) illustrate this principle, and it is essential to consider each element of the applicable legal test when analyzing similar cases.
+
+============================================================
+
+CONCLUSION
+------------------------------------------------------------
+
+In conclusion, the question of whether an employer can assert a defense of lack of knowledge or remedial action in the face of an employee's constructive discharge hinges on several key factors. Firstly, the employee's resignation must be a reasonable response to intolerable conditions. Secondly, the employer must have known or should have known about the harassment. Lastly, the employer must have failed to take prompt and appropriate corrective action.
+
+The case of Pennsylvania State Police v. Suders (2004) serves as a compelling illustration of this principle. In this case, the court found that the employer's knowledge of the intolerable conditions and failure to address them led to a constructive discharge, thereby precluding the employer from asserting a defense of lack of knowledge or remedial action.
+
+Given these factors, it is likely that in similar cases, courts would find that an employer's lack of response to intolerable conditions can lead to a constructive discharge, thereby stripping the employer of the defense of lack of knowledge or remedial action. However, there may be genuine uncertainties in cases where the employee's response to intolerable conditions is not clearly reasonable, or where the employer can demonstrate a genuine and diligent effort to address the harassment.
+
+In summary, employers must be vigilant in addressing and correcting intolerable conditions in the workplace to avoid the possibility of a constructive discharge and the subsequent loss of the defense of lack of knowledge or remedial action.
+
+============================================================

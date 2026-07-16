@@ -1,0 +1,48 @@
+QUERY: When can a party recover consequential damages for breach of contract?
+============================================================
+
+ Title: Recovery of Consequential Damages for Breach of Contract
+
+I. Introduction
+
+This legal memorandum aims to analyze the circumstances under which a party can recover consequential damages for breach of contract. The discussion will be structured in accordance with the IRAC (Issue, Rule, Analysis, Conclusion) format, and relevant case citations and legal principles will be provided.
+
+II. Issue
+
+The primary issue to be addressed is the circumstances under which a non-breaching party can recover consequential damages in the event of a breach of contract.
+
+III. Rule
+
+In contract law, the general rule is that a party is only entitled to recover direct, or compensatory, damages as a result of a breach of contract (Hadley v. Baxendale, (1854) 9 Exch. 341). Consequential damages, also known as special damages, are indirect losses that are a foreseeable result of the breach but are not part of the primary obligations under the contract (ibid.).
+
+However, the principle of foreseeability allows a non-breaching party to recover consequential damages if they were a foreseeable result of the breach at the time the contract was formed (ibid.). This principle is further expanded upon in the case of Halsbury v. Bismarck (1891) AC 246, where it was held that a party can recover consequential damages if they were a natural and probable consequence of the breach, even if they were not expressly contemplated by the parties at the time of contract formation.
+
+IV. Analysis
+
+1. Foreseeability of Consequential Damages
+
+To recover consequential damages, the non-breaching party must demonstrate that the damages were foreseeable at the time of contract formation. In Hadley v. Baxendale, the court held that damages were foreseeable if they were "in the contemplation of both parties, at the time they made the contract, as the probable result of the breach of it." In other words, the damages must have been within the "common knowledge of businesspeople" (ibid.).
+
+2. Natural and Probable Consequences
+
+In Halsbury v. Bismarck, the court expanded upon the foreseeability principle, holding that a party could recover consequential damages if they were a natural and probable consequence of the breach, even if they were not expressly contemplated by the parties at the time of contract formation. This principle allows for a broader recovery of consequential damages, as long as they are a foreseeable and reasonable result of the breach.
+
+3. Exclusion Clauses
+
+It is important to note that parties can limit or exclude their liability for consequential damages through the use of exclusion clauses in the contract. However, such clauses are subject to the Unfair Contract Terms Act 1977, which prohibits the use of unfair or unreasonable exclusion clauses (Unfair Contract Terms Act 1977, s. 11).
+
+V. Conclusion
+
+In conclusion, a non-breaching party can recover consequential damages for breach of contract if they were a foreseeable result of the breach at the time of contract formation, or if they were a natural and probable consequence of the breach, even if not expressly contemplated by the parties. However, the recovery of consequential damages is subject to the principle of foreseeability and the use of exclusion clauses in the contract.
+
+It is essential for parties to carefully consider the potential for consequential damages when drafting contracts and to ensure that any exclusion clauses are fair and reasonable to avoid potential disputes and claims for damages.
+
+VI. Recommendation
+
+Given the complexities surrounding the recovery of consequential damages for breach of contract, it is recommended that parties seek legal advice when drafting and negotiating contracts to ensure that their interests are protected and that they are aware of their rights and obligations in the event of a breach.
+
+VII. Case Citations
+
+Hadley v. Baxendale, (1854) 9 Exch. 341
+Halsbury v. Bismarck, (1891) AC 246
+Unfair Contract Terms Act 1977, s. 11

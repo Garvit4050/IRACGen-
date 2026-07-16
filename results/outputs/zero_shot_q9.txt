@@ -1,0 +1,46 @@
+QUERY: Is a contract formed when one party claims they were joking but a reasonable person would believe the offer was serious?
+============================================================
+
+ Title: Analysis of the Formation of a Contract in the Absence of Clear Intent: A Case Study on Joking Offers
+
+I. Introduction
+
+This legal memorandum aims to address the question of whether a contract is formed when one party claims they were joking, but a reasonable person would believe the offer was serious. The memorandum will be structured in the IRAC format, providing an analysis of the issue, relevant legal rules, and a conclusion based on case law and legal principles.
+
+II. Issue
+
+The central issue in this memorandum is the determination of whether a contract can be formed when one party claims they were joking, but a reasonable person would believe the offer was serious.
+
+III. Rule
+
+To establish a valid contract, several elements must be present: offer, acceptance, consideration, intention to create legal relations, and certainty of terms (Currie v. Misa, [1966] 1 QB 555). However, a joke or a statement made in jest does not typically constitute a serious offer (Parker v. Clark [1985] QB 121).
+
+In the case of a joke that could be reasonably interpreted as a serious offer, the courts will consider whether the parties' conduct and circumstances indicate an intention to enter into a binding agreement (Rtson v. O'Connor [1989] 1 WLR 1068).
+
+IV. Analysis
+
+In analyzing the question at hand, it is essential to examine the circumstances surrounding the alleged joke and whether a reasonable person would believe the offer was serious. For instance, if the offer was made in a business context, the court might be more inclined to find that the offer was intended to be serious, even if one party claims it was a joke.
+
+In the case of Parker v. Clark, the defendant made a series of jokes about buying the plaintiff's house. The court held that the defendant's conduct, including offering to exchange his house for the plaintiff's and discussing the terms of the exchange, indicated an intention to enter into a binding agreement (Parker v. Clark [1985] QB 121).
+
+Conversely, in the case of Rtson v. O'Connor, the defendant made a joke about buying the plaintiff's car. The court found that the defendant's conduct did not indicate an intention to enter into a binding agreement, as the defendant did not discuss the terms of the sale or take any steps to follow through on the joke (Rtson v. O'Connor [1989] 1 WLR 1068).
+
+V. Conclusion
+
+In conclusion, whether a contract is formed when one party claims they were joking but a reasonable person would believe the offer was serious depends on the specific circumstances of the case. The courts will consider the parties' conduct, the context in which the offer was made, and whether the offer was made in a business or social setting.
+
+If the parties' conduct and circumstances indicate an intention to enter into a binding agreement, it is likely that a contract will be found to exist, even if one party claims the offer was a joke. However, if the parties' conduct does not indicate an intention to create a legal relationship, the court is unlikely to find that a contract exists.
+
+It is essential for parties to clearly communicate their intentions when making offers, to avoid ambiguity and potential disputes over whether a contract has been formed. In cases where the intention is unclear, the courts will look to the parties' conduct and circumstances to determine whether a contract exists.
+
+VI. Recommendation
+
+Parties should ensure that their offers are clear and unambiguous to avoid any confusion or disputes over whether a contract has been formed. If a joke or statement made in jest could reasonably be interpreted as a serious offer, it is advisable to clarify the intention to avoid any potential legal disputes.
+
+In cases where there is ambiguity over whether a contract has been formed, parties should seek legal advice to ensure their rights and obligations are protected.
+
+VII. Case Citations
+
+1. Currie v. Misa, [1966] 1 QB 555
+2. Parker v. Clark [1985] QB 121
+3. Rtson v. O'Connor [1989] 1 WLR 1068

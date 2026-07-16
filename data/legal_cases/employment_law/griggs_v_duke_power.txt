@@ -1,0 +1,27 @@
+Case Name: Griggs v. Duke Power Co.
+Citation: 401 U.S. 424 (1971)
+Court: Supreme Court of the United States
+Area: Employment Law - Discrimination
+
+FACTS:
+Duke Power Company required a high school diploma or passing of intelligence tests as a condition of employment in or transfer to jobs at the plant. These requirements were instituted after the Civil Rights Act of 1964. African American employees challenged these requirements, arguing they were not significantly related to successful job performance and had a discriminatory impact. The district court found that the company had previously openly discriminated but found the new requirements acceptable. The Court of Appeals reversed in part.
+
+ISSUE:
+Whether employment practices that appear neutral on their face but have a discriminatory impact violate Title VII of the Civil Rights Act of 1964, even in the absence of discriminatory intent.
+
+HOLDING:
+The Supreme Court held that Title VII prohibits not only overt discrimination but also practices that are fair in form but discriminatory in operation. Employment tests and requirements must be demonstrably related to job performance.
+
+REASONING:
+Chief Justice Burger wrote for a unanimous Court. The Court reasoned that Title VII's objective is to achieve equality of employment opportunities and remove barriers that have operated to favor white employees. The Court stated that good intent or absence of discriminatory intent does not redeem employment procedures that operate as "built-in headgear for minorities and are unrelated to measuring job capability."
+
+The Court emphasized that diplomas and tests are useful but cannot become masters of reality. If an employment practice cannot be shown to be related to job performance, it is prohibited by Title VII. The touchstone is business necessity. The employer bears the burden of showing that any given requirement has a manifest relationship to the employment in question.
+
+LEGAL PRINCIPLES:
+1. Disparate Impact Theory: Practices neutral on their face may violate Title VII if they have a discriminatory impact
+2. Business Necessity Defense: Employers must show job-relatedness for requirements with disparate impact
+3. Burden of Proof: Employer must prove requirements are related to job performance
+4. Intent Not Required: Discriminatory intent is not required to prove Title VII violation
+
+SIGNIFICANCE:
+This case established the disparate impact theory of discrimination, which remains a fundamental principle in employment discrimination law. It shifted focus from intentional discrimination to the effects of employment practices.

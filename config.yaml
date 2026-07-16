@@ -1,0 +1,144 @@
+# ============================================================
+# LegalRAG - Configuration File
+# ============================================================
+
+# Project Settings
+project:
+  name: "LegalRAG"
+  version: "1.0.0"
+  domain: "legal"
+  document_type: "legal_memorandum"
+
+# ============================================================
+# LLM Configuration
+# ============================================================
+llm:
+  provider: "local"              # Options: "local", "anthropic", "openai"
+  local_provider: "ollama"       # Only used when provider = "local"
+  local_model: "mistral"         # Ollama model name (run: ollama pull mistral)
+  temperature: 0.3               # Lower = more factual (range: 0.0 - 1.0)
+  max_tokens: 2000
+
+  # Only needed if provider = "anthropic" or "openai"
+  api_key_env: "ANTHROPIC_API_KEY"
+  api_model: "claude-3-sonnet-20240229"
+
+# ============================================================
+# Document Generation Settings
+# ============================================================
+document:
+  structure: "IRAC"              # Issue - Rule - Analysis - Conclusion
+
+  # Word limits for each IRAC section
+  word_limits:
+    issue: 200
+    rule: 400
+    analysis: 800
+    conclusion: 300
+
+  total_words: 1700
+  min_citations: 3               # Minimum case citations required
+  citation_format: "bluebook"    # Standard US legal citation format
+
+# ============================================================
+# Knowledge Base Settings
+# ============================================================
+knowledge_base:
+  path: "data/legal_cases"
+  processed_path: "data/processed"
+  chunk_size: 512                # Characters per chunk when indexing
+  chunk_overlap: 50
+  areas:
+    - "employment_law"
+    - "contract_law"
+    - "tort_law"
+
+# ============================================================
+# Retrieval Settings
+# ============================================================
+retrieval:
+
+  # Module 1: Query Expansion
+  query_expansion:
+    enabled: true
+    num_queries: 4               # Expand original query into 4 specific questions
+
+  # Module 2: Hybrid Retrieval
+  hybrid:
+    alpha: 0.5                   # Weight: 0.5 = equal dense + sparse
+                                 # 0.0 = sparse only, 1.0 = dense only
+    top_k: 20                    # Number of documents to retrieve
+
+    # Dense retrieval (semantic similarity)
+    dense:
+      model: "sentence-transformers/all-MiniLM-L6-v2"
+      embedding_dim: 384
+      device: "cpu"              # Change to "cuda" if GPU is available
+
+    # Sparse retrieval (keyword matching)
+    sparse:
+      algorithm: "bm25"
+      k1: 1.5                    # BM25 term frequency saturation
+      b: 0.75                    # BM25 document length normalization
+
+  # Module 3: Reranking
+  reranking:
+    enabled: true
+    model: "cross-encoder/ms-marco-MiniLM-L-6-v2"
+    top_k: 5                     # Keep top 5 after reranking
+    device: "cpu"
+
+# ============================================================
+# Verification Settings (Module 5)
+# ============================================================
+verification:
+  enabled: true
+  citation_check: true           # Verify each citation exists in knowledge base
+  citation_accuracy_threshold: 0.95
+  nli_model: "facebook/bart-large-mnli"   # For legal fact checking
+  nli_threshold: 0.7             # Minimum NLI confidence score
+  max_iterations: 2              # Max self-correction attempts
+  correction_enabled: true
+
+# ============================================================
+# Evaluation Settings
+# ============================================================
+evaluation:
+  metrics:
+    - "citation_accuracy"        # % of real citations (0-1)
+    - "legal_accuracy"           # % of supported claims (0-1)
+    - "irac_compliance"          # IRAC structure score (0-1)
+    - "precedent_relevance"      # Relevance of cited cases (0-1)
+    - "hallucination_rate"       # % unsupported claims (0-1, lower=better)
+
+  significance_level: 0.05      # p-value for statistical tests
+  manual_sample_size: 0.2       # 20% of documents manually verified
+
+# ============================================================
+# Experiment Settings
+# ============================================================
+experiment:
+  num_test_queries: 25
+  approaches:
+    - "zero_shot"
+    - "naive_rag"
+    - "modular_rag"
+  output_dir: "results/outputs"
+  metrics_dir: "results/metrics"
+  figures_dir: "results/figures"
+
+# ============================================================
+# Logging
+# ============================================================
+logging:
+  level: "INFO"                  # DEBUG | INFO | WARNING | ERROR
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/legal_rag.log"
+
+# ============================================================
+# Performance
+# ============================================================
+performance:
+  batch_size: 32
+  num_workers: 4
+  cache_embeddings: true         # Cache embeddings for faster re-runs

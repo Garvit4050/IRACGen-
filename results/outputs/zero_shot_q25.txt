@@ -1,0 +1,38 @@
+QUERY: When can police use deadly force against a fleeing suspect and what standard governs the use of such force?
+============================================================
+
+ Title: Analysis of the Standard Governing the Use of Deadly Force Against a Fleeing Suspect
+
+I. Issue
+
+The issue at hand concerns the circumstances under which law enforcement officers may employ deadly force against a fleeing suspect, and the legal standard that governs such use of force.
+
+II. Rule
+
+The use of deadly force by law enforcement officers is regulated by the Fourth Amendment to the United States Constitution, which prohibits unreasonable searches and seizures, and by case law interpreting this Amendment. The Supreme Court has established a two-prong test for determining whether the use of deadly force is reasonable: (1) the officer has a subjective belief that the suspect poses a significant threat of death or serious physical injury to the officer or others, and (2) the officer's belief is objectively reasonable under the circumstances. (Tennessee v. Garner, 471 U.S. 1, 34 (1985)).
+
+III. Analysis
+
+A. Deadly Force and the Pursuit of a Fleeing Suspect
+
+In general, the use of deadly force against a fleeing suspect is not permissible unless the suspect poses a significant threat of death or serious physical injury to the officer or others. However, the Supreme Court has recognized that the pursuit of a fleeing suspect may sometimes necessitate the use of deadly force. In Tennessee v. Garner, the Court held that an officer may use deadly force to prevent the escape of a suspect only when the officer has probable cause to believe that the suspect has committed a crime involving violence or an inherently dangerous act, and when the officer has probable cause to believe that the suspect poses a significant threat of death or serious physical injury to the officer or others.
+
+B. Objective Reasonableness Standard
+
+The objective reasonableness standard requires that a reasonable officer, facing the same circumstances, would also believe that the use of deadly force was necessary to protect against the imminent threat of death or serious physical injury. This standard takes into account the specific facts and circumstances of each case, including the age, size, and physical condition of the suspect, the nature and severity of the crime at issue, and the presence of weapons or other factors that may increase the perceived threat.
+
+C. Case Examples
+
+1. Graham v. Connor (1989): In this case, the Supreme Court held that the objective reasonableness standard applies not only to the use of deadly force but also to the use of force generally. The Court emphasized that the use of force must be judged from the perspective of a reasonable officer on the scene, rather than with the benefit of hindsight.
+
+2. Plumhoff v. Rickard (2014): In this case, the Supreme Court held that officers may use deadly force to terminate a high-speed car chase when the suspect's vehicle poses an imminent threat to the public, even if the suspect is not actively attempting to evade capture.
+
+IV. Conclusion
+
+The use of deadly force against a fleeing suspect is permissible only when the officer has a subjective belief that the suspect poses a significant threat of death or serious physical injury to the officer or others, and that belief is objectively reasonable under the circumstances. The objective reasonableness standard takes into account the specific facts and circumstances of each case, and the Supreme Court has provided guidance on when deadly force may be used during the pursuit of a fleeing suspect. Officers must exercise their discretion in accordance with this standard to ensure that their use of force is justified and lawful.
+
+Case citations:
+
+1. Tennessee v. Garner, 471 U.S. 1 (1985)
+2. Graham v. Connor, 490 U.S. 386 (1989)
+3. Plumhoff v. Rickard, 572 U.S. 765 (2014)

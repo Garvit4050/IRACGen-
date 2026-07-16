@@ -1,0 +1,45 @@
+QUERY: When can police use deadly force against a fleeing suspect and what standard governs the use of such force?
+============================================================
+
+ Title: Analysis of the Standard Governing the Use of Deadly Force by Police Against a Fleeing Suspect
+
+I. Introduction
+
+This memorandum aims to analyze the standard governing the use of deadly force by police against a fleeing suspect, as outlined in the seminal case of Tennessee v. Garner, 471 U.S. 1 (1985).
+
+II. Background
+
+A. Tennessee v. Garner (1985)
+
+In Tennessee v. Garner, the Supreme Court of the United States established the standard for the use of deadly force by law enforcement officers. The case involved a 15-year-old suspect, Edward Garner, who was fleeing from police officers in response to a burglary call (Tennessee v. Garner, 471 U.S. 1 (1985)).
+
+B. Other Relevant Precedents
+
+While the cases cited below are not directly related to the use of deadly force, they provide context and legal principles that may be useful in understanding the legal landscape surrounding police conduct.
+
+1. Carlill v. Carbolic Smoke Ball Company (1893) - Established the principle of unilateral contracts.
+2. Jacob & Youngs, Inc. v. Kent (1921) - Established the principle of substantial performance in contract law.
+3. Frigaliment Importing Co. v. B.N.S. International Sales Corp. (1960) - Addresses the interpretation of contracts, ambiguity, and trade usage.
+4. Batson v. Kentucky (1986) - Concerning equal protection, jury selection, and peremptory challenges.
+
+III. Analysis
+
+A. Standard for Use of Deadly Force
+
+In Tennessee v. Garner, the Court held that a police officer's use of deadly force to prevent the escape of an unarmed, non-dangerous suspect who is fleeing from the officer, without violation of the Fourth Amendment, is unreasonable and violates the Fourth Amendment's prohibition on unreasonable seizures (Tennessee v. Garner, 471 U.S. 1 (1985)).
+
+B. Exceptions to the Standard
+
+The Court recognized that there may be exceptions to this rule, such as when the suspect poses a significant threat to the officer or others, or when the suspect actively resists arrest. However, the Court emphasized that such exceptions must be narrowly construed, and the use of deadly force must be objectively justified under the circumstances.
+
+C. Other Relevant Legal Principles
+
+1. Unilateral Contracts (Carlill v. Carbolic Smoke Ball Company, 1893) - This principle may be relevant in understanding the nature of an officer's duty to apprehend a suspect, as it could be argued that a police officer's duty to apprehend a suspect could be considered a unilateral contract with the public.
+
+2. Substantial Performance (Jacob & Youngs, Inc. v. Kent, 1921) - This principle could potentially be applied to analyze whether an officer's use of force was substantially in compliance with the standard established in Tennessee v. Garner.
+
+3. Interpretation of Contracts (Frigaliment Importing Co. v. B.N.S. International Sales Corp., 1960) - This principle may be useful in interpreting the officer's duty to apprehend a suspect, particularly if the duty is considered a contractual obligation.
+
+IV. Conclusion
+
+The standard governing the use of deadly force by police against a fleeing suspect, as outlined in Tennessee v. Garner, requires that such force be objectively justified under the circumstances and not used excessively. Exceptions to this rule may exist, but they must be narrowly construed. Other legal principles, such as unilateral contracts, substantial performance, and the interpretation of contracts, may provide additional context and guidance in understanding the use of force by police officers.

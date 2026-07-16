@@ -1,0 +1,41 @@
+QUERY: Can an employer be held liable for a supervisor's sexual harassment if the employee did not report it through company channels?
+============================================================
+
+ Title: Liability of Employers for Unreported Supervisor Sexual Harassment: An Analysis under Title VII of the Civil Rights Act of 1964
+
+I. Issue
+
+The issue at hand concerns the potential liability of an employer for supervisor sexual harassment when the employee has not reported the misconduct through company channels. The question is whether an employer can be held liable under Title VII of the Civil Rights Act of 1964 for unreported sexual harassment by a supervisor.
+
+II. Rule
+
+Title VII of the Civil Rights Act of 1964 prohibits employers from discriminating on the basis of sex in any aspect of employment, including sexual harassment. The Supreme Court has established two forms of employer liability for sexual harassment: (1) hostile work environment, and (2) quid pro quo harassment.
+
+In the context of a hostile work environment, an employer can be held liable if it knew or should have known about the harassment and failed to take prompt and effective remedial action. In the case of Faragher v. City of Boca Raton, 524 U.S. 775 (1998), the Supreme Court established the Faragher-Ellerth defense, which provides an affirmative defense for employers if they can demonstrate that (1) they exercised reasonable care to prevent and correct promptly any sexually harassing behavior, and (2) the plaintiff employee unreasonably failed to take advantage of any preventive or corrective opportunities provided by the employer or to avoid harm otherwise.
+
+In the case of quid pro quo harassment, an employer can be held liable if a supervisor conditioned employment benefits on an employee's submission to unwelcome sexual advances. The employer can be held strictly liable for the actions of the supervisor, regardless of whether the employer knew or should have known about the harassment.
+
+III. Analysis
+
+In the context of unreported sexual harassment, the question is whether an employer can be held liable under either the hostile work environment or quid pro quo harassment standards.
+
+A. Hostile Work Environment
+
+In the case of unreported sexual harassment, an employer may still be held liable if it knew or should have known about the harassment. This can be demonstrated through evidence of a hostile work environment that is so severe or pervasive that it alters the terms, conditions, or privileges of employment.
+
+In Meritor Savings Bank v. Vinson, 477 U.S. 57 (1986), the Supreme Court established that an employer can be held liable for a hostile work environment created by a supervisor, even if the employee did not report the harassment. The Court reasoned that a supervisor's harassment is imputed to the employer, and the employer is strictly liable for the actions of its supervisors.
+
+However, the Faragher-Ellerth defense may still apply if the employer can demonstrate that it exercised reasonable care to prevent and correct promptly any sexually harassing behavior and the employee unreasonably failed to take advantage of any preventive or corrective opportunities provided by the employer or to avoid harm otherwise.
+
+B. Quid Pro Quo Harassment
+
+In the case of quid pro quo harassment, an employer can be held strictly liable for the actions of the supervisor, regardless of whether the employer knew or should have known about the harassment. This is because the supervisor's conditioning of employment benefits on an employee's submission to unwelcome sexual advances constitutes a violation of Title VII, and the employer is vicariously liable for the actions of its supervisors.
+
+IV. Conclusion
+
+In conclusion, an employer can be held liable for supervisor sexual harassment, even if the employee did not report it through company channels. Under the hostile work environment standard, an employer may be held liable if it knew or should have known about the harassment and failed to take prompt and effective remedial action. Under the quid pro quo harassment standard, an employer can be held strictly liable for the actions of the supervisor, regardless of whether the employer knew or should have known about the harassment. Employers should take proactive measures to prevent and correct sexual harassment in the workplace and provide employees with opportunities to report harassment and seek redress.
+
+Relevant Case Citations:
+
+1. Faragher v. City of Boca Raton, 524 U.S. 775 (1998)
+2. Meritor Savings Bank v. Vinson, 477 U.S. 57 (1986)

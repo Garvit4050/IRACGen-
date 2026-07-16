@@ -1,0 +1,24 @@
+Case Name: Price Waterhouse v. Hopkins
+Citation: 490 U.S. 228 (1989)
+Court: Supreme Court of the United States
+
+FACTS:
+Ann Hopkins was denied partnership at Price Waterhouse despite strong performance. Comments about her allegedly insufficiently feminine behavior were made by partners. Some suggested she take a course at charm school.
+
+ISSUE:
+In a Title VII case, when discrimination is shown to be a motivating factor, what is the employer's burden?
+
+HOLDING:
+Once plaintiff shows discrimination was a motivating factor, employer must prove it would have made the same decision absent discrimination.
+
+REASONING:
+Title VII meant to strike at entire spectrum of disparate treatment. When illegitimate factor plays a motivating part, employer can avoid liability only by proving it would have made same decision without that factor.
+
+LEGAL PRINCIPLES:
+1. Mixed-motive discrimination theory
+2. Motivating factor test (later codified in 1991 Civil Rights Act)
+3. Employer's same-decision defense
+4. Sex stereotyping is form of sex discrimination
+
+SIGNIFICANCE:
+This case is a landmark precedent in its area of law and is regularly cited in legal analysis and court decisions.

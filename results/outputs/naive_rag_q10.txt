@@ -1,0 +1,32 @@
+QUERY: Under what circumstances is a contract unconscionable and therefore unenforceable?
+============================================================
+
+ Title: Analysis of Circumstances Under Which a Contract May Be Deemed Unconscionable and Unenforceable
+
+I. Introduction
+
+This memorandum aims to provide an analysis of the circumstances under which a contract may be deemed unconscionable and, consequently, unenforceable. The discussion will be guided by relevant legal precedents, including Williams v. Walker-Thomas Furniture Co., Frigaliment Importing Co. v. B.N.S. International Sales Corp., Carlill v. Carbolic Smoke Ball Company, Wood v. Lucy, Lady Duff-Gordon, and Jacob & Youngs, Inc. v. Kent.
+
+II. Unconscionability in Contract Law
+
+Unconscionability refers to a situation where a contract is so unfair or oppressive that it would shock the conscience of the court. In order for a contract to be deemed unconscionable and unenforceable, it must contain terms that are both procedurally and substantively unconscionable.
+
+A. Procedural Unconscionability
+
+Procedural unconscionability arises when the contractual terms are so one-sided that they are the result of unequal bargaining power or lack of meaningful choice on the part of one of the parties. In Williams v. Walker-Thomas Furniture Co. (1965), the court held that a standardized installment contract containing a "cross-collateral" clause was procedurally unconscionable because it was imposed on a consumer with limited financial means, who had no meaningful choice but to accept the terms due to the imbalance in bargaining power.
+
+B. Substantive Unconscionability
+
+Substantive unconscionability occurs when the terms of the contract are so harsh or unreasonable that no person in his or her senses and with ordinary prudence would make the agreement. In Frigaliment Importing Co. v. B.N.S. International Sales Corp. (1960), the court found that the contracts were ambiguous and lacked clear trade usage, making it difficult for the parties to perform their obligations, which could be considered substantively unconscionable.
+
+III. Implications of Unconscionability on Contract Enforceability
+
+When a contract is found to be unconscionable, it may be modified or partially enforced by the court to make it fair and equitable for both parties. In Carlill v. Carbolic Smoke Ball Company (1893), the court enforced a unilateral contract despite the absence of an express agreement to pay for the product, as the advertisement offering a reward for those who used the product and contracted the illness could be interpreted as an offer.
+
+IV. Other Considerations in Contract Law
+
+In addition to unconscionability, other factors may affect the enforceability of a contract. For example, in Wood v. Lucy, Lady Duff-Gordon (1917), the court held that an implied promise may arise from the conduct of the parties, even if not explicitly stated in the contract. In Jacob & Youngs, Inc. v. Kent (1921), the court established the doctrine of substantial performance, which allows a party who has performed substantially all of the obligations under a contract to recover for the partial breach, provided that the non-breaching party is not unjustly enriched.
+
+V. Conclusion
+
+In conclusion, a contract may be deemed unconscionable and unenforceable when it contains terms that are procedurally and substantively unfair or oppressive. The court may modify or partially enforce such contracts to make them fair and equitable for both parties. It is essential to consider other factors, such as implied promises and substantial performance, when analyzing the enforceability of a contract.

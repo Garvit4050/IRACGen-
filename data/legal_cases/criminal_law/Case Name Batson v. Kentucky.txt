@@ -1,0 +1,62 @@
+Case Name: Batson v. Kentucky
+Citation: 476 U.S. 79 (1986)
+Court: Supreme Court of the United States
+Year: 1986
+Area: Criminal Law (Equal Protection / Jury Selection / Peremptory Challenges)
+
+---
+
+FACTS:
+
+James Kirkland Batson, an African American man, was charged in Kentucky state court with second-degree burglary and receipt of stolen goods. During jury selection, the prosecutor used peremptory challenges to strike all four Black prospective jurors from the venire, resulting in an all-white jury. Batson objected, arguing that the prosecutor’s use of peremptory strikes to exclude jurors solely on the basis of race violated his rights under the Sixth and Fourteenth Amendments.
+
+At the time, the governing precedent was Swain v. Alabama (1965), which required a defendant to show systematic racial discrimination in jury selection across multiple cases, not just in his own trial. The trial court denied Batson’s objection, and he was convicted. The Kentucky Supreme Court affirmed, applying Swain’s demanding standard.
+
+Batson appealed to the United States Supreme Court, asking the Court to reconsider the evidentiary burden required to prove racial discrimination in the use of peremptory challenges.
+
+---
+
+ISSUE:
+
+Whether a criminal defendant can establish a violation of the Equal Protection Clause based solely on the prosecutor’s use of peremptory challenges to exclude jurors of the defendant’s race at his own trial.
+
+---
+
+HOLDING:
+
+The Supreme Court held that a defendant may establish a prima facie case of purposeful racial discrimination in jury selection based solely on the prosecutor’s use of peremptory strikes at the defendant’s trial. The Court overruled the evidentiary standard set forth in Swain v. Alabama and remanded the case for further proceedings. The decision was 7–2.
+
+---
+
+REASONING:
+
+Justice Lewis Powell delivered the majority opinion. The Court emphasized that the Equal Protection Clause prohibits the exclusion of potential jurors on account of race. Racial discrimination in jury selection undermines public confidence in the fairness of the justice system and violates the rights of both the defendant and the excluded jurors.
+
+The Court rejected the rigid standard established in Swain, which required proof of systematic discrimination across many cases. Such a burden was nearly impossible for defendants to meet. Instead, the Court created a new three-step framework—now known as the “Batson test”:
+
+1. The defendant must make a prima facie showing that the prosecutor exercised peremptory challenges on the basis of race.
+2. If such a showing is made, the burden shifts to the prosecutor to provide a race-neutral explanation for the strikes.
+3. The trial court then determines whether the defendant has proven purposeful discrimination.
+
+The Court clarified that the prosecutor’s explanation need not rise to the level required to justify a challenge for cause, but it must be race-neutral and related to the case.
+
+The ruling significantly curtailed the previously broad discretion afforded to attorneys in exercising peremptory challenges. While peremptory challenges remain permissible, they cannot be used to discriminate based on race.
+
+Batson marked a major development in constitutional criminal procedure and equal protection jurisprudence. Later cases expanded Batson’s application to civil cases and to gender-based discrimination.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Batson Framework: A three-step burden-shifting test governs claims of racial discrimination in jury selection.
+2. Equal Protection in Jury Selection: The Constitution prohibits race-based exclusion of jurors.
+3. Overruling Swain Standard: Defendants need not prove systemic discrimination across multiple cases.
+4. Race-Neutral Explanation Requirement: Prosecutors must provide a race-neutral justification when challenged.
+
+---
+
+KEY QUOTES:
+
+“The Equal Protection Clause forbids the prosecutor to challenge potential jurors solely on account of their race.”
+
+“A defendant may rely on the fact… that peremptory challenges constitute a jury selection practice that permits those to discriminate who are of a mind to discriminate.”

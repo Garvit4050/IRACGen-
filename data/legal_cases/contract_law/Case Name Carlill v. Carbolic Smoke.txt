@@ -1,0 +1,61 @@
+Case Name: Carlill v. Carbolic Smoke Ball Company
+Citation: [1893] 1 Q.B. 256 (C.A.)
+Court: Court of Appeal (England)
+Year: 1893
+Area: Contract Law (Offer and Acceptance / Unilateral Contracts)
+
+---
+
+FACTS:
+
+The Carbolic Smoke Ball Company manufactured and sold a product called the “Carbolic Smoke Ball,” which it claimed would prevent influenza and other illnesses. During a flu epidemic, the company placed an advertisement in a newspaper stating that it would pay £100 to any person who contracted influenza after using the smoke ball three times daily for two weeks according to the instructions. The advertisement further stated that £1,000 had been deposited in a bank to show the company’s sincerity.
+
+Mrs. Louisa Carlill purchased a smoke ball and used it as directed. Despite following the instructions, she contracted influenza. She demanded payment of the £100 reward, but the company refused, arguing that the advertisement was not a binding offer but merely a sales “puff” (promotional statement).
+
+Mrs. Carlill sued to recover the £100. The trial court ruled in her favor. The Carbolic Smoke Ball Company appealed to the Court of Appeal, arguing that the advertisement lacked contractual intent, was too vague, was not communicated as an offer to Mrs. Carlill personally, and lacked consideration.
+
+---
+
+ISSUE:
+
+Whether a public advertisement promising payment to anyone who performs specified conditions constitutes a legally binding unilateral offer capable of acceptance by performance, and whether such acceptance requires formal notification.
+
+---
+
+HOLDING:
+
+The Court of Appeal held that the advertisement constituted a valid unilateral offer to the world at large, which became binding upon performance of the specified conditions. Mrs. Carlill accepted the offer by using the smoke ball as directed and contracting influenza. No separate notice of acceptance was required. The court affirmed judgment in favor of Mrs. Carlill.
+
+---
+
+REASONING:
+
+The court (Lindley L.J., Bowen L.J., and A.L. Smith L.J.) reasoned that the advertisement was not mere puffery because the company had deposited £1,000 in a bank, demonstrating serious intent to be bound. This distinguished the advertisement from exaggerated sales talk.
+
+The court explained that an offer may be made to the world at large, especially in unilateral contracts. In such cases, acceptance occurs through performance of the required conditions rather than through a promise. Mrs. Carlill accepted the offer by using the product as specified and fulfilling the condition (contracting influenza).
+
+The company argued that there was no notification of acceptance. The court rejected this argument, holding that in unilateral contracts, notification is not required when performance itself constitutes acceptance. Requiring prior notice would defeat the purpose of the offer.
+
+Regarding consideration, the court found that Mrs. Carlill provided consideration by purchasing and using the smoke ball, thereby increasing the company’s sales and exposing herself to inconvenience. This constituted sufficient value in the eyes of the law.
+
+The court also addressed certainty, finding the terms sufficiently definite: the amount (£100), the conditions (use three times daily for two weeks), and the event triggering payment (contracting influenza) were clearly stated.
+
+This decision established foundational principles governing unilateral contracts and advertisements as offers, significantly influencing modern contract law.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Unilateral Contract Doctrine: An offer may be made to the world and accepted by performance without prior notification.
+2. Advertisements as Offers: Advertisements can constitute binding offers when they show clear intent and definite terms.
+3. Objective Intent to Contract: Demonstrations of sincerity (e.g., deposited funds) evidence intent to be legally bound.
+4. Consideration Through Performance: Performance of the requested act constitutes sufficient consideration.
+
+---
+
+KEY QUOTES:
+
+“It is an offer made to all the world; and why should not an offer be made to all the world which is to ripen into a contract with anybody who comes forward and performs the condition?”
+
+“The advertisement is not a mere puff… it is a promise, expressed in language which is perfectly unmistakable.”
+

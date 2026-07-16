@@ -1,0 +1,41 @@
+QUERY: Under what circumstances can a manufacturer be held liable for defects in products sold to third parties?
+============================================================
+
+ Title: Analysis of Product Liability Claims Against Manufacturers Selling to Third Parties
+
+I. Issue
+
+The primary issue to be addressed in this memorandum is under what circumstances a manufacturer can be held liable for defects in products sold to third parties.
+
+II. Rule
+
+1. Strict Liability: Under the doctrine of strict liability, a manufacturer is liable for physical harm caused by a defective product, regardless of negligence or fault (Restatement (Second) of Torts § 402A, Comment k [1965]). This principle applies even when the manufacturer did not sell the product directly to the consumer.
+
+2. Negligence: In cases where strict liability does not apply, a manufacturer may still be held liable for defects in products sold to third parties based on the theory of negligence. To establish negligence, the plaintiff must prove that the manufacturer owed a duty of care, breached that duty, and that the breach caused the plaintiff's injuries (Restatement (Second) of Torts § 283 [1965]).
+
+III. Analysis
+
+A. Strict Liability
+
+1. Application of Strict Liability: Strict liability applies to manufacturers, sellers, and lessors of products who supply unreasonably dangerous products to consumers. The liability extends to third parties who are injured by the defective product (Greenman v. Yuba Power Products, Inc., 59 Cal. 2d 57, 27 Cal. Rptr. 697, 377 P.2d 897 [1962]).
+
+2. Unreasonably Dangerous Products: A product is considered unreasonably dangerous if it is not reasonably safe for its intended or foreseeable uses (Restatement (Second) of Torts § 402A, Comment k [1965]). The focus is on the condition of the product at the time it leaves the manufacturer's control, not on the actions of the ultimate consumer.
+
+B. Negligence
+
+1. Duty of Care: In a negligence claim, the manufacturer owes a duty of care to anyone who is foreseeably likely to be injured by the product (Summers v. Tice, 33 Cal. 2d 80, 199 P.2d 1 (1948)).
+
+2. Breach of Duty: A breach of duty occurs when the manufacturer fails to exercise reasonable care in the design, testing, or production of the product (Restatement (Second) of Torts § 289 [1965]).
+
+3. Causation: The plaintiff must prove that the manufacturer's breach of duty was the cause of the plaintiff's injuries (Restatement (Second) of Torts § 283 [1965]).
+
+IV. Conclusion
+
+A manufacturer can be held liable for defects in products sold to third parties under the principles of strict liability and negligence. Strict liability applies when the product is unreasonably dangerous, while a negligence claim requires proof of a duty of care, breach of duty, and causation. Manufacturers must exercise reasonable care in the design, testing, and production of their products to avoid liability for injuries caused by defects.
+
+Relevant Case Citations:
+1. Greenman v. Yuba Power Products, Inc., 59 Cal. 2d 57, 27 Cal. Rptr. 697, 377 P.2d 897 (1962)
+2. Summers v. Tice, 33 Cal. 2d 80, 199 P.2d 1 (1948)
+3. Restatement (Second) of Torts § 402A (1965)
+4. Restatement (Second) of Torts § 283 (1965)
+5. Restatement (Second) of Torts § 289 (1965)

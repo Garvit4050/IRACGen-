@@ -1,0 +1,60 @@
+Case Name: Ybarra v. Spangard
+Citation: 25 Cal. 2d 486, 154 P.2d 687 (Cal. 1944)
+Court: Supreme Court of California
+Year: 1944
+Area: Tort Law (Medical Malpractice / Res Ipsa Loquitur / Negligence)
+
+---
+
+FACTS:
+
+Joseph Ybarra was admitted to a hospital for an appendectomy. Before the surgery, he experienced pain only in his lower right abdomen, where the operation was to occur. During the procedure, Ybarra was placed under general anesthesia and was unconscious throughout. Multiple medical professionals participated in the operation, including surgeons, anesthesiologists, and nurses.
+
+After regaining consciousness, Ybarra experienced severe pain in his right shoulder and arm—areas unrelated to the surgical site. He was later diagnosed with paralysis and permanent injury to his shoulder. Because he was unconscious during the operation, Ybarra had no knowledge of what had occurred or which medical professional had caused the injury.
+
+Ybarra filed suit against all the doctors and hospital personnel involved, alleging negligence. The trial court granted nonsuit in favor of the defendants, holding that Ybarra failed to prove which specific defendant caused the injury or how the negligence occurred. The California Court of Appeal affirmed.
+
+Ybarra appealed to the California Supreme Court, arguing that the doctrine of *res ipsa loquitur* should apply.
+
+---
+
+ISSUE:
+
+Whether the doctrine of *res ipsa loquitur* applies in a medical malpractice case where an unconscious patient suffers an injury unrelated to the surgical site and cannot identify which of multiple defendants caused the harm.
+
+---
+
+HOLDING:
+
+The Supreme Court of California held that the doctrine of *res ipsa loquitur* applies under these circumstances. The court ruled that when a patient receives unusual injuries while unconscious and under the control of medical professionals, the burden shifts to the defendants to explain the cause of the injury. The nonsuit was reversed, and the case was remanded for trial.
+
+---
+
+REASONING:
+
+Justice Traynor delivered the opinion of the court. The court reasoned that injuries to a patient’s body unrelated to the surgical procedure ordinarily do not occur absent negligence. Since Ybarra was unconscious and entirely dependent on the defendants, he was in no position to identify which individual caused the harm.
+
+The court expanded the traditional application of *res ipsa loquitur*, which typically required exclusive control of the instrumentality by a single defendant. Here, the court recognized that multiple defendants collectively exercised control over Ybarra’s body and the instrumentalities used during surgery.
+
+The court emphasized fairness and policy considerations. Requiring Ybarra to prove which specific defendant caused the injury would effectively bar recovery, as the relevant evidence was solely within the defendants’ knowledge. Allowing all defendants to escape liability due to evidentiary gaps would undermine accountability in medical settings.
+
+The decision did not automatically impose liability on all defendants. Instead, it shifted the burden to each defendant to provide an explanation demonstrating lack of negligence. If they could not do so, liability could be imposed.
+
+Ybarra significantly broadened the scope of *res ipsa loquitur*, particularly in medical malpractice cases involving unconscious patients. It reflects the principle that defendants who collectively control the circumstances leading to injury may bear the burden of explanation when harm occurs under suspicious conditions.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Expanded Res Ipsa Loquitur Doctrine: Applies when an unconscious patient suffers unusual injuries during medical treatment.
+2. Collective Control Principle: Exclusive control may be satisfied when multiple defendants jointly control the instrumentality or situation.
+3. Burden Shifting in Medical Cases: Defendants must explain injuries occurring while the plaintiff was unconscious and under their care.
+4. Policy of Fairness and Accountability: Courts prevent defendants from avoiding liability due to evidentiary barriers faced by incapacitated plaintiffs.
+
+---
+
+KEY QUOTES:
+
+“Where a plaintiff receives unusual injuries while unconscious and in the course of medical treatment, all those defendants who had any control over his body or the instrumentalities which might have caused the injuries may properly be called upon to meet the inference of negligence.”
+
+“The doctrine of res ipsa loquitur is applicable where the evidence as to the true explanation of the accident is more readily accessible to the defendant than to the plaintiff.”

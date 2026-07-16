@@ -1,0 +1,66 @@
+QUERY: Can an employer terminate an employee to prevent pension benefits from vesting without violating the Age Discrimination in Employment Act?
+============================================================
+
+LEGAL MEMORANDUM
+
+============================================================
+
+ISSUE
+------------------------------------------------------------
+
+Whether an employer, in an attempt to prevent an employee's pension benefits from vesting, can terminate the employee's employment in a manner that violates the Age Discrimination in Employment Act (ADEA), as established by the facts of Hazen Paper Co. v. Biggins and Reeves v. Sanderson Plumbing Products, Inc., where the employees were terminated based on their age and the employers sought to avoid pension obligations.
+
+============================================================
+
+RULE
+------------------------------------------------------------
+
+Employers, in an attempt to prevent an employee's pension benefits from vesting, cannot terminate the employee's employment in a manner that violates the Age Discrimination in Employment Act (ADEA). This is established by the rulings in Hazen Paper Co. v. Biggins (1993) and Reeves v. Sanderson Plumbing Products, Inc. (2000).
+
+In Hazen Paper Co. v. Biggins, the Supreme Court held that an employer's termination of an employee's employment shortly before pension benefits were scheduled to vest, based on the employee's age, constituted age discrimination in violation of the ADEA.
+
+Similarly, in Reeves v. Sanderson Plumbing Products, Inc., the Supreme Court found that an employer's termination of a 57-year-old employee, based on his age, constituted age discrimination in violation of the ADEA.
+
+However, it is important to note that these rulings do not necessarily apply if the termination was for a legitimate non-discriminatory reason, such as job performance or company restructuring.
+
+In Griggs v. Duke Power Co. (1971), the Supreme Court established that employment practices, even if neutral on their face, are unlawful under Title VII if they have a disparate impact on protected groups and are not job-related and consistent with business necessity.
+
+In Burlington Industries, Inc. v. Ellerth (1998) and Meritor Savings Bank v. Vinson (1986), the Supreme Court held that employers can be held liable for sexual harassment by supervisors that results in a tangible employment action, such as termination, promotion, or demotion.
+
+These cases collectively establish that employers cannot discriminate based on age, race, or sex in employment decisions, and can be held liable for harassment by supervisors that results in tangible employment actions. Employers must ensure that their employment practices are job-related and consistent with business necessity, and do not have a disparate impact on protected groups.
+
+============================================================
+
+ANALYSIS
+------------------------------------------------------------
+
+In the analysis of the issue at hand, it is crucial to apply the established principles from the RULE section to the specific facts of the cases.
+
+Here, in Hazen Paper Co. v. Biggins (1993), the employer terminated the employment of William Biggins, a 62-year-old employee, shortly before his pension benefits were scheduled to vest. The Supreme Court held that this termination constituted age discrimination in violation of the Age Discrimination in Employment Act (ADEA). The employer's action was aimed at preventing Biggins' pension benefits from vesting, which is a clear violation of the ADEA.
+
+Similarly, in Reeves v. Sanderson Plumbing Products, Inc. (2000), the employer terminated Roger Reeves, a 57-year-old employee, based on his age. The Supreme Court found that this termination also constituted age discrimination in violation of the ADEA. The employer's action was aimed at avoiding pension obligations, similar to the case in Hazen Paper.
+
+However, it is essential to note that these rulings do not necessarily apply if the termination was for a legitimate non-discriminatory reason. For instance, if the termination was due to job performance or company restructuring, it may not be considered as age discrimination.
+
+In Griggs v. Duke Power Co. (1971), the Supreme Court established that employment practices, even if neutral on their face, are unlawful under Title VII if they have a disparate impact on protected groups and are not job-related and consistent with business necessity. This principle is not directly applicable to the cases of Biggins and Reeves, as the employment practices in question were explicitly discriminatory based on age.
+
+In Burlington Industries, Inc. v. Ellerth (1998) and Meritor Savings Bank v. Vinson (1986), the Supreme Court held that employers can be held liable for sexual harassment by supervisors that results in a tangible employment action, such as termination, promotion, or demotion. These cases are not directly related to the issue of age discrimination, but they underscore the broader principle that employers cannot discriminate based on sex in employment decisions.
+
+In the context of the cases at hand, Biggins and Reeves, the strongest counterargument could be that the employers were merely exercising their right to manage their workforce and pension obligations. However, the Supreme Court's rulings in these cases make it clear that this right cannot be exercised in a manner that violates the ADEA by discriminating against employees based on age.
+
+In conclusion, based on the principles established in Hazen Paper Co. v. Biggins and Reeves v. Sanderson Plumbing Products, Inc., employers cannot terminate an employee's employment in a manner that prevents pension benefits from vesting, if the termination is based on the employee's age and violates the ADEA. Employers must ensure that their employment practices are job-related and consistent with business necessity, and do not have a disparate impact on protected groups.
+
+============================================================
+
+CONCLUSION
+------------------------------------------------------------
+
+In the analysis of the presented legal question, it is established that an employer's action to prevent a pension benefit from vesting, resulting from termination based on an employee's age, is likely to violate the Age Discrimination in Employment Act (ADEA). The principles set forth in seminal cases such as Hazen Paper Co. v. Biggins and Reeves v. Sanderson Plumbing Products, Inc., provide a clear framework for this conclusion.
+
+Employers are obligated to ensure that their employment practices are job-related and consistent with business necessity, and do not have a disparate impact on protected groups, including older employees. In the case under consideration, the employer's action of preventing pension benefits from vesting, following termination of an employee's employment due to age, appears to be discriminatory and, therefore, in contravention of the ADEA.
+
+While it is not possible to predict the exact outcome with absolute certainty, given the established legal precedent, it is probable that a court would find that the employer's action in question violates the ADEA. However, it is important to note that genuine uncertainties may arise in the application of these principles to specific factual scenarios, necessitating a case-by-case analysis.
+
+In such cases, it is essential for employers to carefully review their employment practices to ensure compliance with the ADEA and avoid potential liability for age discrimination. Employers should strive to maintain fair and non-discriminatory employment practices, promoting a work environment that values all employees, regardless of age.
+
+============================================================

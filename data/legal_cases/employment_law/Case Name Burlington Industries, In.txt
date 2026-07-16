@@ -1,0 +1,58 @@
+Case Name: Burlington Industries, Inc. v. Ellerth
+Citation: 524 U.S. 742
+Court: Supreme Court of the United States
+Year: 1998
+Area: Employment Law (Title VII – Sexual Harassment)
+
+---
+
+FACTS:
+
+Kimberly Ellerth was employed by Burlington Industries, Inc. as a salesperson in one of its divisions. During her tenure, she alleged that her immediate supervisor, Ted Slowik, repeatedly made sexually suggestive remarks and threats implying adverse employment consequences if she refused his advances. Although Slowik never followed through on these threats and Ellerth did not suffer any tangible employment action—such as demotion, termination, or loss of pay—she claimed that the harassment created a hostile work environment in violation of Title VII of the Civil Rights Act of 1964.
+
+Ellerth did not report the harassment to higher management while it was occurring, despite Burlington having an established anti-harassment policy and complaint procedure. After she voluntarily resigned for reasons unrelated to the alleged harassment, she filed suit in federal district court alleging sexual harassment under Title VII. The district court granted summary judgment in favor of Burlington, holding that the employer was not liable because the supervisor’s conduct did not result in tangible job detriment and because the employer lacked notice of the harassment.
+
+The United States Court of Appeals for the Seventh Circuit reversed, holding that the employer could be vicariously liable for a supervisor’s harassment even without tangible employment action. The case was then appealed to the U.S. Supreme Court.
+
+---
+
+ISSUE:
+
+Whether an employer is vicariously liable under Title VII for a supervisor’s sexual harassment of an employee when the harassment creates a hostile work environment but does not culminate in a tangible employment action, and whether the employer may assert an affirmative defense in such circumstances.
+
+---
+
+HOLDING:
+
+The Supreme Court held that an employer is subject to vicarious liability for actionable sexual harassment by a supervisor. However, when the harassment does not result in a tangible employment action, the employer may raise an affirmative defense. The Court vacated and remanded the case for further proceedings consistent with its opinion. The decision was not unanimous; Justice Thomas dissented in part. The ruling clarified the framework for determining employer liability in supervisor harassment cases under Title VII.
+
+---
+
+REASONING:
+
+The Court, in an opinion by Justice Kennedy, grounded its reasoning in agency principles derived from the Restatement (Second) of Agency. Title VII prohibits discrimination “with respect to compensation, terms, conditions, or privileges of employment.” The Court recognized two types of sexual harassment: quid pro quo harassment and hostile work environment harassment. However, it moved away from rigid labels and instead focused on whether a tangible employment action occurred.
+
+The Court reasoned that when a supervisor’s harassment results in a tangible employment action—such as discharge, demotion, or undesirable reassignment—the employer is strictly liable because the supervisor is acting within the scope of authority delegated by the employer. A tangible employment action represents an official act of the enterprise and thus directly implicates the employer.
+
+In cases where no tangible employment action occurs, the Court adopted a compromise approach. It rejected automatic employer liability but also rejected the notion that employer liability depends solely on notice or negligence. Instead, the Court created an affirmative defense available to employers. This defense requires the employer to prove: (1) that it exercised reasonable care to prevent and promptly correct sexually harassing behavior (e.g., through anti-harassment policies and reporting mechanisms), and (2) that the employee unreasonably failed to take advantage of preventive or corrective opportunities.
+
+The Court emphasized policy considerations, balancing deterrence of workplace harassment with fairness to employers. Strict liability without tangible action could discourage employers from delegating authority. Conversely, shielding employers entirely would undermine Title VII’s remedial goals. The affirmative defense framework incentivizes employers to implement preventive measures and encourages employees to utilize complaint procedures.
+
+The Court distinguished this case from earlier lower court approaches that focused too heavily on agency “scope of employment” doctrine, recognizing that harassment often falls outside traditional scope but is facilitated by supervisory authority. This nuanced framework aligned liability with power structures in the workplace.
+
+
+LEGAL PRINCIPLES:
+
+1. Employer Vicarious Liability Doctrine:** Employers are vicariously liable for a supervisor’s sexual harassment under Title VII.
+2. Tangible Employment Action Rule:** Strict liability applies when harassment culminates in a tangible employment action.
+3. Ellerth Affirmative Defense:** In absence of tangible action, employers may avoid liability by proving reasonable preventive measures and employee’s unreasonable failure to report.
+4. Agency-Based Framework:** Title VII liability incorporates common-law agency principles adapted to workplace realities.
+
+
+
+ KEY QUOTES:
+
+“An employer is subject to vicarious liability to a victimized employee for an actionable hostile environment created by a supervisor with immediate authority over the employee.”
+
+“The requirement of a tangible employment action is significant because it represents the official power of the enterprise.”
+

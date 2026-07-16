@@ -1,0 +1,52 @@
+QUERY: Under what circumstances can a manufacturer be held liable for defects in products sold to third parties?
+============================================================
+
+ Title: Analysis of Manufacturer's Liability for Defective Products Sold to Third Parties
+
+I. Introduction
+
+This memorandum aims to analyze under what circumstances a manufacturer can be held liable for defects in products sold to third parties, drawing on relevant legal precedents. The analysis will be structured in the IRAC format, focusing on Issue, Rules, Application, and Conclusion.
+
+II. Issue
+
+The primary issue to be addressed is whether a manufacturer can be held liable for defects in products sold to third parties, and under what circumstances such liability arises.
+
+III. Rules
+
+A. Breach of Contract (Hadley v. Baxendale, 1854)
+
+In Hadley v. Baxendale, the Court of Exchequer established that for damages to be recoverable for breach of contract, they must be reasonably foreseeable as a probable result of the breach at the time the contract was made.
+
+B. Strict Liability for Defective Products (Escola v. Coca Cola Bottling Co., 1944)
+
+In Escola v. Coca Cola Bottling Co., the Supreme Court of California established that a manufacturer can be held strictly liable for injuries caused by defective products, even if no fault or negligence on the part of the manufacturer can be proven.
+
+C. Unilateral Contracts (Carlill v. Carbolic Smoke Ball Company, 1893)
+
+In Carlill v. Carbolic Smoke Ball Company, the Court of Appeal established that a unilateral contract can exist where an offeror makes an offer to the public, and acceptance is demonstrated by the performance of the specified act.
+
+D. Substantial Performance (Jacob & Youngs, Inc. v. Kent, 1921)
+
+In Jacob & Youngs, Inc. v. Kent, the Court of Appeals of New York held that a contractor who substantially performs the contract is entitled to be paid, even if minor deviations from the contract specifications occur.
+
+IV. Application
+
+A. Breach of Contract
+
+In a scenario where a manufacturer sells a product to a third party, and the product is defective, causing damages, the manufacturer may be held liable if the damages were reasonably foreseeable at the time of the contract. For instance, if a manufacturer sells a product with a known defect, and the third party suffers damages as a result, the manufacturer may be held liable for breach of contract.
+
+B. Strict Liability for Defective Products
+
+Under the principle of strict liability, a manufacturer can be held liable for injuries caused by defective products, even if no fault or negligence on the part of the manufacturer can be proven. For example, if a consumer is injured by a product due to a manufacturing defect, the manufacturer may be held strictly liable for the injuries, regardless of whether they were at fault.
+
+C. Unilateral Contracts
+
+In the context of unilateral contracts, a manufacturer may be held liable if a third party performs the specified act (e.g., using the product as intended) in response to the manufacturer's offer, and suffers damages as a result of a defect in the product. For instance, if a manufacturer offers a product with the promise of preventing influenza (as in Carlill v. Carbolic Smoke Ball Company), and a third party purchases and uses the product but does not prevent influenza due to a defect, the manufacturer may be held liable for breach of contract.
+
+D. Substantial Performance
+
+In a construction contract, a manufacturer may be held liable if they fail to substantially perform the contract, causing damages to the third party. For example, if a manufacturer supplies defective plumbing pipes for a construction project (as in Jacob & Youngs, Inc. v. Kent), and the third party suffers damages as a result, the manufacturer may be held liable for breach of contract.
+
+V. Conclusion
+
+In conclusion, a manufacturer can be held liable for defects in products sold to third parties under various circumstances. These include breach of contract (where damages were reasonably foreseeable), strict liability for defective products, unilateral contracts, and substantial performance in construction contracts. It is essential for manufacturers to ensure the quality and safety of their products to avoid potential liability.

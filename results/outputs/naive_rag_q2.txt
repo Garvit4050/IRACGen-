@@ -1,0 +1,30 @@
+QUERY: Does Title VII protect employees from same-sex sexual harassment in the workplace?
+============================================================
+
+ Title VII Sexual Harassment in the Workplace: An Analysis of Relevant Precedents
+
+I. Introduction
+
+The question at hand concerns the protection of employees from same-sex sexual harassment in the workplace under Title VII of the Civil Rights Act of 1964. This memorandum will analyze the relevant legal precedents to determine the current legal landscape regarding Title VII protection against same-sex sexual harassment.
+
+II. Analysis
+
+A. Oncale v. Sundowner Offshore Services, Inc., 523 U.S. 75 (1998)
+
+In Oncale, the Supreme Court held that Title VII's prohibition on sex discrimination applies to same-sex harassment in the workplace when the harassment is based on the victim's sex and creates a hostile or abusive work environment. The Court reasoned that the statutory prohibition on sex discrimination encompasses any behavior that is motivated, at least in part, by sex-based considerations.
+
+B. Burlington Industries, Inc. v. Ellerth, 524 U.S. 742 (1998)
+
+In Ellerth, the Supreme Court further clarified that employers can be held liable for sexual harassment by a supervisor when the employer knew or should have known about the harassment and failed to take prompt and effective remedial action. The Court emphasized that employers have a duty to take immediate and appropriate action to address harassment by supervisors.
+
+C. Frigaliment Importing Co. v. B.N.S. International Sales Corp., 190 F. Supp. 116 (S.D.N.Y. 1960) and Jacob & Youngs, Inc. v. Kent, 230 N.Y. 239, 129 N.E. 889 (N.Y. 1921)
+
+Although not directly related to Title VII sexual harassment, these cases provide insight into contract law principles that may be relevant in the context of employment agreements. In Frigaliment, the court held that ambiguities in a contract must be construed against the party that drafted the contract, while in Jacob & Youngs, the court emphasized the importance of substantial performance in the fulfillment of a construction contract. These principles may be relevant in determining the obligations and liabilities of employers and employees in employment agreements.
+
+D. Carlill v. Carbolic Smoke Ball Company, [1893] 1 Q.B. 256 (C.A.)
+
+Carlill is a contract law case that established the principle of unilateral contracts, which may be relevant in the context of employment agreements. In a unilateral contract, one party makes an offer that is conditional on the other party's performance of a specific act. In the employment context, an employer's anti-discrimination policy could be considered a unilateral contract, offering protection to employees who comply with the policy.
+
+III. Conclusion
+
+Based on the analysis of the relevant legal precedents, it is clear that Title VII protects employees from same-sex sexual harassment in the workplace. The Supreme Court's decision in Oncale establishes that Title VII's prohibition on sex discrimination applies to same-sex harassment, while the decision in Ellerth emphasizes the employer's duty to take prompt and effective action to address harassment by supervisors. Although not directly related to Title VII sexual harassment, contract law principles may be relevant in determining the obligations and liabilities of employers and employees in employment agreements. It is essential for employers to implement and enforce clear anti-discrimination policies and to provide training to employees to prevent and address sexual harassment in the workplace.

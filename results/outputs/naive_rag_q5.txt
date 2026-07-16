@@ -1,0 +1,38 @@
+QUERY: What must an employee prove to establish age discrimination when the employer provides a legitimate reason for termination?
+============================================================
+
+ Title: Establishing Age Discrimination Claims in the Presence of Legitimate Reasons for Termination
+
+I. Introduction
+
+This legal memorandum aims to analyze the requirements for an employee to establish a claim of age discrimination under the Age Discrimination in Employment Act (ADEA) when the employer provides a legitimate reason for termination. The analysis will be guided by relevant legal precedents, including Frigaliment Importing Co. v. B.N.S. International Sales Corp., 190 F. Supp. 116 (S.D.N.Y. 1960) (Frigaliment); Reeves v. Sanderson Plumbing Products, Inc., 530 U.S. 133 (2000) (Reeves); Hazen Paper Co. v. Biggins, 507 U.S. 604 (1993) (Hazen); and Jacob & Youngs, Inc. v. Kent, 230 N.Y. 239, 129 N.E. 889 (N.Y. 1921) (Jacob & Youngs).
+
+II. Analysis
+
+A. Burden of Proof in Age Discrimination Claims
+
+In ADEA claims, the plaintiff must initially prove that they belong to a protected age group, were qualified for the position, experienced an adverse employment action, and that the position was filled by a younger individual or the employer treated older employees less favorably (Reeves, 530 U.S. at 142). Once the plaintiff has established a prima facie case, the burden shifts to the employer to provide a legitimate, nondiscriminatory reason for the adverse employment action (id.).
+
+B. Legitimate Reasons for Termination
+
+An employer's legitimate, nondiscriminatory reason for termination may include performance issues, restructuring, or budget cuts (Hazen, 507 U.S. at 611). However, the plaintiff may still pursue an ADEA claim if they can demonstrate that the employer's proffered reason is a pretext for age discrimination (Reeves, 530 U.S. at 143).
+
+C. Proving Pretext for Age Discrimination
+
+To prove pretext, the plaintiff must demonstrate that the employer's stated reason for the adverse employment action is not credible and that age was the real reason for the decision (Reeves, 530 U.S. at 143). The plaintiff may do so by showing that the employer's actions do not make sense in light of the proffered reason or by presenting evidence of age-based discrimination (id.).
+
+D. Evidence of Age-Based Discrimination
+
+Evidence of age-based discrimination may include direct evidence, such as statements indicating age-based animus, or circumstantial evidence, such as disparate treatment or disparate impact (Reeves, 530 U.S. at 143-144). Disparate treatment occurs when the employer treats older employees less favorably than younger employees in similar circumstances (id.). Disparate impact occurs when an apparently neutral employment practice has a disproportionately adverse effect on older employees (id.).
+
+III. Case Application
+
+In Reeves, the plaintiff, a 57-year-old supervisor, was terminated due to poor performance. However, the plaintiff presented evidence that the employer had a history of leniency towards younger employees with similar performance issues, suggesting that age may have played a role in the decision to terminate the plaintiff (Reeves, 530 U.S. at 136-137). The Supreme Court held that the plaintiff had presented sufficient evidence of pretext to allow the case to proceed to trial (id.).
+
+IV. Conclusion
+
+To establish an age discrimination claim when the employer provides a legitimate reason for termination, the plaintiff must first prove a prima facie case. If the plaintiff succeeds in doing so, the burden shifts to the employer to provide a legitimate, nondiscriminatory reason for the adverse employment action. The plaintiff may then attempt to prove that the employer's proffered reason is a pretext for age discrimination by demonstrating that the employer's actions do not make sense in light of the proffered reason or by presenting evidence of age-based discrimination. In cases where the plaintiff presents sufficient evidence of pretext, the case may proceed to trial.
+
+V. Recommendation
+
+In cases where an employee believes they have been subjected to age discrimination, it is crucial to gather evidence supporting a claim of pretext and age-based discrimination. This may include records of performance evaluations, evidence of disparate treatment or disparate impact, and any statements indicating age-based animus. If the employee can demonstrate that the employer's proffered reason for the adverse employment action is a pretext for age discrimination, they may be able to establish a claim under the ADEA.

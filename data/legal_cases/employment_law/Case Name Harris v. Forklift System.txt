@@ -1,0 +1,60 @@
+Case Name: Harris v. Forklift Systems, Inc.
+Citation: 510 U.S. 17
+Court: Supreme Court of the United States
+Year: 1993
+Area: Employment Law (Title VII – Sexual Harassment)
+
+---
+
+FACTS:
+
+Teresa Harris was employed as a manager at Forklift Systems, Inc., a company engaged in equipment rental and sales. During her employment, Harris alleged that the company’s president, Charles Hardy, subjected her to repeated sexual harassment. Hardy frequently made offensive sexual comments, suggested that Harris and he should negotiate her salary at a hotel, asked her to retrieve coins from his front pants pocket, and made remarks about her clothing and body. Although Hardy occasionally apologized after these incidents, the behavior continued over time.
+
+Harris eventually resigned and filed suit under Title VII of the Civil Rights Act of 1964, claiming that the harassment created a hostile work environment. The district court found that Hardy’s conduct was offensive and constituted sexual harassment but ruled against Harris. The court reasoned that although the comments were inappropriate, they were not severe enough to seriously affect Harris’s psychological well-being or cause tangible emotional injury.
+
+The United States Court of Appeals for the Sixth Circuit affirmed, holding that for conduct to be actionable under Title VII, it must seriously affect the employee’s psychological well-being. Harris appealed to the Supreme Court, which granted certiorari to determine the proper standard for actionable hostile work environment claims.
+
+---
+
+ISSUE:
+
+Whether a plaintiff must demonstrate serious psychological injury or tangible emotional harm in order to establish a hostile work environment claim under Title VII, or whether offensive and abusive conduct alone, if sufficiently severe or pervasive, is enough to violate the statute.
+
+---
+
+HOLDING:
+
+The Supreme Court unanimously held that a plaintiff does not need to prove serious psychological injury to establish a hostile work environment under Title VII. The Court reversed the judgment of the Sixth Circuit and remanded the case. It ruled that conduct is actionable when it is sufficiently severe or pervasive to create an objectively hostile or abusive work environment and when the victim subjectively perceives it as abusive.
+
+---
+
+REASONING:
+
+Justice O’Connor delivered the opinion of the Court. The Court began by reaffirming its earlier decision in Meritor Savings Bank v. Vinson, which recognized hostile work environment claims under Title VII. It clarified that the critical inquiry is whether the workplace is “permeated with discriminatory intimidation, ridicule, and insult” that is sufficiently severe or pervasive to alter the conditions of employment.
+
+The Court rejected the Sixth Circuit’s requirement that harassment must seriously affect an employee’s psychological well-being. Title VII is not limited to cases involving tangible psychological harm. Instead, the statute protects employees from discriminatory environments that affect the terms and conditions of employment. Requiring proof of psychological injury would improperly narrow the statute’s scope and undermine its remedial purpose.
+
+The Court articulated a two-part standard: the conduct must be objectively hostile or abusive (as judged by a reasonable person) and subjectively perceived as such by the victim. To determine whether an environment is hostile or abusive, courts must examine the totality of the circumstances. Relevant factors include the frequency of the conduct, its severity, whether it is physically threatening or humiliating (as opposed to a mere offensive utterance), and whether it unreasonably interferes with work performance.
+
+Importantly, the Court emphasized that Title VII does not create a “general civility code.” Simple teasing, offhand comments, and isolated incidents (unless extremely serious) do not suffice. The standard strikes a balance between protecting employees from discrimination and preventing trivial complaints from becoming federal cases.
+
+The Court’s reasoning ensured that plaintiffs are not required to demonstrate clinical psychological harm while maintaining an objective threshold to prevent frivolous claims. The decision clarified the evidentiary burden in hostile work environment cases and strengthened the enforcement of Title VII protections.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. No Psychological Injury Requirement: Plaintiffs need not prove serious psychological harm to establish a hostile work environment.
+2. Objective and Subjective Standard: The conduct must be both objectively hostile and subjectively perceived as abusive.
+3. Totality of Circumstances Test: Courts consider frequency, severity, physical threat, humiliation, and interference with work performance.
+4. Not a General Civility Code: Title VII does not prohibit all offensive workplace conduct—only conduct that alters employment conditions due to discrimination.
+
+---
+
+KEY QUOTES:
+
+“So long as the environment would reasonably be perceived, and is perceived, as hostile or abusive, there is no need for it also to be psychologically injurious.”
+
+“Title VII comes into play before the harassing conduct leads to a nervous breakdown.”
+
+

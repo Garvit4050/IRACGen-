@@ -1,0 +1,60 @@
+Case Name: Reeves v. Sanderson Plumbing Products, Inc.
+Citation: 530 U.S. 133
+Court: Supreme Court of the United States
+Year: 2000
+Area: Employment Law (Age Discrimination – ADEA)
+
+---
+
+FACTS:
+
+Roger Reeves was a 57-year-old supervisor employed by Sanderson Plumbing Products, Inc., a manufacturer of plumbing products. Reeves had worked for the company for many years and was responsible for overseeing production records. In 1995, he was terminated by the company, which claimed that he had failed to properly maintain attendance records and had falsified timekeeping reports. Reeves denied these allegations, asserting that he had performed his duties competently and that any recordkeeping issues were minor or attributable to others.
+
+Reeves filed suit under the Age Discrimination in Employment Act (ADEA), alleging that his termination was motivated by age discrimination. He presented evidence that his immediate supervisor had made age-related remarks, including referring to him as “so old” and suggesting he should retire. At trial, the jury returned a verdict in Reeves’s favor, finding that Sanderson’s stated reason for termination was a pretext and that age discrimination had occurred.
+
+However, the United States Court of Appeals for the Fifth Circuit reversed the jury verdict. It held that although Reeves had established a prima facie case and cast doubt on the employer’s stated reason, he had not provided sufficient additional evidence of discriminatory intent. Reeves appealed to the Supreme Court.
+
+---
+
+ISSUE:
+
+Whether a plaintiff’s prima facie case of discrimination, combined with sufficient evidence for a reasonable factfinder to reject the employer’s nondiscriminatory explanation as false, is enough to sustain a jury’s finding of intentional discrimination under the ADEA.
+
+---
+
+HOLDING:
+
+The Supreme Court unanimously held that a plaintiff’s prima facie case, together with evidence allowing a reasonable jury to disbelieve the employer’s proffered legitimate reason, may be sufficient to sustain a finding of intentional discrimination. The Court reversed the judgment of the Fifth Circuit and reinstated the jury’s verdict in favor of Reeves. The Court clarified that no additional, independent evidence of discrimination is always required beyond proof of pretext.
+
+---
+
+REASONING:
+
+Justice O’Connor delivered the opinion of the Court. The Court began by reaffirming the burden-shifting framework established in McDonnell Douglas Corp. v. Green for discrimination cases relying on circumstantial evidence. Under this framework, the plaintiff must first establish a prima facie case of discrimination. The burden then shifts to the employer to articulate a legitimate, nondiscriminatory reason for the adverse employment action. Finally, the plaintiff must show that the employer’s stated reason is pretextual.
+
+The Fifth Circuit had effectively imposed a “pretext-plus” requirement, demanding that plaintiffs provide additional evidence of discrimination beyond proof that the employer’s reason was false. The Supreme Court rejected this approach. It reasoned that once a plaintiff establishes a prima facie case and introduces sufficient evidence to show that the employer’s explanation is unworthy of credence, a factfinder may reasonably infer discrimination.
+
+The Court emphasized that disbelief of the employer’s explanation, particularly when combined with the elements of the prima facie case, may permit—but does not compel—a finding of discrimination. The ultimate question remains whether the employer intentionally discriminated. Courts must consider the entire record, including the strength of the prima facie case, the probative value of proof that the employer’s explanation is false, and any other supporting evidence.
+
+The Court also explained that there may be instances where evidence of pretext is insufficient—for example, where the record conclusively reveals some other nondiscriminatory reason or where the plaintiff creates only a weak issue of fact. However, in Reeves’s case, there was substantial evidence supporting the jury’s verdict, including age-based remarks and inconsistencies in the employer’s justification.
+
+The decision reinforced the central role of juries in discrimination cases and ensured that appellate courts do not substitute their judgment for that of the factfinder when sufficient evidence supports the verdict.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Rejection of “Pretext-Plus” Rule: Proof that the employer’s stated reason is false may itself permit an inference of discrimination.
+2. McDonnell Douglas Framework Application: The burden-shifting analysis governs ADEA and Title VII discrimination claims based on circumstantial evidence.
+3. Role of the Jury: Credibility determinations and reasonable inferences from evidence are primarily for the jury, not appellate courts.
+4. Totality of Evidence Standard: Courts must review the entire record to determine whether a reasonable factfinder could conclude intentional discrimination occurred.
+
+---
+
+KEY QUOTES:
+
+“Proof that the defendant’s explanation is unworthy of credence is simply one form of circumstantial evidence that is probative of intentional discrimination.”
+
+“A plaintiff’s prima facie case, combined with sufficient evidence to find that the employer’s asserted justification is false, may permit the trier of fact to conclude that the employer unlawfully discriminated.”
+
+

@@ -1,0 +1,61 @@
+Case Name: Katz v. United States
+Citation: 389 U.S. 347 (1967)
+Court: Supreme Court of the United States
+Year: 1967
+Area: Criminal Law (Fourth Amendment – Search and Seizure / Privacy)
+
+---
+
+FACTS:
+
+Charles Katz was suspected by federal authorities of transmitting illegal gambling information by telephone across state lines. FBI agents attached an electronic listening and recording device to the outside of a public telephone booth that Katz regularly used. The agents did not obtain a search warrant before installing the device.
+
+The recording captured Katz’s conversations, which were later introduced as evidence at trial. Katz was convicted under a federal statute prohibiting interstate transmission of wagering information.
+
+Katz moved to suppress the recordings, arguing that the electronic surveillance violated his Fourth Amendment protection against unreasonable searches and seizures. The lower courts upheld the conviction, reasoning that there was no physical intrusion into the telephone booth because the device was attached externally. Under prior precedent, including Olmstead v. United States, Fourth Amendment protections were tied to physical trespass.
+
+Katz appealed to the Supreme Court, asking whether the Fourth Amendment protects conversations in a public phone booth without a physical intrusion.
+
+---
+
+ISSUE:
+
+Whether the government’s warrantless electronic surveillance of a public telephone booth constitutes a “search and seizure” under the Fourth Amendment when there is no physical trespass.
+
+---
+
+HOLDING:
+
+The Supreme Court held that the government’s electronic surveillance of Katz’s phone conversation violated the Fourth Amendment. The Court ruled that the Fourth Amendment protects people, not places, and that electronic eavesdropping without a warrant constitutes a search when it invades a person’s reasonable expectation of privacy. Katz’s conviction was reversed. The decision was 7–1.
+
+---
+
+REASONING:
+
+Justice Potter Stewart delivered the majority opinion. The Court rejected the prior “trespass doctrine,” which focused on physical intrusion into a constitutionally protected area. Instead, the Court emphasized that the Fourth Amendment protects people and their privacy interests, regardless of whether physical trespass occurs.
+
+Although Katz used a public telephone booth, he closed the door behind him and sought to exclude the public from hearing his conversation. The Court held that when an individual seeks to preserve something as private, and society recognizes that expectation as reasonable, the Fourth Amendment applies.
+
+Justice Harlan’s concurring opinion articulated what became the controlling test: a two-part standard requiring (1) that a person exhibit an actual (subjective) expectation of privacy, and (2) that the expectation be one society is prepared to recognize as reasonable.
+
+The Court concluded that electronic surveillance without prior judicial authorization (a warrant) is presumptively unreasonable. Because the FBI agents conducted the surveillance without a warrant and outside any established exception, the search was unconstitutional.
+
+The decision fundamentally reshaped Fourth Amendment jurisprudence by shifting focus from property-based analysis to privacy-based analysis. Katz overruled Olmstead and established the “reasonable expectation of privacy” doctrine that continues to govern search and seizure law.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Reasonable Expectation of Privacy Test: A search occurs when the government violates a person’s reasonable expectation of privacy.
+2. Fourth Amendment Protects People, Not Places: Protection extends beyond physical intrusion into property.
+3. Warrant Requirement for Electronic Surveillance: Electronic eavesdropping generally requires prior judicial authorization.
+4. Overruling of Trespass Doctrine: Physical intrusion is not required for a Fourth Amendment violation.
+
+---
+
+KEY QUOTES:
+
+“The Fourth Amendment protects people, not places.”
+
+(Harlan, J., concurring) “There is a twofold requirement, first that a person have exhibited an actual (subjective) expectation of privacy and, second, that the expectation be one that society is prepared to recognize as ‘reasonable.’”
+

@@ -1,0 +1,62 @@
+QUERY: What standard must be met to prove a hostile work environment under Title VII?
+============================================================
+
+LEGAL MEMORANDUM
+
+============================================================
+
+ISSUE
+------------------------------------------------------------
+
+Whether, in a Title VII claim of a hostile work environment, the plaintiff must demonstrate that the alleged conduct was both severe and pervasive, as established in Harris v. Forklift Systems, Inc., and that the employer was deliberately indifferent to the hostile conduct, as established in Burlington Industries, Inc. v. Ellerth.
+
+============================================================
+
+RULE
+------------------------------------------------------------
+
+In a Title VII claim of a hostile work environment due to sex, as established by the Supreme Court of the United States, the plaintiff must demonstrate that the alleged conduct was both severe and pervasive, as well as that the employer was deliberately indifferent to the hostile conduct.
+
+1. Harris v. Forklift Systems, Inc. (1993) established that for a hostile work environment claim to succeed, the conduct must be severe or pervasive enough to create a work environment that a reasonable person would consider hostile or abusive.
+
+2. Burlington Industries, Inc. v. Ellerth (1998) further clarified that an employer can be held liable if it knew or should have known about the hostile conduct and failed to take prompt and effective remedial action.
+
+3. Meritor Savings Bank v. Vinson (1986) set a precedent that unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature constitute sexual harassment when submission to or rejection of this conduct explicitly or implicitly affects an individual's employment decisions.
+
+4. Pennsylvania State Police v. Suders (2004) expanded the definition of a hostile work environment to include same-sex harassment, as established in Oncale v. Sundowner Offshore Services, Inc. (1998). In Oncale, the Court held that Title VII's prohibition on sex discrimination encompasses same-sex harassment when the conduct is motivated by sex-based hostility.
+
+Exceptions or limitations: The specific facts and circumstances of each case will determine whether the conduct is severe or pervasive enough to create a hostile work environment and whether the employer was deliberately indifferent to the hostile conduct. Additionally, the standard for liability may differ for supervisors and non-supervisory employees.
+
+============================================================
+
+ANALYSIS
+------------------------------------------------------------
+
+In the context of a Title VII claim of a hostile work environment due to sex, the plaintiff must demonstrate that the alleged conduct was both severe and pervasive, as well as that the employer was deliberately indifferent to the hostile conduct.
+
+Here, in Harris v. Forklift Systems, Inc. (1993), the plaintiff, Teresa Harris, alleged that the company’s president, Charles Hardy, subjected her to a hostile work environment by making repeated sexually harassing comments and threats. The Supreme Court held that for a hostile work environment claim to succeed, the conduct must be severe or pervasive enough to create a work environment that a reasonable person would consider hostile or abusive. In this case, Harris' allegations of repeated sexually harassing comments and threats by her supervisor could potentially meet the severity requirement. However, the pervasiveness of the conduct will depend on factors such as its frequency, duration, and the context in which it occurred.
+
+Similarly to Harris, in Burlington Industries, Inc. v. Ellerth (1998), the plaintiff, Kimberly Ellerth, alleged that her immediate supervisor, Ted Slowik, repeatedly made sexually suggestive comments and invited her to his home. The Court further clarified that an employer can be held liable if it knew or should have known about the hostile conduct and failed to take prompt and effective remedial action. In this case, it is unclear whether Burlington was aware of the harassment and, if so, whether it took adequate steps to address it.
+
+In Meritor Savings Bank v. Vinson (1986), the plaintiff, Mechelle Vinson, alleged that her supervisor subjected her to unwelcome sexual advances, including physical touching and verbal sexual propositions. The Court set a precedent that unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature constitute sexual harassment when submission to or rejection of this conduct explicitly or implicitly affects an individual's employment decisions. In this case, it appears that Vinson's supervisor's conduct could potentially meet the definition of sexual harassment.
+
+Expanding the definition of a hostile work environment to include same-sex harassment, Pennsylvania State Police v. Suders (2004) and Oncale v. Sundowner Offshore Services, Inc. (1998) further clarified that Title VII's prohibition on sex discrimination encompasses same-sex harassment when the conduct is motivated by sex-based hostility. In Suders, the plaintiff, Nancy Drew Suders, alleged that several male supervisors subjected her to ongoing sexual harassment, including lewd comments and physical touching. In Oncale, the plaintiff, Joseph Oncale, was subjected to repeated acts of sexual harassment by male co-workers. Both cases demonstrate that same-sex harassment can create a hostile work environment in violation of Title VII.
+
+However, it is essential to note that the specific facts and circumstances of each case will determine whether the conduct is severe or pervasive enough to create a hostile work environment and whether the employer was deliberately indifferent to the hostile conduct. Additionally, the standard for liability may differ for supervisors and non-supervisory employees. For example, supervisors may be held strictly liable for sexual harassment if they participate in it or allow it to occur, while non-supervisory employees may only be held liable if their harassment is so severe or pervasive that it creates a hostile work environment and the employer is deliberately indifferent to it.
+
+In conclusion, to succeed in a Title VII claim of a hostile work environment, the plaintiff must demonstrate that the alleged conduct was both severe and pervasive and that the employer was deliberately indifferent to the hostile conduct. The specific facts and circumstances of each case will determine whether the conduct meets these requirements. Additionally, the standard for liability may differ for supervisors and non-supervisory employees. In Harris, Burlington, Meritor, Suders, and Oncale, the plaintiffs alleged various forms of sexual harassment, and the courts will need to apply the applicable legal test to determine whether the plaintiffs have met their burden of proof. The strongest counterargument is that the conduct may not be severe or pervasive enough to create a hostile work environment, or the employer may not have been deliberately indifferent to the harassment. However, the plaintiffs in these cases have alleged repeated instances of sexual harassment, and it will be up to the courts to determine whether the conduct meets the legal standard for a hostile work environment claim under Title VII.
+
+============================================================
+
+CONCLUSION
+------------------------------------------------------------
+
+In conclusion, the question at hand revolves around whether the alleged instances of sexual harassment in the provided cases constitute a hostile work environment under Title VII. Based on the analysis, it is evident that the plaintiffs have presented claims of various forms of sexual harassment, which, if proven, could potentially meet the legal standard for a hostile work environment claim.
+
+The key analytical points include the nature and frequency of the alleged harassment, the employer's response or lack thereof, and the impact of the harassment on the plaintiffs' work environment. While there is a counterargument that the conduct may not be severe or pervasive enough, the repeated instances of sexual harassment as alleged by the plaintiffs suggest a potential for meeting the legal standard.
+
+However, it is important to note that the outcome of these cases will depend on the specific facts and circumstances of each case, as well as the application of the applicable legal test by the courts. The court would find that if the plaintiffs can demonstrate that the harassment was severe or pervasive and that the employer was deliberately indifferent to the harassment, they are likely to succeed in their hostile work environment claims under Title VII.
+
+There remains a genuine uncertainty regarding the specific facts and evidence that will be presented in each case, which could potentially impact the outcome. Nonetheless, the analysis suggests that the plaintiffs have presented sufficient grounds for their claims, and it is likely that the courts will need to carefully consider the evidence presented in each case to determine whether the legal standard for a hostile work environment has been met.
+
+============================================================

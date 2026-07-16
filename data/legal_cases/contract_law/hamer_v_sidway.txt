@@ -1,0 +1,24 @@
+Case Name: Hamer v. Sidway
+Citation: 124 N.Y. 538 (1891)
+Court: New York Court of Appeals
+
+FACTS:
+Uncle promised nephew $5,000 if nephew refrained from drinking, smoking, swearing, and gambling until age 21. Nephew complied. Uncle died before paying. Estate claimed no consideration.
+
+ISSUE:
+Does forbearance of a legal right constitute valid consideration?
+
+HOLDING:
+Forbearance of legal right, even if detrimental only to promisee, is sufficient consideration.
+
+REASONING:
+Consideration means that promisor receives something of value or promisee gives up legal right. Nephew gave up legal rights to drink, smoke, etc. This is sufficient consideration even if arguably beneficial to nephew.
+
+LEGAL PRINCIPLES:
+1. Forbearance as consideration
+2. Detriment to promisee sufficient
+3. Benefit to promisor not required
+4. Legal right waiver creates value
+
+SIGNIFICANCE:
+This case is a landmark precedent in its area of law and is regularly cited in legal analysis and court decisions.

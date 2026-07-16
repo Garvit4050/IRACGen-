@@ -1,0 +1,58 @@
+Case Name: Vaughan v. Menlove
+Citation: (1837) 3 Bing. (N.C.) 468, 132 Eng. Rep. 490 (C.P.)
+Court: Court of Common Pleas (England)
+Year: 1837
+Area: Tort Law (Negligence / Objective Standard of Care)
+
+---
+
+FACTS:
+
+Menlove, the defendant, constructed a hayrick (a stack of hay) near the boundary of his property. Over time, the hayrick became poorly ventilated and began to heat internally due to spontaneous combustion. Several neighbors warned Menlove that the hayrick was in danger of catching fire and advised him to take precautionary measures, such as dismantling or properly ventilating it. Despite these warnings, Menlove responded that he would “chance it” and declined to act.
+
+Eventually, the hayrick caught fire. The fire spread to Vaughan’s adjoining cottages and stables, causing significant property damage. Vaughan sued Menlove for negligence, alleging that Menlove failed to exercise reasonable care in maintaining the hayrick after being warned of the risk.
+
+At trial, Menlove argued that he had acted according to his best personal judgment and that he should not be liable unless he failed to act in good faith or according to his own level of intelligence. The jury found in favor of Vaughan. Menlove appealed, challenging the legal standard applied by the trial court.
+
+---
+
+ISSUE:
+
+Whether negligence should be determined based on a defendant’s subjective good-faith judgment and individual intelligence, or according to an objective “reasonable person” standard.
+
+---
+
+HOLDING:
+
+The Court of Common Pleas affirmed the judgment for Vaughan, holding that negligence is determined by an objective standard—what a reasonable and prudent person would have done under similar circumstances—not by the defendant’s subjective level of intelligence or good faith.
+
+---
+
+REASONING:
+
+Chief Justice Tindal delivered the opinion of the court. The defendant contended that liability should depend on whether he acted honestly and according to his best personal judgment. He argued that he should not be held responsible merely because his judgment was inferior to that of others.
+
+The court rejected this argument, emphasizing that adopting a subjective standard would create uncertainty and inconsistency in the law. If liability depended on each person’s individual intelligence or capacity, there would be no uniform measure of responsibility. Individuals with lower judgment or foresight could evade liability simply by claiming they acted to the best of their ability.
+
+Instead, the court established that the proper standard is objective: whether the defendant acted as a reasonable and prudent person would under similar circumstances. The repeated warnings given to Menlove demonstrated that a reasonable person would have recognized the risk of fire and taken preventive measures. Menlove’s decision to “chance it” constituted a failure to exercise reasonable care.
+
+The court emphasized the importance of a consistent legal standard to promote fairness and predictability. The reasonable person standard ensures that liability is based on socially acceptable conduct rather than personal characteristics.
+
+Vaughan v. Menlove is a foundational case in negligence law, firmly establishing the objective “reasonable person” standard that remains central to modern tort doctrine.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Objective Standard of Care: Negligence is judged by what a reasonable person would do under similar circumstances.
+2. Rejection of Subjective Standard: Personal judgment or intelligence does not determine liability.
+3. Foreseeability of Harm: Liability arises when a reasonable person would foresee the risk and take precautions.
+4. Uniformity in Tort Law: The reasonable person test ensures consistency and predictability in negligence cases.
+
+---
+
+KEY QUOTES:
+
+“Instead, therefore, of saying that the liability for negligence should be co-extensive with the judgment of each individual… it would be better to adhere to the rule which requires in all cases a regard to caution such as a man of ordinary prudence would observe.”
+
+“The question for the jury was whether the defendant had been guilty of negligence.”

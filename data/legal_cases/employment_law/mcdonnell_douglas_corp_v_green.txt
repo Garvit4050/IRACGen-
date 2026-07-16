@@ -1,0 +1,24 @@
+Case Name: McDonnell Douglas Corp. v. Green
+Citation: 411 U.S. 792 (1973)
+Court: Supreme Court of the United States
+
+FACTS:
+Percy Green, an African American, was laid off by McDonnell Douglas as part of a workforce reduction. Green engaged in protests against the company, including blocking access to the plant. Later, McDonnell Douglas advertised for mechanics, and Green applied but was not rehired. Green claimed race discrimination and retaliation.
+
+ISSUE:
+What is the framework for analyzing employment discrimination claims under Title VII?
+
+HOLDING:
+The Court established a three-part burden-shifting framework for discrimination cases.
+
+REASONING:
+First, plaintiff must establish prima facie case of discrimination. Second, employer must articulate legitimate, non-discriminatory reason for action. Third, plaintiff must prove the reason is pretextual.
+
+LEGAL PRINCIPLES:
+1. McDonnell Douglas burden-shifting framework
+2. Prima facie case requires: (1) protected class, (2) qualified, (3) adverse action, (4) circumstances suggesting discrimination
+3. Employer's burden of production, not persuasion
+4. Plaintiff retains ultimate burden of proving intentional discrimination
+
+SIGNIFICANCE:
+This case is a landmark precedent in its area of law and is regularly cited in legal analysis and court decisions.

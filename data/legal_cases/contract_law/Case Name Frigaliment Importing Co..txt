@@ -1,0 +1,66 @@
+Case Name: Frigaliment Importing Co. v. B.N.S. International Sales Corp.
+Citation: 190 F. Supp. 116 (S.D.N.Y. 1960)
+Court: United States District Court for the Southern District of New York
+Year: 1960
+Area: Contract Law (Interpretation / Ambiguity / Trade Usage)
+
+---
+
+FACTS:
+
+Frigaliment Importing Co., a Swiss company, entered into two contracts with B.N.S. International Sales Corp., an American seller, for the purchase of frozen “chicken.” The contracts specified quantities, weights, and prices but did not further define the term “chicken.” Frigaliment intended to purchase young broilers suitable for frying, while B.N.S. believed the contract included both young broilers and older stewing chickens.
+
+B.N.S. delivered one shipment consisting of young broilers and another consisting of older stewing chickens. Frigaliment accepted the first shipment but rejected the second, arguing that “chicken” meant only young broilers and that the stewing chickens did not conform to the contract.
+
+Frigaliment sued for breach of contract, claiming damages based on the alleged nonconforming goods. The case was tried before Judge Henry Friendly in the U.S. District Court for the Southern District of New York.
+
+The dispute centered on the meaning of the term “chicken” in the contract and whether the seller’s delivery of stewing chickens violated the agreement.
+
+---
+
+ISSUE:
+
+Whether the term “chicken” in the parties’ contract referred exclusively to young broilers suitable for frying, or whether it included older stewing chickens, and which party bore the burden of proving the intended meaning of the ambiguous term.
+
+---
+
+HOLDING:
+
+The court held that Frigaliment failed to prove that the term “chicken” was limited to young broilers. Because the word was ambiguous and the evidence did not establish a narrower meaning mutually understood by both parties, the seller’s interpretation was permissible. Judgment was entered in favor of B.N.S. International Sales Corp.
+
+---
+
+REASONING:
+
+Judge Friendly began by recognizing that the term “chicken” was ambiguous, as it could refer broadly to any chicken or narrowly to young broilers. Under contract interpretation principles, the court sought to determine the parties’ intent at the time of contracting.
+
+The court examined several sources of evidence:
+
+1. Dictionary Definitions: Dictionaries showed that “chicken” could include both young and mature birds, supporting the broader meaning.
+2. Trade Usage: Frigaliment argued that in the poultry trade, “chicken” meant young broilers. However, the evidence of trade usage was not sufficiently persuasive or universally accepted.
+3. Course of Dealing and Negotiations: Correspondence between the parties suggested that weight specifications were provided, which could have indicated different categories of poultry. However, the price differential and surrounding communications did not clearly establish a shared understanding limiting “chicken” to broilers.
+4. Burden of Proof: The court emphasized that the plaintiff bore the burden of proving its asserted interpretation of the contract term. Since Frigaliment claimed a narrower meaning, it had to demonstrate that this meaning was mutually understood or objectively dominant.
+
+Judge Friendly applied the objective theory of contracts, focusing on what a reasonable person in the position of the parties would have understood. Because the seller’s interpretation was reasonable and the plaintiff failed to prove a more limited meaning, the court ruled in favor of the seller.
+
+The decision illustrates the hierarchy of interpretive tools: plain meaning, trade usage, course of dealing, and surrounding circumstances. It also highlights the importance of drafting clarity and the allocation of the burden of proof in contract disputes involving ambiguous terms.
+
+The case is famously known as the “Chicken Case” and remains a leading authority on contractual ambiguity and interpretation.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Ambiguity in Contract Terms: When a term is reasonably susceptible to more than one meaning, extrinsic evidence may be used to determine intent.
+2. Burden of Proof: The party asserting a narrower interpretation bears the burden of proving that meaning.
+3. Objective Theory of Contracts: Interpretation is based on reasonable understanding, not undisclosed subjective intent.
+4. Hierarchy of Interpretive Evidence: Courts consider dictionary definitions, trade usage, course of dealing, and surrounding circumstances.
+
+---
+
+KEY QUOTES:
+
+“The issue is, what is chicken?”
+
+“Plaintiff has the burden of showing that ‘chicken’ was used in the narrower rather than the broader sense.”
+

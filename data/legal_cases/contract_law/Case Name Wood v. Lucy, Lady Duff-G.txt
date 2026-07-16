@@ -1,0 +1,61 @@
+Case Name: Wood v. Lucy, Lady Duff-Gordon
+Citation: 222 N.Y. 88, 118 N.E. 214 (N.Y. 1917)
+Court: Court of Appeals of New York
+Year: 1917
+Area: Contract Law (Implied Promise / Consideration)
+
+---
+
+FACTS:
+
+Lucy, Lady Duff-Gordon, was a well-known fashion designer and public figure who endorsed clothing and other fashion products. She entered into a written agreement with Otis F. Wood, granting him the exclusive right to market her name and endorsements in exchange for sharing profits derived from licensing and sales. Under the agreement, Wood was to receive one-half of the profits and revenues from any contracts he negotiated using Lady Duff-Gordon’s endorsement.
+
+The contract, however, did not expressly state that Wood was obligated to take any specific action to market or promote Lady Duff-Gordon’s designs. Later, Lady Duff-Gordon independently endorsed certain products and entered into contracts without Wood’s involvement. Wood sued her for breach of contract, claiming that she had violated his exclusive rights under the agreement.
+
+Lady Duff-Gordon argued that the contract lacked mutuality of obligation and therefore was unenforceable. She contended that because Wood had not expressly promised to do anything—such as use reasonable efforts to market her endorsements—there was no consideration, rendering the contract void.
+
+The lower court ruled in favor of Wood, but the Appellate Division reversed, agreeing with Lady Duff-Gordon that the contract lacked mutuality. Wood appealed to the New York Court of Appeals.
+
+---
+
+ISSUE:
+
+Whether an exclusive agency contract is enforceable when one party’s obligation is not expressly stated in the agreement, but may be implied from the nature and purpose of the contract.
+
+---
+
+HOLDING:
+
+The New York Court of Appeals, in an opinion by Judge Benjamin Cardozo, held that the contract was enforceable because Wood’s promise to use reasonable efforts to market Lady Duff-Gordon’s endorsements was implied from the circumstances. The court reversed the Appellate Division’s decision and reinstated the judgment in favor of Wood. The agreement was supported by valid consideration through the implied obligation.
+
+---
+
+REASONING:
+
+Judge Cardozo’s opinion emphasized that contracts must be interpreted in light of their purpose and the intent of the parties. Although Wood had not explicitly promised to market Lady Duff-Gordon’s designs, the exclusive nature of the agreement necessarily implied such a promise. Without an implied obligation to use reasonable efforts, the contract would be meaningless, as Wood’s compensation depended entirely on the profits generated from his marketing efforts.
+
+Cardozo rejected the formalistic view that mutuality requires express promises in every instance. Instead, he adopted a functional approach, recognizing that a promise may be implied from the structure and purpose of the agreement. The court reasoned that granting Wood exclusive rights deprived Lady Duff-Gordon of the ability to market her endorsements independently. Therefore, it was logical to infer that Wood had assumed a duty to use reasonable efforts to generate profits.
+
+The court explained that the law does not demand rigid verbal formulas to create binding obligations. Even if the contract was “instinct with an obligation” imperfectly expressed, that obligation could still be legally binding. Wood’s acceptance of exclusive rights and his entitlement to share profits implied a reciprocal duty to act in good faith and use reasonable efforts.
+
+This decision marked a significant shift away from strict formalism toward modern contract interpretation principles. It reinforced the concept that courts may imply terms necessary to give business efficacy to agreements and to reflect the reasonable expectations of the parties.
+
+The ruling laid the groundwork for later doctrines concerning implied duties, including the implied covenant of good faith and fair dealing, which ensures that parties act consistently with the agreed purpose of the contract.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Implied Promise Doctrine: Courts may imply a promise when necessary to give effect to the parties’ agreement.
+2. Consideration Through Implied Obligation: An exclusive agency agreement can be supported by consideration even without an express promise.
+3. Reasonable Efforts Standard: Exclusive contracts imply a duty to use reasonable efforts to fulfill the agreement’s purpose.
+4. Modern Contract Interpretation: Contracts are interpreted based on business efficacy and intent, not rigid formalism.
+
+---
+
+KEY QUOTES:
+
+“The law has outgrown its primitive stage of formalism when the precise word was the sovereign talisman, and every slip was fatal.”
+
+“A promise may be lacking, and yet the whole writing may be ‘instinct with an obligation,’ imperfectly expressed.”
+

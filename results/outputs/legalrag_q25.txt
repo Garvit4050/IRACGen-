@@ -1,0 +1,64 @@
+QUERY: When can police use deadly force against a fleeing suspect and what standard governs the use of such force?
+============================================================
+
+LEGAL MEMORANDUM
+
+============================================================
+
+ISSUE
+------------------------------------------------------------
+
+Whether, under the Fourth Amendment of the United States Constitution, police officers are authorized to employ deadly force against a fleeing suspect, and if so, what standard governs the use of such force, as elucidated in the landmark cases of Tennessee v. Garner (1985) and Mapp v. Ohio (1961). Specifically, this issue concerns the balance between the state's interest in apprehending a suspect and the individual's right to be free from excessive force, as well as the implications of the Supreme Court's rulings on these matters.
+
+============================================================
+
+RULE
+------------------------------------------------------------
+
+Under the Fourth Amendment of the United States Constitution, the use of deadly force by police officers against a fleeing suspect is governed by the principles established in Tennessee v. Garner (1985) and Mapp v. Ohio (1961).
+
+1. Tennessee v. Garner (1985) established that police officers may use deadly force only when it is necessary to prevent the escape of a suspect posing a significant threat of death or serious physical injury to the officer or others. The use of deadly force is justified if the officer has probable cause to believe that the suspect poses such a threat and if there are no other reasonable alternatives available to apprehend the suspect.
+
+   Tennessee v. Garner, 471 U.S. 1 (1985)
+   Holding: Police officers may use deadly force to prevent the escape of a fleeing suspect who poses a significant threat of death or serious physical injury.
+
+2. Mapp v. Ohio (1961) established the exclusionary rule, which prohibits the use of evidence obtained in violation of the Fourth Amendment's protections against unreasonable searches and seizures. This rule applies to evidence obtained through the use of excessive force, as well as evidence obtained through unlawful searches and seizures.
+
+   Mapp v. Ohio, 367 U.S. 643 (1961)
+   Holding: Evidence obtained in violation of the Fourth Amendment's protections against unreasonable searches and seizures is inadmissible in court.
+
+In addition to these cases, other relevant cases include Miranda v. Arizona (1966), which established the right to remain silent and the right to counsel during police interrogations, and Terry v. Ohio (1968), which established the "stop and frisk" exception to the Fourth Amendment's prohibition on unreasonable searches and seizures. Katz v. United States (1967) expanded the definition of a "search" under the Fourth Amendment to include electronic surveillance.
+
+These cases establish a balance between the state's interest in apprehending a suspect and the individual's right to be free from excessive force. The use of deadly force by police officers must be justified and reasonable under the circumstances, and any evidence obtained through the use of excessive force may be excluded from court.
+
+============================================================
+
+ANALYSIS
+------------------------------------------------------------
+
+In the context of the facts presented in Tennessee v. Garner (1985), the case at hand involves a police officer's use of deadly force against a fleeing suspect, Edward Garner. Here, the Supreme Court established that the use of deadly force is justified only when it is necessary to prevent the escape of a suspect who poses a significant threat of death or serious physical injury to the officer or others. In this case, Officer Elton Hymon observed Garner fleeing from a nighttime burglary scene, and, given the circumstances, it could be argued that Garner posed a threat to the officer or others. However, the Court also emphasized that the use of deadly force must be reasonable under the circumstances, and other reasonable alternatives for apprehending the suspect should be exhausted before resorting to deadly force.
+
+Similarly to Mapp v. Ohio (1961), the Fourth Amendment's protections against unreasonable searches and seizures are at play in Tennessee v. Garner. In Mapp, the Court established the exclusionary rule, which prohibits the use of evidence obtained in violation of the Fourth Amendment. If it is determined that the use of deadly force against Garner violated his Fourth Amendment rights, any evidence obtained as a result of that force may be excluded from court, as per the exclusionary rule.
+
+Miranda v. Arizona (1966) is also relevant to the analysis, as it establishes the right to remain silent and the right to counsel during police interrogations. If Garner were to be apprehended and questioned by the police, his rights under Miranda would apply, and any statements obtained in violation of those rights could be excluded from evidence.
+
+Terry v. Ohio (1968) and Katz v. United States (1967) further expand the Fourth Amendment's protections. Terry established the "stop and frisk" exception to the Fourth Amendment's prohibition on unreasonable searches and seizures, allowing police officers to briefly detain and search a suspect for weapons if they have a reasonable suspicion that the suspect is armed and dangerous. Katz expanded the definition of a "search" under the Fourth Amendment to include electronic surveillance. These cases underscore the importance of balancing the state's interest in apprehending a suspect with the individual's right to be free from unreasonable searches and seizures.
+
+The strongest counterargument to the use of deadly force against a fleeing suspect could be that the suspect poses no significant threat to the officer or others. In such a case, the use of deadly force would be considered excessive and unjustified. However, the Supreme Court has consistently held that the use of deadly force is justified when necessary to prevent the escape of a suspect who poses a significant threat.
+
+In conclusion, the use of deadly force against a fleeing suspect, as in Tennessee v. Garner, must be justified and reasonable under the circumstances. If the suspect poses a significant threat of death or serious physical injury, the use of deadly force may be justified. However, other reasonable alternatives for apprehending the suspect should be exhausted before resorting to deadly force. Additionally, any evidence obtained through the use of excessive force may be excluded from court, as per the exclusionary rule established in Mapp v. Ohio. The rights established in Miranda, Terry, and Katz further protect individuals from unreasonable searches and seizures and ensure a balance between the state's interest in apprehending a suspect and the individual's right to be free from excessive force.
+
+============================================================
+
+CONCLUSION
+------------------------------------------------------------
+
+In conclusion, the question of whether the use of deadly force by a law enforcement officer in the apprehension of a suspect is justified hinges on the specific circumstances of each case. As established in the analysis, the use of deadly force may be deemed justified in cases involving serious physical injury or the threat of imminent death or great bodily harm to the officer or another. However, it is crucial to note that before resorting to deadly force, all reasonable alternatives for apprehending the suspect should be exhausted.
+
+The analytical points summarized above underscore the importance of balancing the state's interest in apprehending a suspect with the individual's right to be free from excessive force. The rights established in landmark cases such as Mapp v. Ohio, Miranda, Terry, and Katz serve to protect individuals from unreasonable searches and seizures, ensuring that evidence obtained through the use of excessive force may be excluded from court.
+
+Based on the analysis, it is likely that the court would find that the use of deadly force was justified in cases where the officer had a reasonable belief that deadly force was necessary to prevent death or great bodily harm. However, if it is determined that the officer failed to exhaust reasonable alternatives before resorting to deadly force, or if the force used was excessive, the court would probably find that the use of deadly force was unjustified and any evidence obtained as a result would be excluded from court.
+
+There are genuine uncertainties in each case, as the specific circumstances and the officer's subjective beliefs about the necessity of deadly force will play a significant role in the court's decision. It is essential that law enforcement officers are thoroughly trained in the use of force and are held accountable for their actions to ensure that the balance between public safety and individual rights is maintained.
+
+============================================================

@@ -1,0 +1,42 @@
+QUERY: Is a contract formed when one party claims they were joking but a reasonable person would believe the offer was serious?
+============================================================
+
+ Title: Analysis of the Formation of a Contract When One Party Claims They Were Joking
+
+I. Introduction
+
+This legal memorandum aims to address the question of whether a contract is formed when one party claims they were joking, drawing upon relevant legal precedents. The analysis will be structured according to the IRAC (Issue, Rule, Analysis, Conclusion) format.
+
+II. Issue
+
+The central issue is whether a contract can be formed when one party claims they were joking, but a reasonable person would believe the offer was serious.
+
+III. Rule
+
+The rule to be applied is derived from the holding in the case of Lucy v. Zehmer (1954), where the Supreme Court of Virginia established that a contract is formed if a reasonable person would believe the offer was serious, regardless of the secret subjective intent of the parties involved. This principle is consistent with the general contract law principle that a contract is formed when there is a mutual agreement between parties, as evidenced in Carlill v. Carbolic Smoke Ball Company (1893).
+
+IV. Analysis
+
+In the scenario presented, if one party claims they were joking but a reasonable person would believe the offer was serious, the existence of a contract can be inferred. This is based on the principle established in Lucy v. Zehmer, where the court held that the mental assent of parties is not a requisite for the formation of a contract, as long as a reasonable person would believe the offer was serious.
+
+In Carlill v. Carbolic Smoke Ball Company, the court emphasized the importance of objective intent, stating that the offeror's subjective intent is irrelevant if a reasonable person would understand the offer as serious. This principle is applicable in the present scenario, as the party claiming to have been joking may have intended the offer as a joke, but if a reasonable person would believe it was serious, the offer can be considered as forming a contract.
+
+Further support for this analysis can be found in Lefkowitz v. Great Minneapolis Surplus Store, Inc. (1957), where the Supreme Court of Minnesota held that a contract can be formed through advertisements, even if the offeror did not intend the advertisement to be a serious offer. This case underscores the importance of objective interpretation, consistent with the principle established in Lucy v. Zehmer.
+
+V. Conclusion
+
+Based on the analysis of the relevant legal precedents, it can be concluded that a contract can be formed when one party claims they were joking, but a reasonable person would believe the offer was serious. This conclusion is grounded in the principle established in Lucy v. Zehmer, which emphasizes the importance of objective intent and the reasonable person standard in determining the formation of a contract.
+
+It is essential to note that while this memorandum provides a general analysis based on the presented scenario, each case must be evaluated on its unique facts and circumstances. Therefore, legal advice should be sought in specific situations to ensure an accurate determination of the existence of a contract.
+
+VI. Recommendation
+
+In light of the analysis, it is recommended that parties be cautious when making offers, even in jest, as they may inadvertently form a binding contract. It is also advisable to clearly communicate one's intentions to avoid any potential misunderstandings that could lead to the formation of an unwanted contract.
+
+VII. Citations
+
+Case 1: Carlill v. Carbolic Smoke Ball Company, [1893] 1 Q.B. 256 (C.A.)
+Case 2: Lucy v. Zehmer, 196 Va. 493 (1954)
+Case 3: Lefkowitz v. Great Minneapolis Surplus Store, Inc., 251 Minn. 188, 86 N.W.2d 689 (Minn. 1957)
+Case 4: Frigaliment Importing Co. v. B.N.S. International Sales Corp., 190 F. Supp. 116 (S.D.N.Y. 1960)
+Case 5: Jacob & Youngs, Inc. v. Kent, 230 N.Y. 239, 129 N.E. 889 (N.Y. 1921)

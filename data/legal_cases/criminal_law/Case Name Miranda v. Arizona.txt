@@ -1,0 +1,65 @@
+Case Name: Miranda v. Arizona
+Citation: 384 U.S. 436 (1966)
+Court: Supreme Court of the United States
+Year: 1966
+Area: Criminal Law (Constitutional Law – Fifth Amendment / Self-Incrimination / Police Interrogation)
+
+---
+
+FACTS:
+
+Ernesto Miranda was arrested in Phoenix, Arizona, on suspicion of kidnapping and rape. After approximately two hours of police interrogation at the stationhouse, he signed a written confession admitting involvement in the crimes. At no point before or during questioning was Miranda informed of his right to remain silent, that any statement could be used against him in court, or that he had the right to consult with an attorney. He did not request counsel, and no attorney was present during the interrogation.
+
+At trial, the prosecution introduced Miranda’s confession as evidence. He was convicted and sentenced to prison. Miranda appealed, arguing that the confession was obtained in violation of his Fifth Amendment privilege against self-incrimination.
+
+The Arizona Supreme Court affirmed the conviction, holding that Miranda’s constitutional rights were not violated because the confession appeared voluntary and there was no evidence of coercion. Miranda appealed to the United States Supreme Court, which consolidated his case with several others involving similar custodial interrogations.
+
+---
+
+ISSUE:
+
+Whether statements obtained from a suspect during custodial police interrogation are admissible when the suspect was not informed of the Fifth Amendment right to remain silent and the right to counsel.
+
+---
+
+HOLDING:
+
+The Supreme Court held that statements made during custodial interrogation are inadmissible unless law enforcement officers first inform the suspect of certain constitutional rights, including the right to remain silent, that anything said can be used against the suspect in court, the right to consult with an attorney, and the right to have an attorney present during questioning. The Court reversed Miranda’s conviction. The decision was 5–4.
+
+---
+
+REASONING:
+
+Chief Justice Earl Warren delivered the majority opinion. The Court began by examining the Fifth Amendment privilege against self-incrimination, which protects individuals from being compelled to testify against themselves. The Court determined that custodial interrogation inherently carries coercive pressures that may undermine the free exercise of this privilege.
+
+The Court emphasized that modern police interrogation techniques are psychologically compelling and can subtly coerce suspects into confessing. Even without physical force, the environment of custodial questioning exerts significant pressure on individuals.
+
+To safeguard constitutional rights, the Court established procedural requirements—now known as “Miranda warnings.” Before questioning begins, officers must inform suspects that:
+
+1. They have the right to remain silent.
+2. Anything they say can be used against them in court.
+3. They have the right to consult with an attorney and have the attorney present during questioning.
+4. If they cannot afford an attorney, one will be appointed.
+
+The Court reasoned that unless these safeguards are provided and a valid waiver is obtained, any resulting statement is presumed compelled and therefore inadmissible.
+
+The dissent argued that the majority created unnecessary procedural rules not explicitly found in the Constitution and that voluntariness should remain the primary test.
+
+The decision fundamentally reshaped American criminal procedure, ensuring that suspects are informed of their rights before custodial interrogation.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Miranda Warning Requirement: Police must advise suspects of their constitutional rights before custodial interrogation.
+2. Custodial Interrogation Standard: Safeguards apply when a suspect is both in custody and subject to questioning.
+3. Fifth Amendment Protection: The privilege against self-incrimination extends to police interrogation settings.
+4. Exclusionary Rule Application: Statements obtained without proper warnings are generally inadmissible in the prosecution’s case-in-chief.
+
+---
+
+KEY QUOTES:
+
+“The prosecution may not use statements, whether exculpatory or inculpatory, stemming from custodial interrogation of the defendant unless it demonstrates the use of procedural safeguards effective to secure the privilege against self-incrimination.”
+
+“The privilege against self-incrimination is fulfilled only when the person is guaranteed the right ‘to remain silent unless he chooses to speak in the unfettered exercise of his own will.’”

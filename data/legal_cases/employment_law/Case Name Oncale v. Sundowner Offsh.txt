@@ -1,0 +1,68 @@
+Case Name: Oncale v. Sundowner Offshore Services, Inc.
+Citation: 523 U.S. 75
+Court: Supreme Court of the United States
+Year: 1998
+Area: Employment Law (Title VII – Sexual Harassment)
+
+---
+
+FACTS:
+
+Joseph Oncale was employed by Sundowner Offshore Services, Inc., working on an oil platform in the Gulf of Mexico. Oncale alleged that he was subjected to repeated acts of sexual harassment by male co-workers, including physical assault of a sexual nature, humiliating sex-related actions, and explicit threats of rape. He further alleged that supervisory personnel were aware of the harassment but failed to intervene effectively.
+
+Oncale eventually resigned from his position, claiming that the working conditions had become intolerable due to the harassment. He then filed suit in federal district court under Title VII of the Civil Rights Act of 1964, alleging sex discrimination in the form of same-sex sexual harassment.
+
+The district court granted summary judgment in favor of Sundowner Offshore Services. It reasoned that Title VII did not apply to same-sex harassment because the statute was primarily intended to address discrimination between men and women. The United States Court of Appeals for the Fifth Circuit affirmed, holding that same-sex harassment claims were not actionable under Title VII unless there was evidence of homosexual desire or that the victim was being treated differently from members of the opposite sex.
+
+Oncale appealed to the Supreme Court, which granted certiorari to resolve whether Title VII’s prohibition on discrimination “because of… sex” encompasses same-sex sexual harassment.
+
+---
+
+ISSUE:
+
+Whether Title VII’s prohibition against discrimination “because of… sex” applies to same-sex sexual harassment in the workplace, even when both the harasser and the victim are members of the same sex.
+
+---
+
+HOLDING:
+
+The Supreme Court unanimously held that Title VII does apply to same-sex sexual harassment, provided the plaintiff can prove that the harassment occurred “because of… sex.” The Court reversed the judgment of the Fifth Circuit and remanded the case for further proceedings. Justice Scalia delivered the opinion of the Court, emphasizing that statutory protections extend to all forms of discrimination that meet the statutory language, even if such applications were not specifically anticipated by Congress at the time of enactment.
+
+---
+
+REASONING:
+
+Justice Scalia, writing for a unanimous Court, began by focusing on the plain language of Title VII, which prohibits discrimination “because of… sex.” The Court reasoned that nothing in the statutory text limits the prohibition to opposite-sex harassment. The critical inquiry is whether members of one sex are exposed to disadvantageous terms or conditions of employment to which members of the other sex are not exposed.
+
+The Court rejected the argument that Title VII was intended only to address male-female harassment. Instead, it emphasized that statutory interpretation must be guided by the text rather than assumptions about legislative intent or social expectations at the time of enactment. Scalia noted that statutory prohibitions often extend beyond the principal evils Congress had in mind.
+
+However, the Court clarified that not all workplace conduct with sexual content is actionable. Title VII does not establish a “general civility code.” The harassment must be severe or pervasive enough to create an objectively hostile or abusive work environment. Additionally, the plaintiff must show that the harassment occurred because of sex.
+
+The Court outlined several evidentiary routes for proving same-sex harassment “because of sex”:
+
+1. Evidence that the harasser was motivated by sexual desire.
+2. Evidence of general hostility toward a particular gender in the workplace.
+3. Comparative evidence showing differential treatment of one sex.
+
+Policy considerations also informed the Court’s reasoning. The decision ensured equal protection under Title VII without expanding the statute beyond its text. By focusing on whether the conduct constituted discrimination based on sex, the Court maintained doctrinal consistency while preventing arbitrary exclusions.
+
+The Court distinguished prior lower court interpretations that imposed categorical limitations on Title VII coverage. Instead of creating a new doctrine, the Court reaffirmed established hostile work environment principles and applied them neutrally across genders.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Same-Sex Harassment Doctrine: Title VII applies to harassment between members of the same sex if it occurs “because of sex.”
+2. Textual Interpretation Rule: Statutory interpretation must follow the plain language, even if applications were not anticipated by Congress.
+3. Hostile Work Environment Standard: Conduct must be severe or pervasive and objectively abusive to violate Title VII.
+4. Not a General Civility Code: Title VII does not regulate ordinary workplace teasing or offhand comments.
+
+---
+
+KEY QUOTES:
+
+ “Nothing in Title VII necessarily bars a claim of discrimination ‘because of… sex’ merely because the plaintiff and the defendant are of the same sex.”
+
+ “Title VII is not a general civility code for the American workplace.”
+
+

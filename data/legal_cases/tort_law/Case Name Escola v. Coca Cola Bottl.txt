@@ -1,0 +1,61 @@
+Case Name: Escola v. Coca Cola Bottling Co.
+Citation: 24 Cal. 2d 453, 150 P.2d 436 (Cal. 1944)
+Court: Supreme Court of California
+Year: 1944
+Area: Tort Law (Products Liability / Negligence / Strict Liability Concurrence)
+
+---
+
+FACTS:
+
+Gladys Escola was a waitress at a restaurant in California. While she was placing several Coca-Cola bottles into a refrigerator, one of the bottles suddenly exploded in her hand, severely injuring her. The bottle had been manufactured and bottled by Coca Cola Bottling Company. There was no direct evidence that the company had been negligent in bottling or handling the product, and the bottle had not appeared visibly defective before it shattered.
+
+Escola sued the bottling company, alleging negligence in the manufacturing process. At trial, the plaintiff relied on the doctrine of *res ipsa loquitur*, arguing that bottles do not ordinarily explode without negligence and that the bottle had not been mishandled after leaving the defendant’s control.
+
+The jury returned a verdict in favor of Escola. The defendant appealed, arguing that there was insufficient evidence of negligence and that the doctrine of *res ipsa loquitur* was improperly applied.
+
+The California Supreme Court reviewed whether negligence could be inferred and whether the bottling company could be held liable under the circumstances.
+
+---
+
+ISSUE:
+
+Whether a manufacturer may be held liable for injuries caused by an exploding product under a negligence theory supported by *res ipsa loquitur*, and whether public policy supports imposing strict liability on manufacturers for defective products.
+
+---
+
+HOLDING:
+
+The California Supreme Court affirmed the judgment in favor of Escola, holding that the doctrine of *res ipsa loquitur* permitted the jury to infer negligence from the exploding bottle. In a concurring opinion, Justice Roger Traynor argued that manufacturers should be held strictly liable for defective products placed into the stream of commerce, even without proof of negligence.
+
+---
+
+REASONING:
+
+The majority opinion held that the circumstances justified application of *res ipsa loquitur*. The doctrine applies when (1) the accident is of a kind that ordinarily does not occur in the absence of negligence, (2) the instrumentality was within the defendant’s exclusive control, and (3) the plaintiff did not contribute to the harm.
+
+The court found that glass bottles do not ordinarily explode without some defect in manufacturing or handling. Although the bottle was not physically in the defendant’s possession at the time of the explosion, the court reasoned that the bottling process was under the defendant’s control and that there was no evidence of mishandling after delivery. Therefore, negligence could reasonably be inferred.
+
+Justice Traynor’s concurrence became more influential than the majority opinion. He argued that requiring injured consumers to prove negligence was unnecessarily burdensome and inconsistent with modern industrial production. Manufacturers are better positioned to prevent defects and to spread the cost of injuries through pricing and insurance. Therefore, public policy supports imposing strict liability on manufacturers when products placed on the market prove defective and cause injury.
+
+Traynor emphasized consumer protection and risk distribution, asserting that the costs of injuries resulting from defective products should be borne by manufacturers rather than injured consumers. Although strict liability was not formally adopted in this case, Traynor’s reasoning later became the foundation for modern products liability law, particularly in Greenman v. Yuba Power Products, Inc.
+
+The decision represents a transitional moment in tort law, bridging negligence-based liability and the emergence of strict products liability.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Res Ipsa Loquitur Application: Negligence may be inferred when an accident ordinarily would not occur absent negligence and the instrumentality was under defendant’s control.
+2. Manufacturer’s Duty of Care: Manufacturers owe a duty to ensure products are safely manufactured before entering the stream of commerce.
+3. Strict Liability Foundation (Concurrence): Public policy supports holding manufacturers strictly liable for defective products.
+4. Risk Distribution Theory: Losses from defective products should be borne by manufacturers who can spread costs, not by injured consumers.
+
+---
+
+KEY QUOTES:
+
+“The doctrine of res ipsa loquitur applies when the accident is such as in the ordinary course of things does not happen if those who have the management use proper care.”
+
+(Traynor, J., concurring) “Even if there is no negligence, however, public policy demands that responsibility be fixed wherever it will most effectively reduce the hazards to life and health inherent in defective products.”
+

@@ -1,0 +1,63 @@
+Case Name: Tennessee v. Garner
+Citation: 471 U.S. 1 (1985)
+Court: Supreme Court of the United States
+Year: 1985
+Area: Criminal Law (Fourth Amendment – Use of Deadly Force / Seizure)
+
+---
+
+FACTS:
+
+On October 3, 1974, Memphis police officers responded to a nighttime burglary call. Officer Elton Hymon arrived at the scene and observed a suspect, later identified as 15-year-old Edward Garner, fleeing the backyard of a house. Garner appeared unarmed. Hymon called out for Garner to halt, but Garner continued climbing a fence to escape.
+
+Believing Garner would evade capture, Officer Hymon shot him in the back of the head, killing him. A search revealed that Garner had stolen $10 and a purse from the house. At the time, Tennessee law authorized the use of deadly force to prevent the escape of a fleeing felon.
+
+Garner’s father filed a civil rights lawsuit under 42 U.S.C. § 1983, alleging that the shooting violated the Fourth Amendment’s prohibition against unreasonable seizures. The lower federal courts held that the Tennessee statute was unconstitutional insofar as it permitted deadly force against an unarmed fleeing suspect.
+
+The case was appealed to the United States Supreme Court.
+
+---
+
+ISSUE:
+
+Whether the Fourth Amendment permits a law enforcement officer to use deadly force to prevent the escape of an unarmed, non-dangerous fleeing felony suspect.
+
+---
+
+HOLDING:
+
+The Supreme Court held that the use of deadly force to prevent the escape of an unarmed, non-dangerous suspect violates the Fourth Amendment. Deadly force may not be used unless the officer has probable cause to believe the suspect poses a significant threat of death or serious physical injury to the officer or others. The Court affirmed the lower court’s ruling. The decision was 6–3.
+
+---
+
+REASONING:
+
+Justice Byron White delivered the majority opinion. The Court first determined that the use of deadly force constitutes a “seizure” under the Fourth Amendment because it terminates the suspect’s freedom of movement. Therefore, it must be reasonable.
+
+The Court applied a balancing test, weighing the suspect’s fundamental interest in life and bodily integrity against the government’s interest in effective law enforcement. Historically, the common law permitted deadly force against fleeing felons, but the Court noted that the classification of felonies had expanded significantly since the common law era, encompassing many nonviolent offenses.
+
+The Court reasoned that shooting an unarmed suspect who poses no immediate threat is an excessive and unreasonable means of preventing escape. The governmental interest in apprehension does not justify the use of lethal force in such circumstances.
+
+However, the Court recognized an exception: if an officer has probable cause to believe that the suspect poses a threat of serious physical harm—either to the officer or to others—deadly force may be constitutionally reasonable. In such cases, warning, where feasible, should precede the use of force.
+
+The dissent argued that the Court improperly substituted its judgment for that of state legislatures and law enforcement officials.
+
+Tennessee v. Garner established constitutional limits on police use of deadly force and reshaped law enforcement policies nationwide.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Deadly Force as Seizure: The use of deadly force constitutes a Fourth Amendment seizure and must be reasonable.
+2. Significant Threat Requirement: Deadly force is permissible only when the suspect poses a serious threat of death or bodily harm.
+3. Balancing Test: Courts balance the individual’s interest in life against governmental law enforcement interests.
+4. Limitation of Fleeing Felon Rule: The common-law rule allowing deadly force against any fleeing felon is unconstitutional when applied to non-dangerous suspects.
+
+---
+
+KEY QUOTES:
+
+“The use of deadly force to prevent the escape of all felony suspects, whatever the circumstances, is constitutionally unreasonable.”
+
+“A police officer may not seize an unarmed, non-dangerous suspect by shooting him dead.”
+

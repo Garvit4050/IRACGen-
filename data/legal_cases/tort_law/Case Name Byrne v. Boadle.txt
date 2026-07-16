@@ -1,0 +1,60 @@
+Case Name: Byrne v. Boadle
+Citation: (1863) 2 Hurl. & C. 722, 159 Eng. Rep. 299 (Exch.)
+Court: Court of Exchequer (England)
+Year: 1863
+Area: Tort Law (Negligence / Res Ipsa Loquitur)
+
+---
+
+FACTS:
+
+The plaintiff, Byrne, was walking along a public street in front of the defendant Boadle’s flour shop. Without warning, a barrel of flour fell from a warehouse window above the shop and struck Byrne, causing serious injury.
+
+There was no direct evidence explaining how or why the barrel fell. Byrne could not identify any specific negligent act by the defendant or his employees. However, the barrel had been stored inside the defendant’s premises and was under the management and control of the defendant and his staff.
+
+Byrne filed a negligence action against Boadle. At trial, the court nonsuited the plaintiff, holding that Byrne had failed to present affirmative evidence of negligence. The trial judge concluded that there was no proof of specific wrongdoing by the defendant.
+
+Byrne appealed, arguing that the mere occurrence of such an accident justified an inference of negligence, even in the absence of direct evidence.
+
+---
+
+ISSUE:
+
+Whether negligence may be inferred from the mere occurrence of an accident when the instrumentality causing harm was under the defendant’s control and the accident is of a kind that ordinarily does not occur without negligence.
+
+---
+
+HOLDING:
+
+The Court of Exchequer held that negligence could be inferred from the circumstances of the accident. The court ruled that the plaintiff did not need to prove specific acts of negligence because barrels of flour do not ordinarily fall from warehouses without negligence. The nonsuit was set aside, allowing the case to proceed.
+
+---
+
+REASONING:
+
+Chief Baron Pollock delivered the opinion of the court. The court reasoned that certain types of accidents, by their very nature, provide sufficient circumstantial evidence of negligence. A barrel falling from a warehouse window is not an event that typically occurs if proper care is exercised.
+
+The court rejected the argument that the plaintiff must identify a specific negligent act. Instead, it emphasized that the facts themselves could “speak for themselves.” When the instrumentality causing the injury is under the exclusive control of the defendant and the accident would not ordinarily occur without negligence, an inference of negligence is permissible.
+
+This reasoning laid the foundation for the doctrine of *res ipsa loquitur* (“the thing speaks for itself”). The doctrine allows a plaintiff to survive dismissal and reach the jury without direct proof of negligence, provided certain conditions are met.
+
+The court highlighted fairness considerations: requiring plaintiffs to prove specific acts of negligence in situations where the defendant controls the relevant evidence would often make recovery impossible. Since the defendant was in a better position to explain how the barrel fell, it was reasonable to allow an inference of negligence.
+
+The decision marked a significant development in tort law by recognizing that circumstantial evidence can suffice to establish a prima facie case of negligence. Byrne v. Boadle remains a foundational case for the *res ipsa loquitur* doctrine.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Res Ipsa Loquitur Doctrine: Negligence may be inferred when the accident is of a kind that ordinarily does not occur without negligence.
+2. Exclusive Control Requirement: The instrumentality causing harm must have been under the defendant’s control.
+3. Circumstantial Evidence Sufficiency: Direct evidence of specific negligent acts is not always required.
+4. Burden-Shifting Effect: The inference permits the case to go to the jury and may shift the burden of explanation to the defendant.
+
+---
+
+KEY QUOTES:
+
+“There are certain cases in which it may be said res ipsa loquitur.”
+
+“A barrel could not roll out of a warehouse without some negligence.”

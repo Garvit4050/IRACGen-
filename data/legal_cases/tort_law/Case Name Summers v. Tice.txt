@@ -1,0 +1,57 @@
+Case Name: Summers v. Tice
+Citation: 33 Cal. 2d 80, 199 P.2d 1 (Cal. 1948)
+Court: Supreme Court of California
+Year: 1948
+Area: Tort Law (Negligence / Alternative Liability / Causation)
+
+---
+
+FACTS:
+
+Charles Summers went quail hunting with two companions, Tice and Simonson. During the hunt, Summers was positioned slightly ahead and to the side of the other two men. At one point, a quail flushed from the ground, and both Tice and Simonson simultaneously fired their shotguns in Summers’ direction. As a result, Summers was struck in the eye and lip by shotgun pellets, suffering serious injuries.
+
+Medical evidence established that only one of the defendants’ shots had caused the injuries, but it was impossible to determine which one. Both Tice and Simonson were negligent because they fired in Summers’ direction without ensuring he was out of range. However, Summers could not prove which defendant’s negligence was the actual cause of his injuries.
+
+Summers filed suit against both hunters. The trial court found both defendants negligent but held that because Summers could not prove which defendant caused the injury, he failed to establish causation as required under traditional tort principles. Summers appealed to the California Supreme Court.
+
+---
+
+ISSUE:
+
+Whether, when two negligent defendants independently cause harm but only one actually inflicted the injury and it is impossible to determine which one, the burden of proof regarding causation shifts to the defendants.
+
+---
+
+HOLDING:
+
+The Supreme Court of California held that when two defendants are both negligent and it is certain that one of them caused the injury, the burden shifts to the defendants to prove that they did not cause the harm. Because neither defendant could exonerate himself, both were held jointly and severally liable. The judgment was reversed, and the case was remanded for entry of judgment consistent with this rule.
+
+---
+
+REASONING:
+
+Justice Traynor delivered the opinion of the court. The court acknowledged that under traditional tort principles, the plaintiff bears the burden of proving causation. However, rigid application of that rule would result in injustice in this case. Summers had clearly established that both defendants acted negligently and that his injury was caused by one of them. The uncertainty regarding which defendant caused the injury arose not from any fault of the plaintiff but from the defendants’ simultaneous negligent conduct.
+
+The court reasoned that fairness required shifting the burden of proof to the defendants. Since both defendants were negligent and both were in a better position to provide evidence regarding whose shot caused the injury, they should bear the risk of uncertainty. If either defendant could demonstrate that he did not cause the injury, he could avoid liability. However, if neither could do so, both would be held liable.
+
+The court emphasized policy considerations: allowing both negligent defendants to escape liability simply because the plaintiff could not prove causation would undermine the deterrent function of tort law. The rule ensures that negligent actors do not benefit from evidentiary uncertainty created by their own wrongful conduct.
+
+The decision created the doctrine of alternative liability, a significant development in tort law. It represents an exception to the traditional causation requirement, promoting fairness and accountability where multiple negligent defendants are involved and causation cannot be precisely determined.
+
+---
+
+LEGAL PRINCIPLES:
+
+1. Alternative Liability Doctrine: When multiple negligent defendants could have caused the harm and only one did, the burden shifts to the defendants to prove non-causation.
+2. Burden-Shifting in Causation: The plaintiff need not prove which defendant caused the injury when all defendants acted negligently.
+3. Joint and Several Liability: If defendants cannot exonerate themselves, each may be held liable for the entire harm.
+4. Policy of Deterrence and Fairness: Courts prevent negligent defendants from escaping liability due to evidentiary uncertainty they created.
+
+---
+
+KEY QUOTES:
+
+“When two defendants are negligent, and it is certain that one of them caused the injury, the burden is upon each such defendant to absolve himself if he can.”
+
+“The injustice of permitting proved wrongdoers to escape liability because the nature of their conduct has made it impossible to prove which one caused the harm.”
+

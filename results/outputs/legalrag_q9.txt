@@ -1,0 +1,68 @@
+QUERY: Is a contract formed when one party claims they were joking but a reasonable person would believe the offer was serious?
+============================================================
+
+LEGAL MEMORANDUM
+
+============================================================
+
+ISSUE
+------------------------------------------------------------
+
+Whether a contract is formed when one party claims they were joking, but a reasonable person would believe the offer was serious, as demonstrated in the case of Lucy v. Zehmer (1954), where the defendant, Zehmer, wrote an agreement to sell a farm for $50,000 while under the influence of alcohol, subsequently claiming it was a joke, while the plaintiff, Lucy, sought specific performance. This issue also pertains to unilateral contracts, as illustrated in the case of Carlill v. Carbolic Smoke Ball Company (1893), where the court had to determine whether a contract was formed when the defendant company offered a reward for anyone who contracted flu and used their product, and the plaintiff, Carlill, fulfilled the conditions of the offer, despite the defendant's claim that the offer was a joke or hoax. The central question in both cases revolves around the formation of a contract and the intent of the parties involved.
+
+============================================================
+
+RULE
+------------------------------------------------------------
+
+In contract law, a valid agreement can be formed even if one party claims they were joking, as long as a reasonable person would believe the offer was serious. This principle is derived from the case of Lucy v. Zehmer, 196 Va. 493 (1954), where the court held that a contract is formed if a reasonable person would believe the offer was serious, regardless of the intentions of the party who made the offer.
+
+Furthermore, in a unilateral contract, the formation of a contract is not contingent on the mutual understanding of the parties. As established in the case of Carlill v. Carbolic Smoke Ball Company, [1893] 1 Q.B. 256 (C.A.), a contract is formed when the conditions of the offer are fulfilled, even if the offering party claims the offer was a joke or hoax.
+
+However, it is important to note that in cases of mutual mistake, a contract may not be enforceable. This was demonstrated in Raffles v. Wichelhaus (The “Peerless” Case), (1864) 2 Hurl. & C. 906, 159 Eng. Rep. 375, where the court held that a contract is voidable if both parties share a common but incorrect assumption about a fact that is essential to the agreement.
+
+Additionally, in the context of advertisements, an offer can be considered as a serious invitation to treat, rather than a firm offer. This was established in Lefkowitz v. Great Minneapolis Surplus Store, Inc., 251 Minn. 188, 86 N.W.2d 689 (Minn. 1957), where the court held that an advertisement offering goods on a "first come, first served" basis does not constitute a unilateral contract, but rather an invitation to negotiate.
+
+Lastly, in cases of ambiguity or trade usage, the court will interpret the contract based on the reasonable expectations of the parties. This was demonstrated in Frigaliment Importing Co. v. B.N.S. International Sales Corp., 190 F. Supp. 116 (S.D.N.Y. 1960), where the court held that the ambiguous terms of the contract should be interpreted in accordance with trade usage.
+
+In summary, a contract can be formed even if one party claims they were joking, as long as a reasonable person would believe the offer was serious. However, in cases of mutual mistake, the contract may not be enforceable. Additionally, advertisements may not constitute a unilateral contract, and ambiguous terms should be interpreted based on trade usage.
+
+============================================================
+
+ANALYSIS
+------------------------------------------------------------
+
+In the context of the presented cases, it is evident that the formation of a contract can be complex, particularly when one party claims they were joking, or the offer appears ambiguous. Here, we will apply the established rules to the specific facts of each case and analyze the applicable legal tests.
+
+Firstly, in Lucy v. Zehmer (1954), Zehmer wrote an agreement to sell a farm to Lucy for $50,000 while under the influence of alcohol, subsequently claiming it was a joke. Lucy sought specific performance. In this case, a reasonable person might believe that Zehmer's offer was serious, given the written agreement and the substantial sum involved. Thus, applying the rule from Lucy v. Zehmer, a contract was likely formed, regardless of Zehmer's intentions.
+
+Similarly to Carlill v. Carbolic Smoke Ball Company (1893), the defendant company offered a reward for anyone who contracted flu and used their product. The plaintiff, Carlill, fulfilled the conditions of the offer, despite the defendant's claim that the offer was a joke or hoax. Here, the conditions of the offer were fulfilled, indicating a valid contract formation, as established in Carlill v. Carbolic Smoke Ball Company.
+
+However, in Raffles v. Wichelhaus (The “Peerless” Case) (1864), both parties shared a common but incorrect assumption about a fact essential to the agreement, leading to a mutual mistake. This case demonstrates that, while a contract may be formed under the principles of Lucy v. Zehmer and Carlill v. Carbolic Smoke Ball Company, it may still be voidable due to mutual mistake, as established in Raffles v. Wichelhaus.
+
+In Lefkowitz v. Great Minneapolis Surplus Store, Inc. (1957), an advertisement offering goods on a "first come, first served" basis does not constitute a unilateral contract, but rather an invitation to negotiate. This case highlights that advertisements may not always create a binding contract, as they can be considered invitations to treat rather than offers.
+
+Lastly, in Frigaliment Importing Co. v. B.N.S. International Sales Corp. (1960), ambiguous terms of the contract should be interpreted based on trade usage. This case underscores the importance of considering trade usage when interpreting ambiguous terms in a contract.
+
+Addressing the strongest counterargument, one might argue that a contract should not be formed if one party clearly states it was a joke. However, the law recognizes that a reasonable person might still perceive a serious offer, even if one party claims it was a joke. This principle, as established in Lucy v. Zehmer, ensures that parties cannot evade contractual obligations by claiming they were joking.
+
+In conclusion, while the formation of a contract can be complex, the principles established in Lucy v. Zehmer, Carlill v. Carbolic Smoke Ball Company, Raffles v. Wichelhaus, Lefkowitz v. Great Minneapolis Surplus Store, Inc., and Frigaliment Importing Co. v. B.N.S. International Sales Corp. provide guidance for determining whether a contract has been formed. It is essential to consider the intentions of the parties, the presence of mutual mistake, the nature of the offer (invitation to treat or offer), and trade usage when analyzing contract formation.
+
+============================================================
+
+CONCLUSION
+------------------------------------------------------------
+
+In addressing the question of contract formation, the case law principles established in Lucy v. Zehmer, Carlill v. Carbolic Smoke Ball Company, Raffles v. Wichelhaus, Lefkowitz v. Great Minneapolis Surplus Store, Inc., and Frigaliment Importing Co. v. B.N.S. International Sales Corp. offer valuable insights. The key analytical points to consider when determining whether a contract has been formed include the intentions of the parties, the presence of mutual mistake, the nature of the offer (invitation to treat or offer), and trade usage.
+
+The intentions of the parties are crucial in contract formation. If the parties' intentions can be inferred from their words and actions, a contract is likely to exist. However, if the parties' intentions are ambiguous, a court may consider extrinsic evidence to clarify their intentions.
+
+Mutual mistake can also impact contract formation. If both parties hold a mistaken belief regarding a significant aspect of the contract, the contract may be voidable or void. The court would find that a contract is voidable if the mistake was made by one party and the other party knew or should have known about the mistake, or if the mistake was mutual and the parties would not have entered into the contract if they had known the truth.
+
+The nature of the offer is another important factor. An invitation to treat is not a binding offer, while an offer is a promise to perform a specific act in the future. The court would find that a contract has been formed if there is a clear intention to create a legal obligation, even if the offer was initially made as a joke.
+
+Trade usage, or customary business practices, may also be relevant in contract formation. If the parties' conduct conforms to trade usage, it may be evidence of their intent to create a contract. However, trade usage does not automatically create a contract, and the parties' conduct must still demonstrate a clear intention to be bound.
+
+In conclusion, while there may be uncertainties in determining contract formation, the principles outlined above provide a framework for analysis. The court would likely find that a contract has been formed if the parties' intentions can be inferred, there is no mutual mistake, the offer was intended to create a legal
+
+============================================================

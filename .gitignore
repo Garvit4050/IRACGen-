@@ -1,0 +1,37 @@
+# Virtual Environment - Never upload this
+venv/
+env/
+.env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files - Too large for GitHub
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.dll
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Large data files
+*.zip
+*.rar
+*.tar.gz
+*.pkl
+*.h5

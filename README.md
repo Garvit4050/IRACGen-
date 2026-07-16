@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LegalRAG: Modular RAG System for Legal Memorandum Generation
 
 ## Overview
@@ -173,3 +174,7 @@ Academic use only. Not for commercial deployment.
 ## Contact
 
 For questions regarding this implementation, please contact the author.
+=======
+# IRACGen-
+A Modular RAG System for Legal Memoranda
+>>>>>>> ef2aa1121bda5fb814022546cdc2f986d28c45bf

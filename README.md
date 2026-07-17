@@ -161,9 +161,9 @@ Edit `config.yaml` to modify:
 ## Citation
 
 ```
-Author: [Your Name]
+Author: Garvit Bhardwaj
 Title: LegalRAG: Modular RAG System for Legal Memorandum Generation
-Institution: [Your University]
+Institution: University Institue of Engineering and Technology, Panjab University Chandigarh
 Year: 2026
 ```
 
